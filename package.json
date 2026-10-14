@@ -1,0 +1,25 @@
+{
+  "name": "beatsaber-llm-mapper",
+  "version": "1.0.0",
+  "description": "基于神经符号系统 (Neuro-Symbolic) 的高保真谱面铺底引擎与 Web 3D 辅助工作台",
+  "type": "module",
+  "scripts": {
+    "serve": "node src/server.js",
+    "test:transpiler": "node src/transpiler/test.js",
+    "test:linter": "node src/linter/test.js",
+    "pipeline": "node run_pipeline.js"
+  },
+  "keywords": [
+    "beatsaber",
+    "llm",
+    "neuro-symbolic",
+    "threejs",
+    "music-game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.2",
+    "three": "^0.170.0"
+  }
+}

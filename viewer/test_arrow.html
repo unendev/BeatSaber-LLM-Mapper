@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test Canvas Arrow</title></head>
+<body style="background:#222; display:flex; gap:10px; padding:20px;">
+<script>
+const DIR_ANGLES = {
+  0: Math.PI,         // Up
+  1: 0,               // Down
+  2: -Math.PI / 2,    // Left
+  3: Math.PI / 2,     // Right
+  4: (3 * Math.PI) / 4, // Up-Left
+  5: -(3 * Math.PI) / 4,// Up-Right
+  6: Math.PI / 4,       // Down-Left
+  7: -Math.PI / 4       // Down-Right
+};
+
+for (let dir = 0; dir <= 8; dir++) {
+  const canvas = document.createElement('canvas');
+  canvas.width = 128;
+  canvas.height = 128;
+  const ctx = canvas.getContext('2d');
+  
+  // Background
+  ctx.fillStyle = '#0ea5e9';
+  ctx.fillRect(0, 0, 128, 128);
+  
+  // Border
+  ctx.strokeStyle = '#38bdf8';
+  ctx.lineWidth = 6;
+  ctx.strokeRect(3, 3, 122, 122);
+  
+  ctx.save();
+  ctx.translate(64, 64);
+  if (dir === 8) {
+    ctx.fillStyle = '#ffffff';
+    ctx.beginPath();
+    ctx.arc(0, 0, 24, 0, Math.PI * 2);
+    ctx.fill();
+  } else {
+    ctx.rotate(DIR_ANGLES[dir]);
+    ctx.fillStyle = '#ffffff';
+    // Draw clear triangle arrow pointing DOWN by default (so when angle is 0, it points DOWN)
+    ctx.beginPath();
+    ctx.moveTo(0, 36);      // tip pointing down
+    ctx.lineTo(32, -18);   // top right
+    ctx.lineTo(12, -12);   // inner notch right
+    ctx.lineTo(12, -36);   // stem top right
+    ctx.lineTo(-12, -36);  // stem top left
+    ctx.lineTo(-12, -12);  // inner notch left
+    ctx.lineTo(-32, -18);  // top left
+    ctx.closePath();
+    ctx.fill();
+  }
+  ctx.restore();
+  document.body.appendChild(canvas);
+}
+</script>
+</body>
+</html>

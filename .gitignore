@@ -1,0 +1,32 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Heavy Audio & Zip Assets (Keep demo ogg and metadata dat/dsl)
+dataset/*.wav
+dataset/*.zip
+*.wav
+*.zip
+
+# Logs & Debugging
+debug.log
+*.log
+
+# Environment variables & secrets
+.env
+.env.*
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

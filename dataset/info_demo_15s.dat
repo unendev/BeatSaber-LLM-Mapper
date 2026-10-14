@@ -1,0 +1,31 @@
+{
+  "_version": "2.0.0",
+  "_songName": "AKASAKI - Shake Na Baby [Gemini 3.8 Flash 15s 编舞首发]",
+  "_songSubName": "Pure LLM Cognition • 0 硬编码",
+  "_songAuthorName": "AKASAKI",
+  "_levelAuthorName": "Gemini-3.8-Flash (Human Choreographer Persona)",
+  "_beatsPerMinute": 114.84,
+  "_songTimeOffset": 731,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 15,
+  "_songFilename": "akasaki_shake.ogg",
+  "_coverImageFilename": "akasaki_cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "demo_15s.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0
+        }
+      ]
+    }
+  ]
+}

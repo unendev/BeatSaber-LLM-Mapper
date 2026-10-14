@@ -1,0 +1,5413 @@
+{
+  "metadata": {
+    "source": "dataset/akasaki_shake.ogg",
+    "bpm": 114.84,
+    "songTimeOffset": 0.7314,
+    "duration": 157.95,
+    "totalBeats": 300,
+    "totalBars": 75,
+    "version": "2.0-Holographic-PhaseLocked"
+  },
+  "bars": [
+    {
+      "barIndex": 0,
+      "startTime": 0.731,
+      "endTime": 2.821,
+      "avgEnergy": 0.083,
+      "energyAcc": 0.0,
+      "tension": "chill",
+      "stemDominance": {
+        "vocal": 0.213,
+        "drums": 0.029,
+        "bass": 0.003
+      },
+      "stereoSpread": 0.05,
+      "beats": [
+        {
+          "beatIndex": 0,
+          "time": 0.731,
+          "energy": 0.026,
+          "stems": {
+            "drums": 0.017,
+            "bass": 0.0,
+            "vocal": 0.055,
+            "high": 0.039
+          },
+          "pitchHz": 277.2,
+          "pitchSlope": 0.1,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 1,
+          "time": 1.254,
+          "energy": 0.044,
+          "stems": {
+            "drums": 0.02,
+            "bass": 0.0,
+            "vocal": 0.104,
+            "high": 0.06
+          },
+          "pitchHz": 418.3,
+          "pitchSlope": 10.67,
+          "panning": 0.05
+        },
+        {
+          "beatIndex": 2,
+          "time": 1.776,
+          "energy": 0.053,
+          "stems": {
+            "drums": 0.028,
+            "bass": 0.0,
+            "vocal": 0.118,
+            "high": 0.077
+          },
+          "pitchHz": 558.7,
+          "pitchSlope": 448.83,
+          "panning": 0.09
+        },
+        {
+          "beatIndex": 3,
+          "time": 2.299,
+          "energy": 0.21,
+          "stems": {
+            "drums": 0.053,
+            "bass": 0.01,
+            "vocal": 0.575,
+            "high": 0.161
+          },
+          "pitchHz": 110.4,
+          "pitchSlope": 0.4,
+          "panning": 0.04
+        }
+      ]
+    },
+    {
+      "barIndex": 1,
+      "startTime": 2.821,
+      "endTime": 4.911,
+      "avgEnergy": 0.194,
+      "energyAcc": 0.111,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.449,
+        "drums": 0.084,
+        "bass": 0.032
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 4,
+          "time": 2.821,
+          "energy": 0.241,
+          "stems": {
+            "drums": 0.169,
+            "bass": 0.003,
+            "vocal": 0.477,
+            "high": 0.376
+          },
+          "pitchHz": 503.0,
+          "pitchSlope": 365.88,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 5,
+          "time": 3.344,
+          "energy": 0.205,
+          "stems": {
+            "drums": 0.056,
+            "bass": 0.009,
+            "vocal": 0.546,
+            "high": 0.191
+          },
+          "pitchHz": 184.7,
+          "pitchSlope": 0.52,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 6,
+          "time": 3.866,
+          "energy": 0.122,
+          "stems": {
+            "drums": 0.043,
+            "bass": 0.015,
+            "vocal": 0.297,
+            "high": 0.141
+          },
+          "pitchHz": 164.5,
+          "pitchSlope": 54.86,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 7,
+          "time": 4.389,
+          "energy": 0.207,
+          "stems": {
+            "drums": 0.067,
+            "bass": 0.099,
+            "vocal": 0.477,
+            "high": 0.164
+          },
+          "pitchHz": 97.9,
+          "pitchSlope": -0.37,
+          "panning": 0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 2,
+      "startTime": 4.911,
+      "endTime": 7.001,
+      "avgEnergy": 0.19,
+      "energyAcc": -0.004,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.463,
+        "drums": 0.077,
+        "bass": 0.034
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 8,
+          "time": 4.911,
+          "energy": 0.083,
+          "stems": {
+            "drums": 0.022,
+            "bass": 0.026,
+            "vocal": 0.177,
+            "high": 0.158
+          },
+          "pitchHz": 493.7,
+          "pitchSlope": 384.14,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 9,
+          "time": 5.434,
+          "energy": 0.276,
+          "stems": {
+            "drums": 0.183,
+            "bass": 0.05,
+            "vocal": 0.604,
+            "high": 0.188
+          },
+          "pitchHz": 248.3,
+          "pitchSlope": 137.75,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 10,
+          "time": 5.956,
+          "energy": 0.271,
+          "stems": {
+            "drums": 0.047,
+            "bass": 0.008,
+            "vocal": 0.783,
+            "high": 0.176
+          },
+          "pitchHz": 110.8,
+          "pitchSlope": -0.11,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 11,
+          "time": 6.479,
+          "energy": 0.129,
+          "stems": {
+            "drums": 0.055,
+            "bass": 0.05,
+            "vocal": 0.286,
+            "high": 0.117
+          },
+          "pitchHz": 145.8,
+          "pitchSlope": -0.06,
+          "panning": 0.08
+        }
+      ]
+    },
+    {
+      "barIndex": 3,
+      "startTime": 7.001,
+      "endTime": 9.09,
+      "avgEnergy": 0.23,
+      "energyAcc": 0.04,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.567,
+        "drums": 0.095,
+        "bass": 0.011
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 12,
+          "time": 7.001,
+          "energy": 0.274,
+          "stems": {
+            "drums": 0.051,
+            "bass": 0.007,
+            "vocal": 0.785,
+            "high": 0.188
+          },
+          "pitchHz": 542.3,
+          "pitchSlope": 450.1,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 13,
+          "time": 7.523,
+          "energy": 0.264,
+          "stems": {
+            "drums": 0.107,
+            "bass": 0.024,
+            "vocal": 0.64,
+            "high": 0.289
+          },
+          "pitchHz": 83.9,
+          "pitchSlope": 0.05,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 14,
+          "time": 8.046,
+          "energy": 0.172,
+          "stems": {
+            "drums": 0.101,
+            "bass": 0.007,
+            "vocal": 0.389,
+            "high": 0.182
+          },
+          "pitchHz": 91.3,
+          "pitchSlope": -45.99,
+          "panning": -0.07
+        },
+        {
+          "beatIndex": 15,
+          "time": 8.568,
+          "energy": 0.212,
+          "stems": {
+            "drums": 0.119,
+            "bass": 0.005,
+            "vocal": 0.455,
+            "high": 0.321
+          },
+          "pitchHz": 182.2,
+          "pitchSlope": 58.06,
+          "panning": 0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 4,
+      "startTime": 9.091,
+      "endTime": 11.18,
+      "avgEnergy": 0.262,
+      "energyAcc": 0.032,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.435,
+        "drums": 0.239,
+        "bass": 0.05
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 16,
+          "time": 9.091,
+          "energy": 0.295,
+          "stems": {
+            "drums": 0.463,
+            "bass": 0.031,
+            "vocal": 0.236,
+            "high": 0.54
+          },
+          "pitchHz": 234.6,
+          "pitchSlope": -258.41,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 17,
+          "time": 9.613,
+          "energy": 0.248,
+          "stems": {
+            "drums": 0.081,
+            "bass": 0.01,
+            "vocal": 0.662,
+            "high": 0.181
+          },
+          "pitchHz": 484.8,
+          "pitchSlope": 38.11,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 18,
+          "time": 10.136,
+          "energy": 0.227,
+          "stems": {
+            "drums": 0.163,
+            "bass": 0.158,
+            "vocal": 0.359,
+            "high": 0.231
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 19,
+          "time": 10.658,
+          "energy": 0.277,
+          "stems": {
+            "drums": 0.248,
+            "bass": 0.001,
+            "vocal": 0.483,
+            "high": 0.455
+          },
+          "pitchHz": 538.9,
+          "pitchSlope": 39.27,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 5,
+      "startTime": 11.181,
+      "endTime": 13.27,
+      "avgEnergy": 0.233,
+      "energyAcc": -0.029,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.367,
+        "drums": 0.134,
+        "bass": 0.201
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 20,
+          "time": 11.181,
+          "energy": 0.201,
+          "stems": {
+            "drums": 0.179,
+            "bass": 0.001,
+            "vocal": 0.37,
+            "high": 0.275
+          },
+          "pitchHz": 702.8,
+          "pitchSlope": -23.9,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 21,
+          "time": 11.703,
+          "energy": 0.192,
+          "stems": {
+            "drums": 0.109,
+            "bass": 0.002,
+            "vocal": 0.393,
+            "high": 0.349
+          },
+          "pitchHz": 251.6,
+          "pitchSlope": 4.16,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 22,
+          "time": 12.226,
+          "energy": 0.358,
+          "stems": {
+            "drums": 0.22,
+            "bass": 0.312,
+            "vocal": 0.573,
+            "high": 0.313
+          },
+          "pitchHz": 91.2,
+          "pitchSlope": -0.73,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 23,
+          "time": 12.748,
+          "energy": 0.183,
+          "stems": {
+            "drums": 0.029,
+            "bass": 0.487,
+            "vocal": 0.133,
+            "high": 0.114
+          },
+          "pitchHz": 88.4,
+          "pitchSlope": -2.92,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 6,
+      "startTime": 13.271,
+      "endTime": 15.36,
+      "avgEnergy": 0.361,
+      "energyAcc": 0.128,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.338,
+        "drums": 0.342,
+        "bass": 0.398
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 24,
+          "time": 13.271,
+          "energy": 0.367,
+          "stems": {
+            "drums": 0.145,
+            "bass": 0.559,
+            "vocal": 0.499,
+            "high": 0.268
+          },
+          "pitchHz": 83.1,
+          "pitchSlope": 0.2,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 25,
+          "time": 13.793,
+          "energy": 0.361,
+          "stems": {
+            "drums": 0.324,
+            "bass": 0.32,
+            "vocal": 0.359,
+            "high": 0.595
+          },
+          "pitchHz": 120.1,
+          "pitchSlope": 0.5,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 26,
+          "time": 14.316,
+          "energy": 0.339,
+          "stems": {
+            "drums": 0.444,
+            "bass": 0.251,
+            "vocal": 0.275,
+            "high": 0.389
+          },
+          "pitchHz": 82.1,
+          "pitchSlope": -14.46,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 27,
+          "time": 14.838,
+          "energy": 0.379,
+          "stems": {
+            "drums": 0.454,
+            "bass": 0.462,
+            "vocal": 0.217,
+            "high": 0.397
+          },
+          "pitchHz": 82.6,
+          "pitchSlope": 2.09,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 7,
+      "startTime": 15.36,
+      "endTime": 17.45,
+      "avgEnergy": 0.321,
+      "energyAcc": -0.04,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.339,
+        "drums": 0.348,
+        "bass": 0.217
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 28,
+          "time": 15.36,
+          "energy": 0.34,
+          "stems": {
+            "drums": 0.482,
+            "bass": 0.074,
+            "vocal": 0.315,
+            "high": 0.584
+          },
+          "pitchHz": 126.4,
+          "pitchSlope": 28.42,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 29,
+          "time": 15.883,
+          "energy": 0.351,
+          "stems": {
+            "drums": 0.473,
+            "bass": 0.236,
+            "vocal": 0.24,
+            "high": 0.545
+          },
+          "pitchHz": 112.7,
+          "pitchSlope": -31.55,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 30,
+          "time": 16.405,
+          "energy": 0.341,
+          "stems": {
+            "drums": 0.355,
+            "bass": 0.425,
+            "vocal": 0.247,
+            "high": 0.368
+          },
+          "pitchHz": 88.4,
+          "pitchSlope": -19.55,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 31,
+          "time": 16.928,
+          "energy": 0.252,
+          "stems": {
+            "drums": 0.083,
+            "bass": 0.135,
+            "vocal": 0.555,
+            "high": 0.229
+          },
+          "pitchHz": 81.7,
+          "pitchSlope": 0.28,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 8,
+      "startTime": 17.45,
+      "endTime": 19.54,
+      "avgEnergy": 0.16,
+      "energyAcc": -0.161,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.185,
+        "drums": 0.047,
+        "bass": 0.299
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 32,
+          "time": 17.45,
+          "energy": 0.176,
+          "stems": {
+            "drums": 0.015,
+            "bass": 0.384,
+            "vocal": 0.214,
+            "high": 0.106
+          },
+          "pitchHz": 88.2,
+          "pitchSlope": 2.5,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 33,
+          "time": 17.973,
+          "energy": 0.165,
+          "stems": {
+            "drums": 0.025,
+            "bass": 0.361,
+            "vocal": 0.194,
+            "high": 0.074
+          },
+          "pitchHz": 91.6,
+          "pitchSlope": 0.11,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 34,
+          "time": 18.495,
+          "energy": 0.085,
+          "stems": {
+            "drums": 0.03,
+            "bass": 0.152,
+            "vocal": 0.094,
+            "high": 0.087
+          },
+          "pitchHz": 91.3,
+          "pitchSlope": 2.14,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 35,
+          "time": 19.018,
+          "energy": 0.215,
+          "stems": {
+            "drums": 0.119,
+            "bass": 0.298,
+            "vocal": 0.239,
+            "high": 0.265
+          },
+          "pitchHz": 94.9,
+          "pitchSlope": 3.23,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 9,
+      "startTime": 19.54,
+      "endTime": 21.63,
+      "avgEnergy": 0.229,
+      "energyAcc": 0.069,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.265,
+        "drums": 0.149,
+        "bass": 0.27
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 36,
+          "time": 19.54,
+          "energy": 0.214,
+          "stems": {
+            "drums": 0.061,
+            "bass": 0.152,
+            "vocal": 0.378,
+            "high": 0.411
+          },
+          "pitchHz": 123.1,
+          "pitchSlope": -1.26,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 37,
+          "time": 20.063,
+          "energy": 0.227,
+          "stems": {
+            "drums": 0.025,
+            "bass": 0.432,
+            "vocal": 0.332,
+            "high": 0.107
+          },
+          "pitchHz": 92.1,
+          "pitchSlope": -0.19,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 38,
+          "time": 20.585,
+          "energy": 0.085,
+          "stems": {
+            "drums": 0.005,
+            "bass": 0.177,
+            "vocal": 0.115,
+            "high": 0.038
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 39,
+          "time": 21.108,
+          "energy": 0.389,
+          "stems": {
+            "drums": 0.506,
+            "bass": 0.321,
+            "vocal": 0.233,
+            "high": 0.622
+          },
+          "pitchHz": 89.5,
+          "pitchSlope": -3.41,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 10,
+      "startTime": 21.63,
+      "endTime": 23.719,
+      "avgEnergy": 0.204,
+      "energyAcc": -0.025,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.387,
+        "drums": 0.082,
+        "bass": 0.184
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 40,
+          "time": 21.63,
+          "energy": 0.148,
+          "stems": {
+            "drums": 0.048,
+            "bass": 0.113,
+            "vocal": 0.314,
+            "high": 0.085
+          },
+          "pitchHz": 90.9,
+          "pitchSlope": 7.73,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 41,
+          "time": 22.153,
+          "energy": 0.346,
+          "stems": {
+            "drums": 0.109,
+            "bass": 0.47,
+            "vocal": 0.569,
+            "high": 0.199
+          },
+          "pitchHz": 94.0,
+          "pitchSlope": 13.24,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 42,
+          "time": 22.675,
+          "energy": 0.234,
+          "stems": {
+            "drums": 0.165,
+            "bass": 0.149,
+            "vocal": 0.377,
+            "high": 0.261
+          },
+          "pitchHz": 92.9,
+          "pitchSlope": -15.61,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 43,
+          "time": 23.197,
+          "energy": 0.09,
+          "stems": {
+            "drums": 0.004,
+            "bass": 0.006,
+            "vocal": 0.286,
+            "high": 0.015
+          },
+          "pitchHz": 83.1,
+          "pitchSlope": -0.12,
+          "panning": 0.09
+        }
+      ]
+    },
+    {
+      "barIndex": 11,
+      "startTime": 23.72,
+      "endTime": 25.809,
+      "avgEnergy": 0.296,
+      "energyAcc": 0.092,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.422,
+        "drums": 0.135,
+        "bass": 0.391
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 44,
+          "time": 23.72,
+          "energy": 0.306,
+          "stems": {
+            "drums": 0.177,
+            "bass": 0.296,
+            "vocal": 0.469,
+            "high": 0.293
+          },
+          "pitchHz": 111.0,
+          "pitchSlope": -1.28,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 45,
+          "time": 24.242,
+          "energy": 0.347,
+          "stems": {
+            "drums": 0.13,
+            "bass": 0.661,
+            "vocal": 0.358,
+            "high": 0.286
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 46,
+          "time": 24.765,
+          "energy": 0.248,
+          "stems": {
+            "drums": 0.076,
+            "bass": 0.439,
+            "vocal": 0.354,
+            "high": 0.059
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 47,
+          "time": 25.287,
+          "energy": 0.283,
+          "stems": {
+            "drums": 0.158,
+            "bass": 0.168,
+            "vocal": 0.509,
+            "high": 0.33
+          },
+          "pitchHz": 112.2,
+          "pitchSlope": -1.21,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 12,
+      "startTime": 25.81,
+      "endTime": 27.899,
+      "avgEnergy": 0.394,
+      "energyAcc": 0.098,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.46,
+        "drums": 0.283,
+        "bass": 0.461
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 48,
+          "time": 25.81,
+          "energy": 0.445,
+          "stems": {
+            "drums": 0.409,
+            "bass": 0.413,
+            "vocal": 0.48,
+            "high": 0.544
+          },
+          "pitchHz": 81.9,
+          "pitchSlope": -0.24,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 49,
+          "time": 26.332,
+          "energy": 0.317,
+          "stems": {
+            "drums": 0.14,
+            "bass": 0.467,
+            "vocal": 0.405,
+            "high": 0.297
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -1.52,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 50,
+          "time": 26.855,
+          "energy": 0.37,
+          "stems": {
+            "drums": 0.192,
+            "bass": 0.402,
+            "vocal": 0.565,
+            "high": 0.328
+          },
+          "pitchHz": 83.4,
+          "pitchSlope": -0.58,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 51,
+          "time": 27.377,
+          "energy": 0.444,
+          "stems": {
+            "drums": 0.391,
+            "bass": 0.562,
+            "vocal": 0.389,
+            "high": 0.498
+          },
+          "pitchHz": 107.5,
+          "pitchSlope": 26.0,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 13,
+      "startTime": 27.9,
+      "endTime": 29.989,
+      "avgEnergy": 0.399,
+      "energyAcc": 0.005,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.502,
+        "drums": 0.44,
+        "bass": 0.145
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 52,
+          "time": 27.9,
+          "energy": 0.462,
+          "stems": {
+            "drums": 0.535,
+            "bass": 0.224,
+            "vocal": 0.523,
+            "high": 0.618
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -200.03,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 53,
+          "time": 28.422,
+          "energy": 0.401,
+          "stems": {
+            "drums": 0.401,
+            "bass": 0.145,
+            "vocal": 0.535,
+            "high": 0.642
+          },
+          "pitchHz": 92.4,
+          "pitchSlope": -0.14,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 54,
+          "time": 28.945,
+          "energy": 0.361,
+          "stems": {
+            "drums": 0.438,
+            "bass": 0.11,
+            "vocal": 0.464,
+            "high": 0.406
+          },
+          "pitchHz": 93.7,
+          "pitchSlope": -16.56,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 55,
+          "time": 29.467,
+          "energy": 0.372,
+          "stems": {
+            "drums": 0.387,
+            "bass": 0.101,
+            "vocal": 0.484,
+            "high": 0.66
+          },
+          "pitchHz": 503.1,
+          "pitchSlope": 391.18,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 14,
+      "startTime": 29.989,
+      "endTime": 32.079,
+      "avgEnergy": 0.248,
+      "energyAcc": -0.151,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.393,
+        "drums": 0.149,
+        "bass": 0.179
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 56,
+          "time": 29.989,
+          "energy": 0.25,
+          "stems": {
+            "drums": 0.173,
+            "bass": 0.193,
+            "vocal": 0.37,
+            "high": 0.302
+          },
+          "pitchHz": 113.2,
+          "pitchSlope": 3.11,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 57,
+          "time": 30.512,
+          "energy": 0.234,
+          "stems": {
+            "drums": 0.232,
+            "bass": 0.04,
+            "vocal": 0.275,
+            "high": 0.604
+          },
+          "pitchHz": 209.8,
+          "pitchSlope": 128.15,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 58,
+          "time": 31.034,
+          "energy": 0.202,
+          "stems": {
+            "drums": 0.062,
+            "bass": 0.161,
+            "vocal": 0.392,
+            "high": 0.223
+          },
+          "pitchHz": 83.7,
+          "pitchSlope": -0.6,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 59,
+          "time": 31.557,
+          "energy": 0.305,
+          "stems": {
+            "drums": 0.13,
+            "bass": 0.323,
+            "vocal": 0.535,
+            "high": 0.184
+          },
+          "pitchHz": 90.5,
+          "pitchSlope": -1.17,
+          "panning": -0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 15,
+      "startTime": 32.079,
+      "endTime": 34.169,
+      "avgEnergy": 0.253,
+      "energyAcc": 0.005,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.561,
+        "drums": 0.07,
+        "bass": 0.16
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 60,
+          "time": 32.079,
+          "energy": 0.252,
+          "stems": {
+            "drums": 0.109,
+            "bass": 0.107,
+            "vocal": 0.527,
+            "high": 0.286
+          },
+          "pitchHz": 281.4,
+          "pitchSlope": 7.36,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 61,
+          "time": 32.602,
+          "energy": 0.216,
+          "stems": {
+            "drums": 0.038,
+            "bass": 0.091,
+            "vocal": 0.555,
+            "high": 0.136
+          },
+          "pitchHz": 248.3,
+          "pitchSlope": 165.56,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 62,
+          "time": 33.124,
+          "energy": 0.283,
+          "stems": {
+            "drums": 0.023,
+            "bass": 0.284,
+            "vocal": 0.636,
+            "high": 0.127
+          },
+          "pitchHz": 355.6,
+          "pitchSlope": 267.91,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 63,
+          "time": 33.647,
+          "energy": 0.26,
+          "stems": {
+            "drums": 0.111,
+            "bass": 0.159,
+            "vocal": 0.525,
+            "high": 0.241
+          },
+          "pitchHz": 81.2,
+          "pitchSlope": 1.21,
+          "panning": -0.08
+        }
+      ]
+    },
+    {
+      "barIndex": 16,
+      "startTime": 34.169,
+      "endTime": 36.259,
+      "avgEnergy": 0.348,
+      "energyAcc": 0.095,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.528,
+        "drums": 0.266,
+        "bass": 0.195
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 64,
+          "time": 34.169,
+          "energy": 0.309,
+          "stems": {
+            "drums": 0.11,
+            "bass": 0.036,
+            "vocal": 0.779,
+            "high": 0.284
+          },
+          "pitchHz": 276.0,
+          "pitchSlope": -2.87,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 65,
+          "time": 34.692,
+          "energy": 0.303,
+          "stems": {
+            "drums": 0.207,
+            "bass": 0.182,
+            "vocal": 0.433,
+            "high": 0.554
+          },
+          "pitchHz": 139.4,
+          "pitchSlope": 58.32,
+          "panning": 0.12
+        },
+        {
+          "beatIndex": 66,
+          "time": 35.214,
+          "energy": 0.444,
+          "stems": {
+            "drums": 0.416,
+            "bass": 0.361,
+            "vocal": 0.489,
+            "high": 0.612
+          },
+          "pitchHz": 81.0,
+          "pitchSlope": -0.02,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 67,
+          "time": 35.737,
+          "energy": 0.335,
+          "stems": {
+            "drums": 0.331,
+            "bass": 0.201,
+            "vocal": 0.411,
+            "high": 0.458
+          },
+          "pitchHz": 82.2,
+          "pitchSlope": -0.11,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 17,
+      "startTime": 36.259,
+      "endTime": 38.348,
+      "avgEnergy": 0.341,
+      "energyAcc": -0.007,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.564,
+        "drums": 0.206,
+        "bass": 0.245
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 68,
+          "time": 36.259,
+          "energy": 0.345,
+          "stems": {
+            "drums": 0.214,
+            "bass": 0.192,
+            "vocal": 0.602,
+            "high": 0.411
+          },
+          "pitchHz": 82.0,
+          "pitchSlope": -573.4,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 69,
+          "time": 36.782,
+          "energy": 0.33,
+          "stems": {
+            "drums": 0.163,
+            "bass": 0.198,
+            "vocal": 0.594,
+            "high": 0.451
+          },
+          "pitchHz": 123.0,
+          "pitchSlope": -0.16,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 70,
+          "time": 37.304,
+          "energy": 0.348,
+          "stems": {
+            "drums": 0.187,
+            "bass": 0.275,
+            "vocal": 0.59,
+            "high": 0.369
+          },
+          "pitchHz": 93.8,
+          "pitchSlope": -0.06,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 71,
+          "time": 37.826,
+          "energy": 0.341,
+          "stems": {
+            "drums": 0.258,
+            "bass": 0.316,
+            "vocal": 0.469,
+            "high": 0.313
+          },
+          "pitchHz": 116.6,
+          "pitchSlope": 2.69,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 18,
+      "startTime": 38.349,
+      "endTime": 40.438,
+      "avgEnergy": 0.384,
+      "energyAcc": 0.043,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.504,
+        "drums": 0.213,
+        "bass": 0.482
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 72,
+          "time": 38.349,
+          "energy": 0.354,
+          "stems": {
+            "drums": 0.147,
+            "bass": 0.728,
+            "vocal": 0.324,
+            "high": 0.234
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -276.13,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 73,
+          "time": 38.871,
+          "energy": 0.37,
+          "stems": {
+            "drums": 0.163,
+            "bass": 0.566,
+            "vocal": 0.474,
+            "high": 0.292
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -3.81,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 74,
+          "time": 39.394,
+          "energy": 0.394,
+          "stems": {
+            "drums": 0.128,
+            "bass": 0.397,
+            "vocal": 0.734,
+            "high": 0.301
+          },
+          "pitchHz": 84.2,
+          "pitchSlope": -0.86,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 75,
+          "time": 39.916,
+          "energy": 0.42,
+          "stems": {
+            "drums": 0.415,
+            "bass": 0.235,
+            "vocal": 0.484,
+            "high": 0.705
+          },
+          "pitchHz": 93.1,
+          "pitchSlope": -0.25,
+          "panning": -0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 19,
+      "startTime": 40.439,
+      "endTime": 42.528,
+      "avgEnergy": 0.454,
+      "energyAcc": 0.07,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.475,
+        "drums": 0.405,
+        "bass": 0.416
+      },
+      "stereoSpread": -0.03,
+      "beats": [
+        {
+          "beatIndex": 76,
+          "time": 40.439,
+          "energy": 0.422,
+          "stems": {
+            "drums": 0.308,
+            "bass": 0.423,
+            "vocal": 0.495,
+            "high": 0.595
+          },
+          "pitchHz": 91.6,
+          "pitchSlope": 0.0,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 77,
+          "time": 40.961,
+          "energy": 0.44,
+          "stems": {
+            "drums": 0.374,
+            "bass": 0.359,
+            "vocal": 0.527,
+            "high": 0.611
+          },
+          "pitchHz": 84.2,
+          "pitchSlope": -0.18,
+          "panning": -0.06
+        },
+        {
+          "beatIndex": 78,
+          "time": 41.484,
+          "energy": 0.491,
+          "stems": {
+            "drums": 0.375,
+            "bass": 0.541,
+            "vocal": 0.501,
+            "high": 0.745
+          },
+          "pitchHz": 84.9,
+          "pitchSlope": 4.85,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 79,
+          "time": 42.006,
+          "energy": 0.464,
+          "stems": {
+            "drums": 0.565,
+            "bass": 0.342,
+            "vocal": 0.375,
+            "high": 0.685
+          },
+          "pitchHz": 92.6,
+          "pitchSlope": -276.53,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 20,
+      "startTime": 42.529,
+      "endTime": 44.618,
+      "avgEnergy": 0.304,
+      "energyAcc": -0.15,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.389,
+        "drums": 0.312,
+        "bass": 0.135
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 80,
+          "time": 42.529,
+          "energy": 0.409,
+          "stems": {
+            "drums": 0.503,
+            "bass": 0.164,
+            "vocal": 0.462,
+            "high": 0.538
+          },
+          "pitchHz": 213.0,
+          "pitchSlope": 120.67,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 81,
+          "time": 43.051,
+          "energy": 0.324,
+          "stems": {
+            "drums": 0.442,
+            "bass": 0.12,
+            "vocal": 0.316,
+            "high": 0.443
+          },
+          "pitchHz": 147.5,
+          "pitchSlope": 55.15,
+          "panning": 0.06
+        },
+        {
+          "beatIndex": 82,
+          "time": 43.574,
+          "energy": 0.285,
+          "stems": {
+            "drums": 0.24,
+            "bass": 0.04,
+            "vocal": 0.457,
+            "high": 0.537
+          },
+          "pitchHz": 285.8,
+          "pitchSlope": 196.4,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 83,
+          "time": 44.096,
+          "energy": 0.197,
+          "stems": {
+            "drums": 0.063,
+            "bass": 0.217,
+            "vocal": 0.32,
+            "high": 0.25
+          },
+          "pitchHz": 85.4,
+          "pitchSlope": 4.48,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 21,
+      "startTime": 44.619,
+      "endTime": 46.708,
+      "avgEnergy": 0.138,
+      "energyAcc": -0.166,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.2,
+        "drums": 0.075,
+        "bass": 0.135
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 84,
+          "time": 44.619,
+          "energy": 0.23,
+          "stems": {
+            "drums": 0.096,
+            "bass": 0.092,
+            "vocal": 0.534,
+            "high": 0.135
+          },
+          "pitchHz": 110.3,
+          "pitchSlope": 1.46,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 85,
+          "time": 45.141,
+          "energy": 0.114,
+          "stems": {
+            "drums": 0.137,
+            "bass": 0.028,
+            "vocal": 0.046,
+            "high": 0.45
+          },
+          "pitchHz": 93.4,
+          "pitchSlope": 4.64,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 86,
+          "time": 45.663,
+          "energy": 0.005,
+          "stems": {
+            "drums": 0.001,
+            "bass": 0.01,
+            "vocal": 0.005,
+            "high": 0.001
+          },
+          "pitchHz": 89.9,
+          "pitchSlope": 5.94,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 87,
+          "time": 46.186,
+          "energy": 0.204,
+          "stems": {
+            "drums": 0.064,
+            "bass": 0.408,
+            "vocal": 0.213,
+            "high": 0.152
+          },
+          "pitchHz": 87.2,
+          "pitchSlope": -6.66,
+          "panning": 0.05
+        }
+      ]
+    },
+    {
+      "barIndex": 22,
+      "startTime": 46.708,
+      "endTime": 48.798,
+      "avgEnergy": 0.241,
+      "energyAcc": 0.103,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.326,
+        "drums": 0.159,
+        "bass": 0.252
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 88,
+          "time": 46.708,
+          "energy": 0.214,
+          "stems": {
+            "drums": 0.171,
+            "bass": 0.059,
+            "vocal": 0.363,
+            "high": 0.305
+          },
+          "pitchHz": 546.6,
+          "pitchSlope": 18.37,
+          "panning": -0.07
+        },
+        {
+          "beatIndex": 89,
+          "time": 47.231,
+          "energy": 0.372,
+          "stems": {
+            "drums": 0.394,
+            "bass": 0.442,
+            "vocal": 0.252,
+            "high": 0.474
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 90,
+          "time": 47.753,
+          "energy": 0.176,
+          "stems": {
+            "drums": 0.026,
+            "bass": 0.094,
+            "vocal": 0.434,
+            "high": 0.132
+          },
+          "pitchHz": 124.8,
+          "pitchSlope": -0.37,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 91,
+          "time": 48.276,
+          "energy": 0.202,
+          "stems": {
+            "drums": 0.046,
+            "bass": 0.411,
+            "vocal": 0.253,
+            "high": 0.071
+          },
+          "pitchHz": 122.8,
+          "pitchSlope": 42.76,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 23,
+      "startTime": 48.798,
+      "endTime": 50.888,
+      "avgEnergy": 0.289,
+      "energyAcc": 0.048,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.431,
+        "drums": 0.157,
+        "bass": 0.315
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 92,
+          "time": 48.798,
+          "energy": 0.329,
+          "stems": {
+            "drums": 0.137,
+            "bass": 0.318,
+            "vocal": 0.573,
+            "high": 0.293
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 93,
+          "time": 49.321,
+          "energy": 0.3,
+          "stems": {
+            "drums": 0.393,
+            "bass": 0.086,
+            "vocal": 0.312,
+            "high": 0.472
+          },
+          "pitchHz": 148.7,
+          "pitchSlope": 1.01,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 94,
+          "time": 49.843,
+          "energy": 0.273,
+          "stems": {
+            "drums": 0.043,
+            "bass": 0.139,
+            "vocal": 0.681,
+            "high": 0.19
+          },
+          "pitchHz": 110.9,
+          "pitchSlope": -27.5,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 95,
+          "time": 50.366,
+          "energy": 0.255,
+          "stems": {
+            "drums": 0.053,
+            "bass": 0.715,
+            "vocal": 0.16,
+            "high": 0.093
+          },
+          "pitchHz": 114.1,
+          "pitchSlope": 34.07,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 24,
+      "startTime": 50.888,
+      "endTime": 52.978,
+      "avgEnergy": 0.298,
+      "energyAcc": 0.009,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.434,
+        "drums": 0.135,
+        "bass": 0.39
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 96,
+          "time": 50.888,
+          "energy": 0.314,
+          "stems": {
+            "drums": 0.029,
+            "bass": 0.446,
+            "vocal": 0.612,
+            "high": 0.087
+          },
+          "pitchHz": 84.0,
+          "pitchSlope": -0.03,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 97,
+          "time": 51.411,
+          "energy": 0.27,
+          "stems": {
+            "drums": 0.035,
+            "bass": 0.309,
+            "vocal": 0.534,
+            "high": 0.207
+          },
+          "pitchHz": 84.0,
+          "pitchSlope": 0.21,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 98,
+          "time": 51.933,
+          "energy": 0.316,
+          "stems": {
+            "drums": 0.218,
+            "bass": 0.402,
+            "vocal": 0.326,
+            "high": 0.415
+          },
+          "pitchHz": 102.8,
+          "pitchSlope": 0.92,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 99,
+          "time": 52.456,
+          "energy": 0.293,
+          "stems": {
+            "drums": 0.256,
+            "bass": 0.404,
+            "vocal": 0.265,
+            "high": 0.233
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -11.9,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 25,
+      "startTime": 52.978,
+      "endTime": 55.067,
+      "avgEnergy": 0.295,
+      "energyAcc": -0.003,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.308,
+        "drums": 0.233,
+        "bass": 0.321
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 100,
+          "time": 52.978,
+          "energy": 0.225,
+          "stems": {
+            "drums": 0.068,
+            "bass": 0.505,
+            "vocal": 0.202,
+            "high": 0.143
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -5.96,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 101,
+          "time": 53.5,
+          "energy": 0.285,
+          "stems": {
+            "drums": 0.111,
+            "bass": 0.272,
+            "vocal": 0.513,
+            "high": 0.244
+          },
+          "pitchHz": 118.1,
+          "pitchSlope": 2.36,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 102,
+          "time": 54.023,
+          "energy": 0.427,
+          "stems": {
+            "drums": 0.548,
+            "bass": 0.496,
+            "vocal": 0.155,
+            "high": 0.647
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -4.62,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 103,
+          "time": 54.545,
+          "energy": 0.245,
+          "stems": {
+            "drums": 0.203,
+            "bass": 0.011,
+            "vocal": 0.361,
+            "high": 0.626
+          },
+          "pitchHz": 560.0,
+          "pitchSlope": -0.86,
+          "panning": 0.06
+        }
+      ]
+    },
+    {
+      "barIndex": 26,
+      "startTime": 55.068,
+      "endTime": 57.157,
+      "avgEnergy": 0.259,
+      "energyAcc": -0.036,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.393,
+        "drums": 0.258,
+        "bass": 0.009
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 104,
+          "time": 55.068,
+          "energy": 0.32,
+          "stems": {
+            "drums": 0.315,
+            "bass": 0.0,
+            "vocal": 0.516,
+            "high": 0.553
+          },
+          "pitchHz": 524.7,
+          "pitchSlope": 2.87,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 105,
+          "time": 55.59,
+          "energy": 0.303,
+          "stems": {
+            "drums": 0.362,
+            "bass": 0.02,
+            "vocal": 0.349,
+            "high": 0.67
+          },
+          "pitchHz": 82.3,
+          "pitchSlope": -424.96,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 106,
+          "time": 56.113,
+          "energy": 0.254,
+          "stems": {
+            "drums": 0.28,
+            "bass": 0.013,
+            "vocal": 0.343,
+            "high": 0.503
+          },
+          "pitchHz": 444.2,
+          "pitchSlope": 10.92,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 107,
+          "time": 56.635,
+          "energy": 0.158,
+          "stems": {
+            "drums": 0.075,
+            "bass": 0.004,
+            "vocal": 0.366,
+            "high": 0.203
+          },
+          "pitchHz": 443.8,
+          "pitchSlope": 1.2,
+          "panning": 0.09
+        }
+      ]
+    },
+    {
+      "barIndex": 27,
+      "startTime": 57.158,
+      "endTime": 59.247,
+      "avgEnergy": 0.209,
+      "energyAcc": -0.05,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.317,
+        "drums": 0.188,
+        "bass": 0.059
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 108,
+          "time": 57.158,
+          "energy": 0.259,
+          "stems": {
+            "drums": 0.391,
+            "bass": 0.064,
+            "vocal": 0.158,
+            "high": 0.588
+          },
+          "pitchHz": 139.7,
+          "pitchSlope": 31.12,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 109,
+          "time": 57.68,
+          "energy": 0.243,
+          "stems": {
+            "drums": 0.237,
+            "bass": 0.009,
+            "vocal": 0.408,
+            "high": 0.355
+          },
+          "pitchHz": 230.2,
+          "pitchSlope": -7.72,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 110,
+          "time": 58.203,
+          "energy": 0.137,
+          "stems": {
+            "drums": 0.039,
+            "bass": 0.09,
+            "vocal": 0.257,
+            "high": 0.231
+          },
+          "pitchHz": 95.4,
+          "pitchSlope": -0.02,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 111,
+          "time": 58.725,
+          "energy": 0.198,
+          "stems": {
+            "drums": 0.086,
+            "bass": 0.075,
+            "vocal": 0.444,
+            "high": 0.159
+          },
+          "pitchHz": 124.7,
+          "pitchSlope": 1.23,
+          "panning": 0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 28,
+      "startTime": 59.248,
+      "endTime": 61.337,
+      "avgEnergy": 0.259,
+      "energyAcc": 0.05,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.633,
+        "drums": 0.111,
+        "bass": 0.037
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 112,
+          "time": 59.248,
+          "energy": 0.265,
+          "stems": {
+            "drums": 0.045,
+            "bass": 0.029,
+            "vocal": 0.76,
+            "high": 0.139
+          },
+          "pitchHz": 220.7,
+          "pitchSlope": 1.26,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 113,
+          "time": 59.77,
+          "energy": 0.287,
+          "stems": {
+            "drums": 0.157,
+            "bass": 0.084,
+            "vocal": 0.58,
+            "high": 0.367
+          },
+          "pitchHz": 247.6,
+          "pitchSlope": 1.54,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 114,
+          "time": 60.293,
+          "energy": 0.228,
+          "stems": {
+            "drums": 0.155,
+            "bass": 0.016,
+            "vocal": 0.514,
+            "high": 0.152
+          },
+          "pitchHz": 239.7,
+          "pitchSlope": -3.84,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 115,
+          "time": 60.815,
+          "energy": 0.256,
+          "stems": {
+            "drums": 0.086,
+            "bass": 0.02,
+            "vocal": 0.677,
+            "high": 0.18
+          },
+          "pitchHz": 91.3,
+          "pitchSlope": -0.04,
+          "panning": 0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 29,
+      "startTime": 61.337,
+      "endTime": 63.427,
+      "avgEnergy": 0.21,
+      "energyAcc": -0.049,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.475,
+        "drums": 0.113,
+        "bass": 0.017
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 116,
+          "time": 61.337,
+          "energy": 0.299,
+          "stems": {
+            "drums": 0.254,
+            "bass": 0.033,
+            "vocal": 0.526,
+            "high": 0.443
+          },
+          "pitchHz": 413.4,
+          "pitchSlope": -1.34,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 117,
+          "time": 61.86,
+          "energy": 0.094,
+          "stems": {
+            "drums": 0.013,
+            "bass": 0.017,
+            "vocal": 0.274,
+            "high": 0.028
+          },
+          "pitchHz": 146.2,
+          "pitchSlope": 2.2,
+          "panning": 0.13
+        },
+        {
+          "beatIndex": 118,
+          "time": 62.382,
+          "energy": 0.202,
+          "stems": {
+            "drums": 0.093,
+            "bass": 0.004,
+            "vocal": 0.474,
+            "high": 0.263
+          },
+          "pitchHz": 140.8,
+          "pitchSlope": 47.14,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 119,
+          "time": 62.905,
+          "energy": 0.244,
+          "stems": {
+            "drums": 0.093,
+            "bass": 0.014,
+            "vocal": 0.626,
+            "high": 0.197
+          },
+          "pitchHz": 146.8,
+          "pitchSlope": -0.86,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 30,
+      "startTime": 63.427,
+      "endTime": 65.517,
+      "avgEnergy": 0.248,
+      "energyAcc": 0.038,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.497,
+        "drums": 0.137,
+        "bass": 0.085
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 120,
+          "time": 63.427,
+          "energy": 0.262,
+          "stems": {
+            "drums": 0.036,
+            "bass": 0.014,
+            "vocal": 0.757,
+            "high": 0.19
+          },
+          "pitchHz": 220.3,
+          "pitchSlope": 1.15,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 121,
+          "time": 63.95,
+          "energy": 0.248,
+          "stems": {
+            "drums": 0.23,
+            "bass": 0.046,
+            "vocal": 0.329,
+            "high": 0.581
+          },
+          "pitchHz": 110.2,
+          "pitchSlope": 23.12,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 122,
+          "time": 64.472,
+          "energy": 0.095,
+          "stems": {
+            "drums": 0.018,
+            "bass": 0.043,
+            "vocal": 0.249,
+            "high": 0.033
+          },
+          "pitchHz": 124.0,
+          "pitchSlope": 0.36,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 123,
+          "time": 64.995,
+          "energy": 0.388,
+          "stems": {
+            "drums": 0.262,
+            "bass": 0.237,
+            "vocal": 0.653,
+            "high": 0.409
+          },
+          "pitchHz": 123.6,
+          "pitchSlope": 40.37,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 31,
+      "startTime": 65.517,
+      "endTime": 67.607,
+      "avgEnergy": 0.271,
+      "energyAcc": 0.023,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.312,
+        "drums": 0.322,
+        "bass": 0.082
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 124,
+          "time": 65.517,
+          "energy": 0.266,
+          "stems": {
+            "drums": 0.235,
+            "bass": 0.032,
+            "vocal": 0.4,
+            "high": 0.554
+          },
+          "pitchHz": 221.1,
+          "pitchSlope": 110.78,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 125,
+          "time": 66.04,
+          "energy": 0.29,
+          "stems": {
+            "drums": 0.356,
+            "bass": 0.125,
+            "vocal": 0.322,
+            "high": 0.379
+          },
+          "pitchHz": 83.3,
+          "pitchSlope": -47.31,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 126,
+          "time": 66.562,
+          "energy": 0.166,
+          "stems": {
+            "drums": 0.124,
+            "bass": 0.006,
+            "vocal": 0.301,
+            "high": 0.311
+          },
+          "pitchHz": 181.4,
+          "pitchSlope": -9.77,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 127,
+          "time": 67.085,
+          "energy": 0.363,
+          "stems": {
+            "drums": 0.573,
+            "bass": 0.163,
+            "vocal": 0.225,
+            "high": 0.543
+          },
+          "pitchHz": 202.2,
+          "pitchSlope": -3.94,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 32,
+      "startTime": 67.607,
+      "endTime": 69.696,
+      "avgEnergy": 0.458,
+      "energyAcc": 0.187,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.516,
+        "drums": 0.499,
+        "bass": 0.266
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 128,
+          "time": 67.607,
+          "energy": 0.428,
+          "stems": {
+            "drums": 0.257,
+            "bass": 0.43,
+            "vocal": 0.605,
+            "high": 0.492
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -0.81,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 129,
+          "time": 68.13,
+          "energy": 0.458,
+          "stems": {
+            "drums": 0.658,
+            "bass": 0.263,
+            "vocal": 0.3,
+            "high": 0.721
+          },
+          "pitchHz": 109.9,
+          "pitchSlope": 0.47,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 130,
+          "time": 68.652,
+          "energy": 0.448,
+          "stems": {
+            "drums": 0.622,
+            "bass": 0.145,
+            "vocal": 0.434,
+            "high": 0.637
+          },
+          "pitchHz": 185.4,
+          "pitchSlope": -8.47,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 131,
+          "time": 69.174,
+          "energy": 0.498,
+          "stems": {
+            "drums": 0.461,
+            "bass": 0.224,
+            "vocal": 0.726,
+            "high": 0.629
+          },
+          "pitchHz": 85.8,
+          "pitchSlope": -488.5,
+          "panning": -0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 33,
+      "startTime": 69.697,
+      "endTime": 71.786,
+      "avgEnergy": 0.327,
+      "energyAcc": -0.131,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.44,
+        "drums": 0.293,
+        "bass": 0.207
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 132,
+          "time": 69.697,
+          "energy": 0.495,
+          "stems": {
+            "drums": 0.691,
+            "bass": 0.404,
+            "vocal": 0.256,
+            "high": 0.756
+          },
+          "pitchHz": 81.1,
+          "pitchSlope": -0.19,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 133,
+          "time": 70.219,
+          "energy": 0.291,
+          "stems": {
+            "drums": 0.242,
+            "bass": 0.218,
+            "vocal": 0.392,
+            "high": 0.35
+          },
+          "pitchHz": 84.0,
+          "pitchSlope": 2.59,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 134,
+          "time": 70.742,
+          "energy": 0.287,
+          "stems": {
+            "drums": 0.101,
+            "bass": 0.114,
+            "vocal": 0.666,
+            "high": 0.235
+          },
+          "pitchHz": 252.2,
+          "pitchSlope": 0.19,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 135,
+          "time": 71.264,
+          "energy": 0.234,
+          "stems": {
+            "drums": 0.139,
+            "bass": 0.091,
+            "vocal": 0.446,
+            "high": 0.292
+          },
+          "pitchHz": 330.3,
+          "pitchSlope": -324.0,
+          "panning": -0.05
+        }
+      ]
+    },
+    {
+      "barIndex": 34,
+      "startTime": 71.787,
+      "endTime": 73.876,
+      "avgEnergy": 0.282,
+      "energyAcc": -0.045,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.446,
+        "drums": 0.149,
+        "bass": 0.275
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 136,
+          "time": 71.787,
+          "energy": 0.188,
+          "stems": {
+            "drums": 0.063,
+            "bass": 0.115,
+            "vocal": 0.42,
+            "high": 0.111
+          },
+          "pitchHz": 87.5,
+          "pitchSlope": -23.64,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 137,
+          "time": 72.309,
+          "energy": 0.304,
+          "stems": {
+            "drums": 0.125,
+            "bass": 0.42,
+            "vocal": 0.407,
+            "high": 0.329
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 138,
+          "time": 72.832,
+          "energy": 0.285,
+          "stems": {
+            "drums": 0.116,
+            "bass": 0.268,
+            "vocal": 0.525,
+            "high": 0.197
+          },
+          "pitchHz": 620.1,
+          "pitchSlope": 530.52,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 139,
+          "time": 73.354,
+          "energy": 0.353,
+          "stems": {
+            "drums": 0.292,
+            "bass": 0.298,
+            "vocal": 0.433,
+            "high": 0.467
+          },
+          "pitchHz": 84.6,
+          "pitchSlope": 4.55,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 35,
+      "startTime": 73.877,
+      "endTime": 75.966,
+      "avgEnergy": 0.312,
+      "energyAcc": 0.031,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.475,
+        "drums": 0.253,
+        "bass": 0.166
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 140,
+          "time": 73.877,
+          "energy": 0.252,
+          "stems": {
+            "drums": 0.146,
+            "bass": 0.235,
+            "vocal": 0.441,
+            "high": 0.101
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -96.17,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 141,
+          "time": 74.399,
+          "energy": 0.322,
+          "stems": {
+            "drums": 0.227,
+            "bass": 0.073,
+            "vocal": 0.577,
+            "high": 0.513
+          },
+          "pitchHz": 175.6,
+          "pitchSlope": 95.58,
+          "panning": 0.1
+        },
+        {
+          "beatIndex": 142,
+          "time": 74.922,
+          "energy": 0.402,
+          "stems": {
+            "drums": 0.398,
+            "bass": 0.249,
+            "vocal": 0.497,
+            "high": 0.508
+          },
+          "pitchHz": 116.5,
+          "pitchSlope": -0.6,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 143,
+          "time": 75.444,
+          "energy": 0.274,
+          "stems": {
+            "drums": 0.241,
+            "bass": 0.106,
+            "vocal": 0.384,
+            "high": 0.474
+          },
+          "pitchHz": 104.4,
+          "pitchSlope": 20.84,
+          "panning": 0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 36,
+      "startTime": 75.967,
+      "endTime": 78.056,
+      "avgEnergy": 0.228,
+      "energyAcc": -0.084,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.381,
+        "drums": 0.14,
+        "bass": 0.153
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 144,
+          "time": 75.967,
+          "energy": 0.027,
+          "stems": {
+            "drums": 0.003,
+            "bass": 0.086,
+            "vocal": 0.013,
+            "high": 0.003
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 145,
+          "time": 76.489,
+          "energy": 0.355,
+          "stems": {
+            "drums": 0.293,
+            "bass": 0.353,
+            "vocal": 0.375,
+            "high": 0.515
+          },
+          "pitchHz": 80.9,
+          "pitchSlope": 0.94,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 146,
+          "time": 77.011,
+          "energy": 0.262,
+          "stems": {
+            "drums": 0.181,
+            "bass": 0.086,
+            "vocal": 0.497,
+            "high": 0.277
+          },
+          "pitchHz": 347.3,
+          "pitchSlope": -15.87,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 147,
+          "time": 77.534,
+          "energy": 0.267,
+          "stems": {
+            "drums": 0.083,
+            "bass": 0.087,
+            "vocal": 0.64,
+            "high": 0.239
+          },
+          "pitchHz": 81.6,
+          "pitchSlope": -0.5,
+          "panning": 0.07
+        }
+      ]
+    },
+    {
+      "barIndex": 37,
+      "startTime": 78.056,
+      "endTime": 80.146,
+      "avgEnergy": 0.36,
+      "energyAcc": 0.132,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.538,
+        "drums": 0.197,
+        "bass": 0.33
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 148,
+          "time": 78.056,
+          "energy": 0.195,
+          "stems": {
+            "drums": 0.126,
+            "bass": 0.014,
+            "vocal": 0.372,
+            "high": 0.362
+          },
+          "pitchHz": 368.1,
+          "pitchSlope": 284.94,
+          "panning": 0.09
+        },
+        {
+          "beatIndex": 149,
+          "time": 78.579,
+          "energy": 0.395,
+          "stems": {
+            "drums": 0.147,
+            "bass": 0.306,
+            "vocal": 0.761,
+            "high": 0.392
+          },
+          "pitchHz": 91.8,
+          "pitchSlope": -0.12,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 150,
+          "time": 79.101,
+          "energy": 0.394,
+          "stems": {
+            "drums": 0.23,
+            "bass": 0.358,
+            "vocal": 0.588,
+            "high": 0.48
+          },
+          "pitchHz": 88.3,
+          "pitchSlope": 1.11,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 151,
+          "time": 79.624,
+          "energy": 0.456,
+          "stems": {
+            "drums": 0.286,
+            "bass": 0.641,
+            "vocal": 0.432,
+            "high": 0.66
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 38,
+      "startTime": 80.146,
+      "endTime": 82.236,
+      "avgEnergy": 0.459,
+      "energyAcc": 0.099,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.532,
+        "drums": 0.482,
+        "bass": 0.266
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 152,
+          "time": 80.146,
+          "energy": 0.442,
+          "stems": {
+            "drums": 0.43,
+            "bass": 0.197,
+            "vocal": 0.605,
+            "high": 0.605
+          },
+          "pitchHz": 123.3,
+          "pitchSlope": 1.49,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 153,
+          "time": 80.669,
+          "energy": 0.445,
+          "stems": {
+            "drums": 0.49,
+            "bass": 0.313,
+            "vocal": 0.459,
+            "high": 0.571
+          },
+          "pitchHz": 97.3,
+          "pitchSlope": -0.03,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 154,
+          "time": 81.191,
+          "energy": 0.499,
+          "stems": {
+            "drums": 0.49,
+            "bass": 0.281,
+            "vocal": 0.647,
+            "high": 0.627
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -10.62,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 155,
+          "time": 81.714,
+          "energy": 0.451,
+          "stems": {
+            "drums": 0.518,
+            "bass": 0.271,
+            "vocal": 0.419,
+            "high": 0.76
+          },
+          "pitchHz": 106.9,
+          "pitchSlope": -253.58,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 39,
+      "startTime": 82.236,
+      "endTime": 84.326,
+      "avgEnergy": 0.317,
+      "energyAcc": -0.143,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.352,
+        "drums": 0.312,
+        "bass": 0.181
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 156,
+          "time": 82.236,
+          "energy": 0.396,
+          "stems": {
+            "drums": 0.524,
+            "bass": 0.215,
+            "vocal": 0.252,
+            "high": 0.83
+          },
+          "pitchHz": 84.1,
+          "pitchSlope": 4.1,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 157,
+          "time": 82.759,
+          "energy": 0.333,
+          "stems": {
+            "drums": 0.478,
+            "bass": 0.109,
+            "vocal": 0.21,
+            "high": 0.757
+          },
+          "pitchHz": 89.7,
+          "pitchSlope": -0.39,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 158,
+          "time": 83.281,
+          "energy": 0.38,
+          "stems": {
+            "drums": 0.162,
+            "bass": 0.379,
+            "vocal": 0.635,
+            "high": 0.381
+          },
+          "pitchHz": 85.8,
+          "pitchSlope": 1.22,
+          "panning": 0.07
+        },
+        {
+          "beatIndex": 159,
+          "time": 83.804,
+          "energy": 0.157,
+          "stems": {
+            "drums": 0.084,
+            "bass": 0.022,
+            "vocal": 0.312,
+            "high": 0.284
+          },
+          "pitchHz": 124.1,
+          "pitchSlope": -61.47,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 40,
+      "startTime": 84.326,
+      "endTime": 86.415,
+      "avgEnergy": 0.288,
+      "energyAcc": -0.029,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.469,
+        "drums": 0.145,
+        "bass": 0.229
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 160,
+          "time": 84.326,
+          "energy": 0.259,
+          "stems": {
+            "drums": 0.087,
+            "bass": 0.316,
+            "vocal": 0.428,
+            "high": 0.212
+          },
+          "pitchHz": 93.2,
+          "pitchSlope": -0.34,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 161,
+          "time": 84.848,
+          "energy": 0.285,
+          "stems": {
+            "drums": 0.101,
+            "bass": 0.142,
+            "vocal": 0.61,
+            "high": 0.31
+          },
+          "pitchHz": 91.9,
+          "pitchSlope": 0.89,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 162,
+          "time": 85.371,
+          "energy": 0.39,
+          "stems": {
+            "drums": 0.307,
+            "bass": 0.315,
+            "vocal": 0.418,
+            "high": 0.781
+          },
+          "pitchHz": 92.8,
+          "pitchSlope": 0.88,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 163,
+          "time": 85.893,
+          "energy": 0.218,
+          "stems": {
+            "drums": 0.084,
+            "bass": 0.144,
+            "vocal": 0.422,
+            "high": 0.26
+          },
+          "pitchHz": 109.6,
+          "pitchSlope": -9.61,
+          "panning": -0.1
+        }
+      ]
+    },
+    {
+      "barIndex": 41,
+      "startTime": 86.416,
+      "endTime": 88.505,
+      "avgEnergy": 0.338,
+      "energyAcc": 0.05,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.456,
+        "drums": 0.241,
+        "bass": 0.271
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 164,
+          "time": 86.416,
+          "energy": 0.368,
+          "stems": {
+            "drums": 0.198,
+            "bass": 0.412,
+            "vocal": 0.49,
+            "high": 0.488
+          },
+          "pitchHz": 92.2,
+          "pitchSlope": 3.26,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 165,
+          "time": 86.938,
+          "energy": 0.316,
+          "stems": {
+            "drums": 0.201,
+            "bass": 0.223,
+            "vocal": 0.497,
+            "high": 0.406
+          },
+          "pitchHz": 81.9,
+          "pitchSlope": -164.0,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 166,
+          "time": 87.461,
+          "energy": 0.364,
+          "stems": {
+            "drums": 0.336,
+            "bass": 0.302,
+            "vocal": 0.352,
+            "high": 0.655
+          },
+          "pitchHz": 88.7,
+          "pitchSlope": -0.32,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 167,
+          "time": 87.983,
+          "energy": 0.302,
+          "stems": {
+            "drums": 0.23,
+            "bass": 0.148,
+            "vocal": 0.483,
+            "high": 0.392
+          },
+          "pitchHz": 82.4,
+          "pitchSlope": -0.21,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 42,
+      "startTime": 88.506,
+      "endTime": 90.595,
+      "avgEnergy": 0.143,
+      "energyAcc": -0.195,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.274,
+        "drums": 0.078,
+        "bass": 0.063
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 168,
+          "time": 88.506,
+          "energy": 0.166,
+          "stems": {
+            "drums": 0.076,
+            "bass": 0.018,
+            "vocal": 0.358,
+            "high": 0.272
+          },
+          "pitchHz": 217.4,
+          "pitchSlope": -1.03,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 169,
+          "time": 89.028,
+          "energy": 0.235,
+          "stems": {
+            "drums": 0.207,
+            "bass": 0.231,
+            "vocal": 0.257,
+            "high": 0.28
+          },
+          "pitchHz": 89.6,
+          "pitchSlope": -3.52,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 170,
+          "time": 89.551,
+          "energy": 0.006,
+          "stems": {
+            "drums": 0.001,
+            "bass": 0.003,
+            "vocal": 0.012,
+            "high": 0.008
+          },
+          "pitchHz": 93.4,
+          "pitchSlope": -0.01,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 171,
+          "time": 90.073,
+          "energy": 0.165,
+          "stems": {
+            "drums": 0.03,
+            "bass": 0.0,
+            "vocal": 0.469,
+            "high": 0.139
+          },
+          "pitchHz": 253.9,
+          "pitchSlope": 0.46,
+          "panning": -0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 43,
+      "startTime": 90.596,
+      "endTime": 92.685,
+      "avgEnergy": 0.189,
+      "energyAcc": 0.046,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.492,
+        "drums": 0.058,
+        "bass": 0.001
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 172,
+          "time": 90.596,
+          "energy": 0.189,
+          "stems": {
+            "drums": 0.056,
+            "bass": 0.001,
+            "vocal": 0.484,
+            "high": 0.24
+          },
+          "pitchHz": 275.7,
+          "pitchSlope": 2.26,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 173,
+          "time": 91.118,
+          "energy": 0.188,
+          "stems": {
+            "drums": 0.089,
+            "bass": 0.0,
+            "vocal": 0.454,
+            "high": 0.204
+          },
+          "pitchHz": 183.9,
+          "pitchSlope": 1.55,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 174,
+          "time": 91.64,
+          "energy": 0.17,
+          "stems": {
+            "drums": 0.067,
+            "bass": 0.001,
+            "vocal": 0.404,
+            "high": 0.252
+          },
+          "pitchHz": 254.8,
+          "pitchSlope": -0.15,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 175,
+          "time": 92.163,
+          "energy": 0.207,
+          "stems": {
+            "drums": 0.02,
+            "bass": 0.001,
+            "vocal": 0.627,
+            "high": 0.12
+          },
+          "pitchHz": 275.5,
+          "pitchSlope": 0.44,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 44,
+      "startTime": 92.685,
+      "endTime": 94.775,
+      "avgEnergy": 0.173,
+      "energyAcc": -0.016,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.347,
+        "drums": 0.139,
+        "bass": 0.0
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 176,
+          "time": 92.685,
+          "energy": 0.198,
+          "stems": {
+            "drums": 0.031,
+            "bass": 0.001,
+            "vocal": 0.555,
+            "high": 0.2
+          },
+          "pitchHz": 277.7,
+          "pitchSlope": -3.05,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 177,
+          "time": 93.208,
+          "energy": 0.176,
+          "stems": {
+            "drums": 0.301,
+            "bass": 0.0,
+            "vocal": 0.158,
+            "high": 0.235
+          },
+          "pitchHz": 247.3,
+          "pitchSlope": 11.24,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 178,
+          "time": 93.73,
+          "energy": 0.223,
+          "stems": {
+            "drums": 0.202,
+            "bass": 0.0,
+            "vocal": 0.399,
+            "high": 0.329
+          },
+          "pitchHz": 218.3,
+          "pitchSlope": -0.61,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 179,
+          "time": 94.253,
+          "energy": 0.097,
+          "stems": {
+            "drums": 0.02,
+            "bass": 0.0,
+            "vocal": 0.274,
+            "high": 0.077
+          },
+          "pitchHz": 222.3,
+          "pitchSlope": 1.01,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 45,
+      "startTime": 94.775,
+      "endTime": 96.865,
+      "avgEnergy": 0.239,
+      "energyAcc": 0.067,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.365,
+        "drums": 0.262,
+        "bass": 0.001
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 180,
+          "time": 94.775,
+          "energy": 0.26,
+          "stems": {
+            "drums": 0.183,
+            "bass": 0.001,
+            "vocal": 0.534,
+            "high": 0.35
+          },
+          "pitchHz": 278.0,
+          "pitchSlope": -0.83,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 181,
+          "time": 95.298,
+          "energy": 0.217,
+          "stems": {
+            "drums": 0.186,
+            "bass": 0.0,
+            "vocal": 0.422,
+            "high": 0.254
+          },
+          "pitchHz": 253.1,
+          "pitchSlope": 4.02,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 182,
+          "time": 95.82,
+          "energy": 0.301,
+          "stems": {
+            "drums": 0.467,
+            "bass": 0.001,
+            "vocal": 0.254,
+            "high": 0.613
+          },
+          "pitchHz": 278.5,
+          "pitchSlope": 1.67,
+          "panning": 0.19
+        },
+        {
+          "beatIndex": 183,
+          "time": 96.343,
+          "energy": 0.18,
+          "stems": {
+            "drums": 0.211,
+            "bass": 0.0,
+            "vocal": 0.251,
+            "high": 0.304
+          },
+          "pitchHz": 249.7,
+          "pitchSlope": -81.93,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 46,
+      "startTime": 96.865,
+      "endTime": 98.955,
+      "avgEnergy": 0.167,
+      "energyAcc": -0.072,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.244,
+        "drums": 0.166,
+        "bass": 0.001
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 184,
+          "time": 96.865,
+          "energy": 0.192,
+          "stems": {
+            "drums": 0.228,
+            "bass": 0.0,
+            "vocal": 0.278,
+            "high": 0.292
+          },
+          "pitchHz": 219.3,
+          "pitchSlope": 26.74,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 185,
+          "time": 97.388,
+          "energy": 0.217,
+          "stems": {
+            "drums": 0.086,
+            "bass": 0.001,
+            "vocal": 0.547,
+            "high": 0.231
+          },
+          "pitchHz": 272.9,
+          "pitchSlope": 6.34,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 186,
+          "time": 97.91,
+          "energy": 0.141,
+          "stems": {
+            "drums": 0.2,
+            "bass": 0.001,
+            "vocal": 0.084,
+            "high": 0.453
+          },
+          "pitchHz": 263.0,
+          "pitchSlope": 163.77,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 187,
+          "time": 98.433,
+          "energy": 0.117,
+          "stems": {
+            "drums": 0.151,
+            "bass": 0.002,
+            "vocal": 0.067,
+            "high": 0.434
+          },
+          "pitchHz": 99.5,
+          "pitchSlope": 9.09,
+          "panning": 0.07
+        }
+      ]
+    },
+    {
+      "barIndex": 47,
+      "startTime": 98.955,
+      "endTime": 101.044,
+      "avgEnergy": 0.107,
+      "energyAcc": -0.06,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.208,
+        "drums": 0.082,
+        "bass": 0.004
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 188,
+          "time": 98.955,
+          "energy": 0.11,
+          "stems": {
+            "drums": 0.024,
+            "bass": 0.004,
+            "vocal": 0.322,
+            "high": 0.039
+          },
+          "pitchHz": 274.7,
+          "pitchSlope": -3.67,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 189,
+          "time": 99.477,
+          "energy": 0.042,
+          "stems": {
+            "drums": 0.01,
+            "bass": 0.003,
+            "vocal": 0.118,
+            "high": 0.029
+          },
+          "pitchHz": 443.9,
+          "pitchSlope": 226.9,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 190,
+          "time": 100.0,
+          "energy": 0.142,
+          "stems": {
+            "drums": 0.2,
+            "bass": 0.001,
+            "vocal": 0.083,
+            "high": 0.464
+          },
+          "pitchHz": 95.1,
+          "pitchSlope": -283.39,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 191,
+          "time": 100.522,
+          "energy": 0.134,
+          "stems": {
+            "drums": 0.093,
+            "bass": 0.006,
+            "vocal": 0.31,
+            "high": 0.075
+          },
+          "pitchHz": 321.4,
+          "pitchSlope": 28.56,
+          "panning": -0.15
+        }
+      ]
+    },
+    {
+      "barIndex": 48,
+      "startTime": 101.045,
+      "endTime": 103.134,
+      "avgEnergy": 0.276,
+      "energyAcc": 0.169,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.325,
+        "drums": 0.216,
+        "bass": 0.305
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 192,
+          "time": 101.045,
+          "energy": 0.273,
+          "stems": {
+            "drums": 0.189,
+            "bass": 0.228,
+            "vocal": 0.354,
+            "high": 0.437
+          },
+          "pitchHz": 81.3,
+          "pitchSlope": 1.28,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 193,
+          "time": 101.567,
+          "energy": 0.368,
+          "stems": {
+            "drums": 0.464,
+            "bass": 0.462,
+            "vocal": 0.155,
+            "high": 0.442
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 194,
+          "time": 102.09,
+          "energy": 0.242,
+          "stems": {
+            "drums": 0.116,
+            "bass": 0.225,
+            "vocal": 0.44,
+            "high": 0.133
+          },
+          "pitchHz": 88.6,
+          "pitchSlope": -0.05,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 195,
+          "time": 102.612,
+          "energy": 0.22,
+          "stems": {
+            "drums": 0.094,
+            "bass": 0.305,
+            "vocal": 0.352,
+            "high": 0.05
+          },
+          "pitchHz": 80.3,
+          "pitchSlope": 0.3,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 49,
+      "startTime": 103.135,
+      "endTime": 105.224,
+      "avgEnergy": 0.217,
+      "energyAcc": -0.059,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.365,
+        "drums": 0.074,
+        "bass": 0.279
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 196,
+          "time": 103.135,
+          "energy": 0.195,
+          "stems": {
+            "drums": 0.042,
+            "bass": 0.297,
+            "vocal": 0.31,
+            "high": 0.128
+          },
+          "pitchHz": 108.5,
+          "pitchSlope": 0.07,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 197,
+          "time": 103.657,
+          "energy": 0.206,
+          "stems": {
+            "drums": 0.031,
+            "bass": 0.326,
+            "vocal": 0.338,
+            "high": 0.125
+          },
+          "pitchHz": 97.4,
+          "pitchSlope": -0.62,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 198,
+          "time": 104.18,
+          "energy": 0.178,
+          "stems": {
+            "drums": 0.087,
+            "bass": 0.066,
+            "vocal": 0.384,
+            "high": 0.16
+          },
+          "pitchHz": 93.1,
+          "pitchSlope": 0.06,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 199,
+          "time": 104.702,
+          "energy": 0.291,
+          "stems": {
+            "drums": 0.135,
+            "bass": 0.426,
+            "vocal": 0.427,
+            "high": 0.093
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 50,
+      "startTime": 105.225,
+      "endTime": 107.314,
+      "avgEnergy": 0.356,
+      "energyAcc": 0.139,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.382,
+        "drums": 0.247,
+        "bass": 0.483
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 200,
+          "time": 105.225,
+          "energy": 0.29,
+          "stems": {
+            "drums": 0.087,
+            "bass": 0.671,
+            "vocal": 0.277,
+            "high": 0.09
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 201,
+          "time": 105.747,
+          "energy": 0.307,
+          "stems": {
+            "drums": 0.155,
+            "bass": 0.375,
+            "vocal": 0.475,
+            "high": 0.17
+          },
+          "pitchHz": 93.6,
+          "pitchSlope": 6.88,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 202,
+          "time": 106.27,
+          "energy": 0.463,
+          "stems": {
+            "drums": 0.467,
+            "bass": 0.402,
+            "vocal": 0.448,
+            "high": 0.645
+          },
+          "pitchHz": 82.5,
+          "pitchSlope": -1.28,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 203,
+          "time": 106.792,
+          "energy": 0.362,
+          "stems": {
+            "drums": 0.278,
+            "bass": 0.483,
+            "vocal": 0.329,
+            "high": 0.456
+          },
+          "pitchHz": 91.5,
+          "pitchSlope": -0.8,
+          "panning": 0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 51,
+      "startTime": 107.314,
+      "endTime": 109.404,
+      "avgEnergy": 0.335,
+      "energyAcc": -0.021,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.288,
+        "drums": 0.35,
+        "bass": 0.34
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 204,
+          "time": 107.314,
+          "energy": 0.323,
+          "stems": {
+            "drums": 0.273,
+            "bass": 0.395,
+            "vocal": 0.29,
+            "high": 0.414
+          },
+          "pitchHz": 89.4,
+          "pitchSlope": -12.72,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 205,
+          "time": 107.837,
+          "energy": 0.39,
+          "stems": {
+            "drums": 0.304,
+            "bass": 0.557,
+            "vocal": 0.32,
+            "high": 0.479
+          },
+          "pitchHz": 84.5,
+          "pitchSlope": 4.48,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 206,
+          "time": 108.359,
+          "energy": 0.372,
+          "stems": {
+            "drums": 0.53,
+            "bass": 0.245,
+            "vocal": 0.251,
+            "high": 0.495
+          },
+          "pitchHz": 103.6,
+          "pitchSlope": -210.7,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 207,
+          "time": 108.882,
+          "energy": 0.256,
+          "stems": {
+            "drums": 0.294,
+            "bass": 0.161,
+            "vocal": 0.291,
+            "high": 0.26
+          },
+          "pitchHz": 90.7,
+          "pitchSlope": -7.48,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 52,
+      "startTime": 109.404,
+      "endTime": 111.494,
+      "avgEnergy": 0.166,
+      "energyAcc": -0.169,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.336,
+        "drums": 0.06,
+        "bass": 0.134
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 208,
+          "time": 109.404,
+          "energy": 0.196,
+          "stems": {
+            "drums": 0.153,
+            "bass": 0.118,
+            "vocal": 0.318,
+            "high": 0.174
+          },
+          "pitchHz": 140.4,
+          "pitchSlope": 52.77,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 209,
+          "time": 109.927,
+          "energy": 0.155,
+          "stems": {
+            "drums": 0.037,
+            "bass": 0.041,
+            "vocal": 0.389,
+            "high": 0.149
+          },
+          "pitchHz": 356.6,
+          "pitchSlope": -88.85,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 210,
+          "time": 110.449,
+          "energy": 0.168,
+          "stems": {
+            "drums": 0.017,
+            "bass": 0.202,
+            "vocal": 0.356,
+            "high": 0.046
+          },
+          "pitchHz": 473.1,
+          "pitchSlope": 393.08,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 211,
+          "time": 110.972,
+          "energy": 0.144,
+          "stems": {
+            "drums": 0.032,
+            "bass": 0.173,
+            "vocal": 0.28,
+            "high": 0.058
+          },
+          "pitchHz": 98.3,
+          "pitchSlope": 11.48,
+          "panning": -0.04
+        }
+      ]
+    },
+    {
+      "barIndex": 53,
+      "startTime": 111.494,
+      "endTime": 113.584,
+      "avgEnergy": 0.181,
+      "energyAcc": 0.015,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.433,
+        "drums": 0.052,
+        "bass": 0.077
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 212,
+          "time": 111.494,
+          "energy": 0.18,
+          "stems": {
+            "drums": 0.076,
+            "bass": 0.026,
+            "vocal": 0.426,
+            "high": 0.194
+          },
+          "pitchHz": 82.5,
+          "pitchSlope": -162.73,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 213,
+          "time": 112.017,
+          "energy": 0.224,
+          "stems": {
+            "drums": 0.063,
+            "bass": 0.263,
+            "vocal": 0.418,
+            "high": 0.105
+          },
+          "pitchHz": 800.0,
+          "pitchSlope": 668.41,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 214,
+          "time": 112.539,
+          "energy": 0.165,
+          "stems": {
+            "drums": 0.041,
+            "bass": 0.015,
+            "vocal": 0.453,
+            "high": 0.106
+          },
+          "pitchHz": 414.7,
+          "pitchSlope": 310.07,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 215,
+          "time": 113.062,
+          "energy": 0.156,
+          "stems": {
+            "drums": 0.026,
+            "bass": 0.005,
+            "vocal": 0.435,
+            "high": 0.149
+          },
+          "pitchHz": 208.4,
+          "pitchSlope": 124.69,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 54,
+      "startTime": 113.584,
+      "endTime": 115.673,
+      "avgEnergy": 0.17,
+      "energyAcc": -0.011,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.399,
+        "drums": 0.047,
+        "bass": 0.059
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 216,
+          "time": 113.584,
+          "energy": 0.163,
+          "stems": {
+            "drums": 0.047,
+            "bass": 0.021,
+            "vocal": 0.424,
+            "high": 0.139
+          },
+          "pitchHz": 113.9,
+          "pitchSlope": -120.63,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 217,
+          "time": 114.107,
+          "energy": 0.119,
+          "stems": {
+            "drums": 0.028,
+            "bass": 0.028,
+            "vocal": 0.296,
+            "high": 0.13
+          },
+          "pitchHz": 154.3,
+          "pitchSlope": 51.12,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 218,
+          "time": 114.629,
+          "energy": 0.229,
+          "stems": {
+            "drums": 0.068,
+            "bass": 0.056,
+            "vocal": 0.531,
+            "high": 0.316
+          },
+          "pitchHz": 90.1,
+          "pitchSlope": -0.13,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 219,
+          "time": 115.151,
+          "energy": 0.167,
+          "stems": {
+            "drums": 0.046,
+            "bass": 0.129,
+            "vocal": 0.344,
+            "high": 0.152
+          },
+          "pitchHz": 131.8,
+          "pitchSlope": 1.86,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 55,
+      "startTime": 115.674,
+      "endTime": 117.763,
+      "avgEnergy": 0.199,
+      "energyAcc": 0.029,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.444,
+        "drums": 0.089,
+        "bass": 0.038
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 220,
+          "time": 115.674,
+          "energy": 0.158,
+          "stems": {
+            "drums": 0.032,
+            "bass": 0.039,
+            "vocal": 0.411,
+            "high": 0.134
+          },
+          "pitchHz": 83.7,
+          "pitchSlope": -123.77,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 221,
+          "time": 116.196,
+          "energy": 0.275,
+          "stems": {
+            "drums": 0.15,
+            "bass": 0.018,
+            "vocal": 0.622,
+            "high": 0.317
+          },
+          "pitchHz": 130.9,
+          "pitchSlope": -1.41,
+          "panning": 0.05
+        },
+        {
+          "beatIndex": 222,
+          "time": 116.719,
+          "energy": 0.197,
+          "stems": {
+            "drums": 0.12,
+            "bass": 0.055,
+            "vocal": 0.356,
+            "high": 0.345
+          },
+          "pitchHz": 103.9,
+          "pitchSlope": -49.26,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 223,
+          "time": 117.241,
+          "energy": 0.165,
+          "stems": {
+            "drums": 0.055,
+            "bass": 0.039,
+            "vocal": 0.388,
+            "high": 0.194
+          },
+          "pitchHz": 88.2,
+          "pitchSlope": -0.07,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 56,
+      "startTime": 117.764,
+      "endTime": 119.853,
+      "avgEnergy": 0.244,
+      "energyAcc": 0.045,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.518,
+        "drums": 0.14,
+        "bass": 0.016
+      },
+      "stereoSpread": 0.02,
+      "beats": [
+        {
+          "beatIndex": 224,
+          "time": 117.764,
+          "energy": 0.137,
+          "stems": {
+            "drums": 0.017,
+            "bass": 0.007,
+            "vocal": 0.397,
+            "high": 0.1
+          },
+          "pitchHz": 401.0,
+          "pitchSlope": -12.43,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 225,
+          "time": 118.286,
+          "energy": 0.264,
+          "stems": {
+            "drums": 0.132,
+            "bass": 0.021,
+            "vocal": 0.573,
+            "high": 0.408
+          },
+          "pitchHz": 264.9,
+          "pitchSlope": 131.95,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 226,
+          "time": 118.809,
+          "energy": 0.296,
+          "stems": {
+            "drums": 0.156,
+            "bass": 0.022,
+            "vocal": 0.622,
+            "high": 0.496
+          },
+          "pitchHz": 123.3,
+          "pitchSlope": -0.47,
+          "panning": 0.08
+        },
+        {
+          "beatIndex": 227,
+          "time": 119.331,
+          "energy": 0.28,
+          "stems": {
+            "drums": 0.255,
+            "bass": 0.013,
+            "vocal": 0.482,
+            "high": 0.432
+          },
+          "pitchHz": 253.0,
+          "pitchSlope": 9.06,
+          "panning": 0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 57,
+      "startTime": 119.854,
+      "endTime": 121.943,
+      "avgEnergy": 0.349,
+      "energyAcc": 0.105,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.597,
+        "drums": 0.291,
+        "bass": 0.044
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 228,
+          "time": 119.854,
+          "energy": 0.335,
+          "stems": {
+            "drums": 0.265,
+            "bass": 0.005,
+            "vocal": 0.632,
+            "high": 0.517
+          },
+          "pitchHz": 123.2,
+          "pitchSlope": -305.09,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 229,
+          "time": 120.376,
+          "energy": 0.304,
+          "stems": {
+            "drums": 0.346,
+            "bass": 0.069,
+            "vocal": 0.366,
+            "high": 0.556
+          },
+          "pitchHz": 103.7,
+          "pitchSlope": -108.1,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 230,
+          "time": 120.899,
+          "energy": 0.34,
+          "stems": {
+            "drums": 0.209,
+            "bass": 0.085,
+            "vocal": 0.653,
+            "high": 0.497
+          },
+          "pitchHz": 86.8,
+          "pitchSlope": -0.45,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 231,
+          "time": 121.421,
+          "energy": 0.416,
+          "stems": {
+            "drums": 0.346,
+            "bass": 0.016,
+            "vocal": 0.735,
+            "high": 0.704
+          },
+          "pitchHz": 264.0,
+          "pitchSlope": -4.15,
+          "panning": 0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 58,
+      "startTime": 121.944,
+      "endTime": 124.033,
+      "avgEnergy": 0.29,
+      "energyAcc": -0.059,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.503,
+        "drums": 0.257,
+        "bass": 0.01
+      },
+      "stereoSpread": -0.05,
+      "beats": [
+        {
+          "beatIndex": 232,
+          "time": 121.944,
+          "energy": 0.421,
+          "stems": {
+            "drums": 0.46,
+            "bass": 0.011,
+            "vocal": 0.598,
+            "high": 0.775
+          },
+          "pitchHz": 117.8,
+          "pitchSlope": -57.54,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 233,
+          "time": 122.466,
+          "energy": 0.391,
+          "stems": {
+            "drums": 0.264,
+            "bass": 0.026,
+            "vocal": 0.794,
+            "high": 0.542
+          },
+          "pitchHz": 110.2,
+          "pitchSlope": 0.18,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 234,
+          "time": 122.988,
+          "energy": 0.15,
+          "stems": {
+            "drums": 0.057,
+            "bass": 0.002,
+            "vocal": 0.396,
+            "high": 0.107
+          },
+          "pitchHz": 211.9,
+          "pitchSlope": 131.91,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 235,
+          "time": 123.511,
+          "energy": 0.199,
+          "stems": {
+            "drums": 0.245,
+            "bass": 0.001,
+            "vocal": 0.224,
+            "high": 0.456
+          },
+          "pitchHz": 91.9,
+          "pitchSlope": -0.15,
+          "panning": -0.18
+        }
+      ]
+    },
+    {
+      "barIndex": 59,
+      "startTime": 124.033,
+      "endTime": 126.123,
+      "avgEnergy": 0.082,
+      "energyAcc": -0.208,
+      "tension": "chill",
+      "stemDominance": {
+        "vocal": 0.15,
+        "drums": 0.057,
+        "bass": 0.0
+      },
+      "stereoSpread": 0.08,
+      "beats": [
+        {
+          "beatIndex": 236,
+          "time": 124.033,
+          "energy": 0.008,
+          "stems": {
+            "drums": 0.003,
+            "bass": 0.0,
+            "vocal": 0.015,
+            "high": 0.023
+          },
+          "pitchHz": 351.0,
+          "pitchSlope": 58.85,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 237,
+          "time": 124.556,
+          "energy": 0.126,
+          "stems": {
+            "drums": 0.208,
+            "bass": 0.0,
+            "vocal": 0.033,
+            "high": 0.43
+          },
+          "pitchHz": 80.6,
+          "pitchSlope": -210.02,
+          "panning": 0.14
+        },
+        {
+          "beatIndex": 238,
+          "time": 125.078,
+          "energy": 0.015,
+          "stems": {
+            "drums": 0.004,
+            "bass": 0.0,
+            "vocal": 0.035,
+            "high": 0.027
+          },
+          "pitchHz": 176.5,
+          "pitchSlope": -114.61,
+          "panning": 0.1
+        },
+        {
+          "beatIndex": 239,
+          "time": 125.601,
+          "energy": 0.177,
+          "stems": {
+            "drums": 0.013,
+            "bass": 0.0,
+            "vocal": 0.516,
+            "high": 0.178
+          },
+          "pitchHz": 262.0,
+          "pitchSlope": 2.1,
+          "panning": 0.1
+        }
+      ]
+    },
+    {
+      "barIndex": 60,
+      "startTime": 126.123,
+      "endTime": 128.213,
+      "avgEnergy": 0.329,
+      "energyAcc": 0.247,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.413,
+        "drums": 0.277,
+        "bass": 0.218
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 240,
+          "time": 126.123,
+          "energy": 0.21,
+          "stems": {
+            "drums": 0.04,
+            "bass": 0.0,
+            "vocal": 0.606,
+            "high": 0.148
+          },
+          "pitchHz": 494.0,
+          "pitchSlope": -1.46,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 241,
+          "time": 126.646,
+          "energy": 0.274,
+          "stems": {
+            "drums": 0.128,
+            "bass": 0.387,
+            "vocal": 0.325,
+            "high": 0.346
+          },
+          "pitchHz": 80.2,
+          "pitchSlope": 0.15,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 242,
+          "time": 127.168,
+          "energy": 0.372,
+          "stems": {
+            "drums": 0.328,
+            "bass": 0.28,
+            "vocal": 0.374,
+            "high": 0.751
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -2.05,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 243,
+          "time": 127.691,
+          "energy": 0.461,
+          "stems": {
+            "drums": 0.611,
+            "bass": 0.207,
+            "vocal": 0.347,
+            "high": 0.913
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 61,
+      "startTime": 128.213,
+      "endTime": 130.303,
+      "avgEnergy": 0.31,
+      "energyAcc": -0.019,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.475,
+        "drums": 0.148,
+        "bass": 0.301
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 244,
+          "time": 128.213,
+          "energy": 0.296,
+          "stems": {
+            "drums": 0.179,
+            "bass": 0.099,
+            "vocal": 0.536,
+            "high": 0.48
+          },
+          "pitchHz": 442.0,
+          "pitchSlope": 294.49,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 245,
+          "time": 128.736,
+          "energy": 0.329,
+          "stems": {
+            "drums": 0.134,
+            "bass": 0.5,
+            "vocal": 0.417,
+            "high": 0.325
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 246,
+          "time": 129.258,
+          "energy": 0.339,
+          "stems": {
+            "drums": 0.155,
+            "bass": 0.531,
+            "vocal": 0.353,
+            "high": 0.454
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -385.94,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 247,
+          "time": 129.781,
+          "energy": 0.277,
+          "stems": {
+            "drums": 0.123,
+            "bass": 0.076,
+            "vocal": 0.592,
+            "high": 0.37
+          },
+          "pitchHz": 147.3,
+          "pitchSlope": -0.13,
+          "panning": 0.04
+        }
+      ]
+    },
+    {
+      "barIndex": 62,
+      "startTime": 130.303,
+      "endTime": 132.392,
+      "avgEnergy": 0.339,
+      "energyAcc": 0.029,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.472,
+        "drums": 0.183,
+        "bass": 0.382
+      },
+      "stereoSpread": -0.03,
+      "beats": [
+        {
+          "beatIndex": 248,
+          "time": 130.303,
+          "energy": 0.365,
+          "stems": {
+            "drums": 0.287,
+            "bass": 0.445,
+            "vocal": 0.365,
+            "high": 0.436
+          },
+          "pitchHz": 86.8,
+          "pitchSlope": 6.85,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 249,
+          "time": 130.825,
+          "energy": 0.293,
+          "stems": {
+            "drums": 0.153,
+            "bass": 0.277,
+            "vocal": 0.455,
+            "high": 0.336
+          },
+          "pitchHz": 85.2,
+          "pitchSlope": 0.49,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 250,
+          "time": 131.348,
+          "energy": 0.328,
+          "stems": {
+            "drums": 0.087,
+            "bass": 0.388,
+            "vocal": 0.558,
+            "high": 0.327
+          },
+          "pitchHz": 105.1,
+          "pitchSlope": 0.38,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 251,
+          "time": 131.87,
+          "energy": 0.371,
+          "stems": {
+            "drums": 0.207,
+            "bass": 0.419,
+            "vocal": 0.509,
+            "high": 0.41
+          },
+          "pitchHz": 88.8,
+          "pitchSlope": 8.76,
+          "panning": -0.04
+        }
+      ]
+    },
+    {
+      "barIndex": 63,
+      "startTime": 132.393,
+      "endTime": 134.482,
+      "avgEnergy": 0.401,
+      "energyAcc": 0.062,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.441,
+        "drums": 0.35,
+        "bass": 0.356
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 252,
+          "time": 132.393,
+          "energy": 0.32,
+          "stems": {
+            "drums": 0.348,
+            "bass": 0.296,
+            "vocal": 0.254,
+            "high": 0.481
+          },
+          "pitchHz": 87.3,
+          "pitchSlope": 0.55,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 253,
+          "time": 132.915,
+          "energy": 0.434,
+          "stems": {
+            "drums": 0.277,
+            "bass": 0.434,
+            "vocal": 0.619,
+            "high": 0.427
+          },
+          "pitchHz": 80.9,
+          "pitchSlope": -67.6,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 254,
+          "time": 133.438,
+          "energy": 0.386,
+          "stems": {
+            "drums": 0.363,
+            "bass": 0.288,
+            "vocal": 0.463,
+            "high": 0.483
+          },
+          "pitchHz": 82.9,
+          "pitchSlope": 0.49,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 255,
+          "time": 133.96,
+          "energy": 0.465,
+          "stems": {
+            "drums": 0.412,
+            "bass": 0.407,
+            "vocal": 0.426,
+            "high": 0.909
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -4.8,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 64,
+      "startTime": 134.483,
+      "endTime": 136.572,
+      "avgEnergy": 0.411,
+      "energyAcc": 0.01,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.412,
+        "drums": 0.434,
+        "bass": 0.271
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 256,
+          "time": 134.483,
+          "energy": 0.471,
+          "stems": {
+            "drums": 0.585,
+            "bass": 0.141,
+            "vocal": 0.53,
+            "high": 0.718
+          },
+          "pitchHz": 800.0,
+          "pitchSlope": 0.0,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 257,
+          "time": 135.005,
+          "energy": 0.473,
+          "stems": {
+            "drums": 0.654,
+            "bass": 0.191,
+            "vocal": 0.348,
+            "high": 0.912
+          },
+          "pitchHz": 82.6,
+          "pitchSlope": -0.16,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 258,
+          "time": 135.528,
+          "energy": 0.323,
+          "stems": {
+            "drums": 0.355,
+            "bass": 0.091,
+            "vocal": 0.367,
+            "high": 0.655
+          },
+          "pitchHz": 271.9,
+          "pitchSlope": 177.48,
+          "panning": -0.04
+        },
+        {
+          "beatIndex": 259,
+          "time": 136.05,
+          "energy": 0.376,
+          "stems": {
+            "drums": 0.144,
+            "bass": 0.663,
+            "vocal": 0.401,
+            "high": 0.392
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.03
+        }
+      ]
+    },
+    {
+      "barIndex": 65,
+      "startTime": 136.573,
+      "endTime": 138.662,
+      "avgEnergy": 0.216,
+      "energyAcc": -0.195,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.419,
+        "drums": 0.087,
+        "bass": 0.134
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 260,
+          "time": 136.573,
+          "energy": 0.224,
+          "stems": {
+            "drums": 0.1,
+            "bass": 0.191,
+            "vocal": 0.388,
+            "high": 0.251
+          },
+          "pitchHz": 88.0,
+          "pitchSlope": 6.27,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 261,
+          "time": 137.095,
+          "energy": 0.161,
+          "stems": {
+            "drums": 0.047,
+            "bass": 0.094,
+            "vocal": 0.33,
+            "high": 0.215
+          },
+          "pitchHz": 95.2,
+          "pitchSlope": -0.27,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 262,
+          "time": 137.618,
+          "energy": 0.217,
+          "stems": {
+            "drums": 0.108,
+            "bass": 0.215,
+            "vocal": 0.334,
+            "high": 0.256
+          },
+          "pitchHz": 98.3,
+          "pitchSlope": -17.88,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 263,
+          "time": 138.14,
+          "energy": 0.262,
+          "stems": {
+            "drums": 0.094,
+            "bass": 0.035,
+            "vocal": 0.625,
+            "high": 0.328
+          },
+          "pitchHz": 387.6,
+          "pitchSlope": 1.36,
+          "panning": -0.04
+        }
+      ]
+    },
+    {
+      "barIndex": 66,
+      "startTime": 138.662,
+      "endTime": 140.752,
+      "avgEnergy": 0.29,
+      "energyAcc": 0.074,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.378,
+        "drums": 0.207,
+        "bass": 0.223
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 264,
+          "time": 138.662,
+          "energy": 0.228,
+          "stems": {
+            "drums": 0.07,
+            "bass": 0.235,
+            "vocal": 0.39,
+            "high": 0.277
+          },
+          "pitchHz": 89.3,
+          "pitchSlope": 0.43,
+          "panning": 0.11
+        },
+        {
+          "beatIndex": 265,
+          "time": 139.185,
+          "energy": 0.263,
+          "stems": {
+            "drums": 0.203,
+            "bass": 0.27,
+            "vocal": 0.219,
+            "high": 0.593
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -16.85,
+          "panning": -0.05
+        },
+        {
+          "beatIndex": 266,
+          "time": 139.707,
+          "energy": 0.398,
+          "stems": {
+            "drums": 0.331,
+            "bass": 0.31,
+            "vocal": 0.492,
+            "high": 0.572
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -3.78,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 267,
+          "time": 140.23,
+          "energy": 0.271,
+          "stems": {
+            "drums": 0.225,
+            "bass": 0.076,
+            "vocal": 0.412,
+            "high": 0.499
+          },
+          "pitchHz": 95.9,
+          "pitchSlope": -97.2,
+          "panning": -0.05
+        }
+      ]
+    },
+    {
+      "barIndex": 67,
+      "startTime": 140.752,
+      "endTime": 142.842,
+      "avgEnergy": 0.395,
+      "energyAcc": 0.105,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.536,
+        "drums": 0.278,
+        "bass": 0.343
+      },
+      "stereoSpread": 0.01,
+      "beats": [
+        {
+          "beatIndex": 268,
+          "time": 140.752,
+          "energy": 0.383,
+          "stems": {
+            "drums": 0.182,
+            "bass": 0.412,
+            "vocal": 0.566,
+            "high": 0.469
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.04
+        },
+        {
+          "beatIndex": 269,
+          "time": 141.275,
+          "energy": 0.433,
+          "stems": {
+            "drums": 0.307,
+            "bass": 0.311,
+            "vocal": 0.645,
+            "high": 0.547
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 270,
+          "time": 141.797,
+          "energy": 0.415,
+          "stems": {
+            "drums": 0.469,
+            "bass": 0.369,
+            "vocal": 0.291,
+            "high": 0.712
+          },
+          "pitchHz": 98.7,
+          "pitchSlope": 0.35,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 271,
+          "time": 142.32,
+          "energy": 0.35,
+          "stems": {
+            "drums": 0.155,
+            "bass": 0.278,
+            "vocal": 0.641,
+            "high": 0.342
+          },
+          "pitchHz": 82.8,
+          "pitchSlope": -5.09,
+          "panning": -0.02
+        }
+      ]
+    },
+    {
+      "barIndex": 68,
+      "startTime": 142.842,
+      "endTime": 144.932,
+      "avgEnergy": 0.315,
+      "energyAcc": -0.081,
+      "tension": "building",
+      "stemDominance": {
+        "vocal": 0.416,
+        "drums": 0.162,
+        "bass": 0.395
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 272,
+          "time": 142.842,
+          "energy": 0.37,
+          "stems": {
+            "drums": 0.119,
+            "bass": 0.555,
+            "vocal": 0.545,
+            "high": 0.263
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.03
+        },
+        {
+          "beatIndex": 273,
+          "time": 143.365,
+          "energy": 0.268,
+          "stems": {
+            "drums": 0.139,
+            "bass": 0.35,
+            "vocal": 0.317,
+            "high": 0.363
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 274,
+          "time": 143.887,
+          "energy": 0.281,
+          "stems": {
+            "drums": 0.149,
+            "bass": 0.288,
+            "vocal": 0.429,
+            "high": 0.277
+          },
+          "pitchHz": 118.9,
+          "pitchSlope": 4.04,
+          "panning": 0.02
+        },
+        {
+          "beatIndex": 275,
+          "time": 144.41,
+          "energy": 0.339,
+          "stems": {
+            "drums": 0.239,
+            "bass": 0.385,
+            "vocal": 0.372,
+            "high": 0.472
+          },
+          "pitchHz": 91.6,
+          "pitchSlope": -8.49,
+          "panning": 0.06
+        }
+      ]
+    },
+    {
+      "barIndex": 69,
+      "startTime": 144.932,
+      "endTime": 147.021,
+      "avgEnergy": 0.196,
+      "energyAcc": -0.119,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.194,
+        "drums": 0.249,
+        "bass": 0.072
+      },
+      "stereoSpread": 0.03,
+      "beats": [
+        {
+          "beatIndex": 276,
+          "time": 144.932,
+          "energy": 0.028,
+          "stems": {
+            "drums": 0.002,
+            "bass": 0.001,
+            "vocal": 0.086,
+            "high": 0.013
+          },
+          "pitchHz": 307.0,
+          "pitchSlope": 208.87,
+          "panning": 0.15
+        },
+        {
+          "beatIndex": 277,
+          "time": 145.454,
+          "energy": 0.342,
+          "stems": {
+            "drums": 0.557,
+            "bass": 0.002,
+            "vocal": 0.286,
+            "high": 0.606
+          },
+          "pitchHz": 101.0,
+          "pitchSlope": -2.63,
+          "panning": -0.02
+        },
+        {
+          "beatIndex": 278,
+          "time": 145.977,
+          "energy": 0.029,
+          "stems": {
+            "drums": 0.016,
+            "bass": 0.0,
+            "vocal": 0.055,
+            "high": 0.065
+          },
+          "pitchHz": 388.2,
+          "pitchSlope": 206.86,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 279,
+          "time": 146.499,
+          "energy": 0.386,
+          "stems": {
+            "drums": 0.42,
+            "bass": 0.286,
+            "vocal": 0.348,
+            "high": 0.631
+          },
+          "pitchHz": 90.2,
+          "pitchSlope": -18.37,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 70,
+      "startTime": 147.022,
+      "endTime": 149.111,
+      "avgEnergy": 0.338,
+      "energyAcc": 0.142,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.256,
+        "drums": 0.339,
+        "bass": 0.414
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 280,
+          "time": 147.022,
+          "energy": 0.319,
+          "stems": {
+            "drums": 0.295,
+            "bass": 0.362,
+            "vocal": 0.304,
+            "high": 0.338
+          },
+          "pitchHz": 82.0,
+          "pitchSlope": -64.69,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 281,
+          "time": 147.544,
+          "energy": 0.285,
+          "stems": {
+            "drums": 0.189,
+            "bass": 0.498,
+            "vocal": 0.229,
+            "high": 0.254
+          },
+          "pitchHz": 109.6,
+          "pitchSlope": 3.48,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 282,
+          "time": 148.067,
+          "energy": 0.392,
+          "stems": {
+            "drums": 0.283,
+            "bass": 0.537,
+            "vocal": 0.386,
+            "high": 0.424
+          },
+          "pitchHz": 97.9,
+          "pitchSlope": -411.92,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 283,
+          "time": 148.589,
+          "energy": 0.357,
+          "stems": {
+            "drums": 0.59,
+            "bass": 0.259,
+            "vocal": 0.103,
+            "high": 0.548
+          },
+          "pitchHz": 94.3,
+          "pitchSlope": -23.48,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 71,
+      "startTime": 149.112,
+      "endTime": 151.201,
+      "avgEnergy": 0.225,
+      "energyAcc": -0.113,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.298,
+        "drums": 0.145,
+        "bass": 0.23
+      },
+      "stereoSpread": -0.0,
+      "beats": [
+        {
+          "beatIndex": 284,
+          "time": 149.112,
+          "energy": 0.343,
+          "stems": {
+            "drums": 0.357,
+            "bass": 0.159,
+            "vocal": 0.4,
+            "high": 0.583
+          },
+          "pitchHz": 593.3,
+          "pitchSlope": 12.37,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 285,
+          "time": 149.634,
+          "energy": 0.149,
+          "stems": {
+            "drums": 0.121,
+            "bass": 0.032,
+            "vocal": 0.253,
+            "high": 0.222
+          },
+          "pitchHz": 552.6,
+          "pitchSlope": 396.33,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 286,
+          "time": 150.157,
+          "energy": 0.304,
+          "stems": {
+            "drums": 0.089,
+            "bass": 0.548,
+            "vocal": 0.371,
+            "high": 0.243
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 287,
+          "time": 150.679,
+          "energy": 0.105,
+          "stems": {
+            "drums": 0.012,
+            "bass": 0.182,
+            "vocal": 0.167,
+            "high": 0.052
+          },
+          "pitchHz": 117.8,
+          "pitchSlope": -2.52,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 72,
+      "startTime": 151.202,
+      "endTime": 153.291,
+      "avgEnergy": 0.219,
+      "energyAcc": -0.006,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.44,
+        "drums": 0.041,
+        "bass": 0.204
+      },
+      "stereoSpread": -0.02,
+      "beats": [
+        {
+          "beatIndex": 288,
+          "time": 151.202,
+          "energy": 0.254,
+          "stems": {
+            "drums": 0.06,
+            "bass": 0.186,
+            "vocal": 0.551,
+            "high": 0.213
+          },
+          "pitchHz": 622.6,
+          "pitchSlope": -1.36,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 289,
+          "time": 151.724,
+          "energy": 0.278,
+          "stems": {
+            "drums": 0.069,
+            "bass": 0.181,
+            "vocal": 0.583,
+            "high": 0.336
+          },
+          "pitchHz": 88.8,
+          "pitchSlope": -0.1,
+          "panning": -0.03
+        },
+        {
+          "beatIndex": 290,
+          "time": 152.247,
+          "energy": 0.188,
+          "stems": {
+            "drums": 0.015,
+            "bass": 0.114,
+            "vocal": 0.443,
+            "high": 0.217
+          },
+          "pitchHz": 117.2,
+          "pitchSlope": -470.13,
+          "panning": -0.07
+        },
+        {
+          "beatIndex": 291,
+          "time": 152.769,
+          "energy": 0.155,
+          "stems": {
+            "drums": 0.021,
+            "bass": 0.335,
+            "vocal": 0.181,
+            "high": 0.094
+          },
+          "pitchHz": 104.2,
+          "pitchSlope": 3.92,
+          "panning": 0.0
+        }
+      ]
+    },
+    {
+      "barIndex": 73,
+      "startTime": 153.291,
+      "endTime": 155.381,
+      "avgEnergy": 0.221,
+      "energyAcc": 0.002,
+      "tension": "groove",
+      "stemDominance": {
+        "vocal": 0.291,
+        "drums": 0.138,
+        "bass": 0.243
+      },
+      "stereoSpread": 0.0,
+      "beats": [
+        {
+          "beatIndex": 292,
+          "time": 153.291,
+          "energy": 0.084,
+          "stems": {
+            "drums": 0.024,
+            "bass": 0.141,
+            "vocal": 0.113,
+            "high": 0.061
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": 0.0,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 293,
+          "time": 153.814,
+          "energy": 0.342,
+          "stems": {
+            "drums": 0.288,
+            "bass": 0.068,
+            "vocal": 0.601,
+            "high": 0.435
+          },
+          "pitchHz": 130.7,
+          "pitchSlope": 0.46,
+          "panning": 0.01
+        },
+        {
+          "beatIndex": 294,
+          "time": 154.336,
+          "energy": 0.258,
+          "stems": {
+            "drums": 0.203,
+            "bass": 0.347,
+            "vocal": 0.228,
+            "high": 0.321
+          },
+          "pitchHz": 81.2,
+          "pitchSlope": 1.17,
+          "panning": -0.0
+        },
+        {
+          "beatIndex": 295,
+          "time": 154.859,
+          "energy": 0.198,
+          "stems": {
+            "drums": 0.035,
+            "bass": 0.417,
+            "vocal": 0.221,
+            "high": 0.159
+          },
+          "pitchHz": 80.3,
+          "pitchSlope": 0.26,
+          "panning": -0.01
+        }
+      ]
+    },
+    {
+      "barIndex": 74,
+      "startTime": 155.381,
+      "endTime": 157.471,
+      "avgEnergy": 0.291,
+      "energyAcc": 0.07,
+      "tension": "climax",
+      "stemDominance": {
+        "vocal": 0.524,
+        "drums": 0.17,
+        "bass": 0.187
+      },
+      "stereoSpread": -0.01,
+      "beats": [
+        {
+          "beatIndex": 296,
+          "time": 155.381,
+          "energy": 0.397,
+          "stems": {
+            "drums": 0.326,
+            "bass": 0.243,
+            "vocal": 0.596,
+            "high": 0.431
+          },
+          "pitchHz": 579.7,
+          "pitchSlope": 499.72,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 297,
+          "time": 155.904,
+          "energy": 0.28,
+          "stems": {
+            "drums": 0.111,
+            "bass": 0.441,
+            "vocal": 0.321,
+            "high": 0.352
+          },
+          "pitchHz": 80.0,
+          "pitchSlope": -6.76,
+          "panning": -0.01
+        },
+        {
+          "beatIndex": 298,
+          "time": 156.426,
+          "energy": 0.224,
+          "stems": {
+            "drums": 0.171,
+            "bass": 0.064,
+            "vocal": 0.44,
+            "high": 0.162
+          },
+          "pitchHz": 131.6,
+          "pitchSlope": 0.18,
+          "panning": 0.0
+        },
+        {
+          "beatIndex": 299,
+          "time": 156.949,
+          "energy": 0.264,
+          "stems": {
+            "drums": 0.073,
+            "bass": 0.001,
+            "vocal": 0.74,
+            "high": 0.158
+          },
+          "pitchHz": 489.5,
+          "pitchSlope": 17.66,
+          "panning": -0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5555 @@
+{
+  "song_metadata": {
+    "bpm": 135,
+    "time_signature": "4/4",
+    "duration_sec": 157.95,
+    "total_bars": 88,
+    "total_slots": 704
+  },
+  "bars": [
+    {
+      "bar_index": 0,
+      "energy_level": "low",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 0,
+          "beat_in_bar": 0,
+          "intensity": 0.1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 0.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 1,
+          "beat_in_bar": 1,
+          "intensity": 0.1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 1.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 2,
+          "beat_in_bar": 2,
+          "intensity": 0.13,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 2.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.14,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 3,
+          "beat_in_bar": 3,
+          "intensity": 0.14,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 3.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.12,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 1,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 4,
+          "beat_in_bar": 0,
+          "intensity": 0.15,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 4.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.54,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 5,
+          "beat_in_bar": 1,
+          "intensity": 0.7,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 5.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 6,
+          "beat_in_bar": 2,
+          "intensity": 0.64,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 6.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.75,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 7,
+          "beat_in_bar": 3,
+          "intensity": 0.7,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 7.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.57,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 2,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 8,
+          "beat_in_bar": 0,
+          "intensity": 0.52,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 8.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.54,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 9,
+          "beat_in_bar": 1,
+          "intensity": 0.63,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 9.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.71,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 10,
+          "beat_in_bar": 2,
+          "intensity": 0.64,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 10.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.46,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 11,
+          "beat_in_bar": 3,
+          "intensity": 0.69,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 11.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.72,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 3,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 12,
+          "beat_in_bar": 0,
+          "intensity": 0.85,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 12.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.76,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 13,
+          "beat_in_bar": 1,
+          "intensity": 0.86,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 13.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.82,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 14,
+          "beat_in_bar": 2,
+          "intensity": 0.54,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 14.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.49,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 15,
+          "beat_in_bar": 3,
+          "intensity": 0.83,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 15.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.88,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 4,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 16,
+          "beat_in_bar": 0,
+          "intensity": 0.77,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 16.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 17,
+          "beat_in_bar": 1,
+          "intensity": 0.93,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 17.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 18,
+          "beat_in_bar": 2,
+          "intensity": 0.64,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 18.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 19,
+          "beat_in_bar": 3,
+          "intensity": 0.72,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 19.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 5,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 20,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 20.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.96,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 21,
+          "beat_in_bar": 1,
+          "intensity": 0.97,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 21.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.76,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 22,
+          "beat_in_bar": 2,
+          "intensity": 0.8,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 22.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.96,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 23,
+          "beat_in_bar": 3,
+          "intensity": 0.66,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 23.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.67,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 6,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 24,
+          "beat_in_bar": 0,
+          "intensity": 0.58,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 24.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.65,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 25,
+          "beat_in_bar": 1,
+          "intensity": 0.58,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 25.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.59,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 26,
+          "beat_in_bar": 2,
+          "intensity": 0.6,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 26.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.65,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 27,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 27.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 7,
+      "energy_level": "high",
+      "musical_role": "intro",
+      "rhythmic_events": [
+        {
+          "beat": 28,
+          "beat_in_bar": 0,
+          "intensity": 0.92,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 28.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.79,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 29,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 29.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 30,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 30.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 31,
+          "beat_in_bar": 3,
+          "intensity": 0.95,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 31.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 8,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 32,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 32.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 33,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 33.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 34,
+          "beat_in_bar": 2,
+          "intensity": 0.71,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 34.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.8,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 35,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 35.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 9,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 36,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 36.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 37,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 37.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.97,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 38,
+          "beat_in_bar": 2,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 38.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 39,
+          "beat_in_bar": 3,
+          "intensity": 0.87,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 39.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 10,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 40,
+          "beat_in_bar": 0,
+          "intensity": 0.95,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 40.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.82,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 41,
+          "beat_in_bar": 1,
+          "intensity": 0.76,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 41.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.97,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 42,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 42.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 43,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 43.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 11,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 44,
+          "beat_in_bar": 0,
+          "intensity": 0.92,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 44.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 45,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 45.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 46,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 46.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 47,
+          "beat_in_bar": 3,
+          "intensity": 0.85,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 47.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 12,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 48,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 48.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 49,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 49.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 50,
+          "beat_in_bar": 2,
+          "intensity": 0.66,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 50.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 51,
+          "beat_in_bar": 3,
+          "intensity": 0.93,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 51.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.52,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 13,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 52,
+          "beat_in_bar": 0,
+          "intensity": 0.72,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 52.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 53,
+          "beat_in_bar": 1,
+          "intensity": 0.94,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 53.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 54,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 54.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 55,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 55.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 14,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 56,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 56.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 57,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 57.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 58,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 58.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 59,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 59.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.97,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 15,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 60,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 60.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 61,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 61.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 62,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 62.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 63,
+          "beat_in_bar": 3,
+          "intensity": 0.98,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 63.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 16,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 64,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 64.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.94,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 65,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 65.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 66,
+          "beat_in_bar": 2,
+          "intensity": 0.99,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 66.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 67,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 67.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 17,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 68,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 68.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 69,
+          "beat_in_bar": 1,
+          "intensity": 0.94,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 69.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 70,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 70.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 71,
+          "beat_in_bar": 3,
+          "intensity": 0.88,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 71.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 18,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 72,
+          "beat_in_bar": 0,
+          "intensity": 0.7,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 72.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 73,
+          "beat_in_bar": 1,
+          "intensity": 0.92,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 73.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.87,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 74,
+          "beat_in_bar": 2,
+          "intensity": 0.88,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 74.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.77,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 75,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 75.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.94,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 19,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 76,
+          "beat_in_bar": 0,
+          "intensity": 0.97,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 76.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.85,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 77,
+          "beat_in_bar": 1,
+          "intensity": 0.56,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 77.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 78,
+          "beat_in_bar": 2,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 78.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 79,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 79.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 20,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 80,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 80.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 81,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 81.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 82,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 82.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.92,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 83,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 83.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 21,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 84,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 84.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 85,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 85.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 86,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 86.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 87,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 87.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 22,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 88,
+          "beat_in_bar": 0,
+          "intensity": 0.91,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 88.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 89,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 89.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 90,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 90.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 91,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 91.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.85,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 23,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 92,
+          "beat_in_bar": 0,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 92.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 93,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 93.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 94,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 94.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 95,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 95.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 24,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 96,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 96.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 97,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 97.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 98,
+          "beat_in_bar": 2,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 98.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 99,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 99.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 25,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 100,
+          "beat_in_bar": 0,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 100.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.79,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 101,
+          "beat_in_bar": 1,
+          "intensity": 0.67,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 101.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.88,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 102,
+          "beat_in_bar": 2,
+          "intensity": 0.34,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 102.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 103,
+          "beat_in_bar": 3,
+          "intensity": 0.88,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 103.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 26,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 104,
+          "beat_in_bar": 0,
+          "intensity": 0.87,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 104.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 105,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 105.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 106,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 106.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 107,
+          "beat_in_bar": 3,
+          "intensity": 0.74,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 107.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.98,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 27,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 108,
+          "beat_in_bar": 0,
+          "intensity": 0.94,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 108.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 109,
+          "beat_in_bar": 1,
+          "intensity": 0.9,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 109.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 110,
+          "beat_in_bar": 2,
+          "intensity": 0.9,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 110.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.85,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 111,
+          "beat_in_bar": 3,
+          "intensity": 0.79,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 111.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 28,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 112,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 112.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 113,
+          "beat_in_bar": 1,
+          "intensity": 0.98,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 113.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.96,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 114,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 114.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 115,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 115.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 29,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 116,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 116.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 117,
+          "beat_in_bar": 1,
+          "intensity": 0.76,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 117.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.91,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 118,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 118.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 119,
+          "beat_in_bar": 3,
+          "intensity": 0.86,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 119.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 30,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 120,
+          "beat_in_bar": 0,
+          "intensity": 0.83,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 120.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 121,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 121.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 122,
+          "beat_in_bar": 2,
+          "intensity": 0.68,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 122.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.54,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 123,
+          "beat_in_bar": 3,
+          "intensity": 0.68,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 123.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.58,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 31,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 124,
+          "beat_in_bar": 0,
+          "intensity": 0.71,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 124.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.73,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 125,
+          "beat_in_bar": 1,
+          "intensity": 0.72,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 125.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 126,
+          "beat_in_bar": 2,
+          "intensity": 0.52,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 126.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.33,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 127,
+          "beat_in_bar": 3,
+          "intensity": 0.68,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 127.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 32,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 128,
+          "beat_in_bar": 0,
+          "intensity": 0.74,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 128.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.82,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 129,
+          "beat_in_bar": 1,
+          "intensity": 0.7,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 129.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.67,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 130,
+          "beat_in_bar": 2,
+          "intensity": 0.72,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 130.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.69,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 131,
+          "beat_in_bar": 3,
+          "intensity": 0.68,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 131.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.85,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 33,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 132,
+          "beat_in_bar": 0,
+          "intensity": 0.67,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 132.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.78,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 133,
+          "beat_in_bar": 1,
+          "intensity": 0.81,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 133.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 134,
+          "beat_in_bar": 2,
+          "intensity": 0.97,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 134.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.65,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 135,
+          "beat_in_bar": 3,
+          "intensity": 0.83,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 135.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.86,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 34,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 136,
+          "beat_in_bar": 0,
+          "intensity": 0.76,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 136.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.91,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 137,
+          "beat_in_bar": 1,
+          "intensity": 0.99,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 137.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.77,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 138,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 138.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.76,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 139,
+          "beat_in_bar": 3,
+          "intensity": 0.43,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 139.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.52,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 35,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 140,
+          "beat_in_bar": 0,
+          "intensity": 0.61,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 140.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 141,
+          "beat_in_bar": 1,
+          "intensity": 0.75,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 141.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 142,
+          "beat_in_bar": 2,
+          "intensity": 0.85,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 142.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 143,
+          "beat_in_bar": 3,
+          "intensity": 0.81,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 143.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.65,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 36,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 144,
+          "beat_in_bar": 0,
+          "intensity": 0.74,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 144.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.86,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 145,
+          "beat_in_bar": 1,
+          "intensity": 0.78,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 145.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.81,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 146,
+          "beat_in_bar": 2,
+          "intensity": 0.97,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 146.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.81,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 147,
+          "beat_in_bar": 3,
+          "intensity": 0.81,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 147.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 37,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 148,
+          "beat_in_bar": 0,
+          "intensity": 0.57,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 148.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 149,
+          "beat_in_bar": 1,
+          "intensity": 0.87,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 149.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.57,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 150,
+          "beat_in_bar": 2,
+          "intensity": 0.95,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 150.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 151,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 151.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 38,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 152,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 152.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 153,
+          "beat_in_bar": 1,
+          "intensity": 0.95,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 153.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 154,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 154.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 155,
+          "beat_in_bar": 3,
+          "intensity": 0.89,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 155.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 39,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 156,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 156.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 157,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 157.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 158,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 158.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 159,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 159.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 40,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 160,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 160.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 161,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 161.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.96,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 162,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 162.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 163,
+          "beat_in_bar": 3,
+          "intensity": 0.93,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 163.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 41,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 164,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 164.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 165,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 165.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 166,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 166.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 167,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 167.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 42,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 168,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 168.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 169,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 169.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.92,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 170,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 170.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.63,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 171,
+          "beat_in_bar": 3,
+          "intensity": 0.1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 171.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.96,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 43,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 172,
+          "beat_in_bar": 0,
+          "intensity": 0.75,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 172.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.94,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 173,
+          "beat_in_bar": 1,
+          "intensity": 0.71,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 173.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 174,
+          "beat_in_bar": 2,
+          "intensity": 0.97,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 174.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 175,
+          "beat_in_bar": 3,
+          "intensity": 0.87,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 175.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.57,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 44,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 176,
+          "beat_in_bar": 0,
+          "intensity": 0.94,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 176.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 177,
+          "beat_in_bar": 1,
+          "intensity": 0.67,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 177.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 178,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 178.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 179,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 179.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 45,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 180,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 180.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 181,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 181.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 182,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 182.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 183,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 183.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 46,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 184,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 184.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 185,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 185.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 186,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 186.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 187,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 187.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 47,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 188,
+          "beat_in_bar": 0,
+          "intensity": 0.93,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 188.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 189,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 189.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 190,
+          "beat_in_bar": 2,
+          "intensity": 0.88,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 190.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 191,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 191.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 48,
+      "energy_level": "high",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 192,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 192.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 193,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 193.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 194,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 194.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 195,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 195.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 49,
+      "energy_level": "high",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 196,
+          "beat_in_bar": 0,
+          "intensity": 0.96,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 196.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 197,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 197.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 198,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 198.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 199,
+          "beat_in_bar": 3,
+          "intensity": 0.87,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 199.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.6,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 50,
+      "energy_level": "medium",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 200,
+          "beat_in_bar": 0,
+          "intensity": 0.91,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 200.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.33,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 201,
+          "beat_in_bar": 1,
+          "intensity": 0.1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 201.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.5,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 202,
+          "beat_in_bar": 2,
+          "intensity": 0.5,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 202.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.59,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 203,
+          "beat_in_bar": 3,
+          "intensity": 0.46,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 203.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.54,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 51,
+      "energy_level": "medium",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 204,
+          "beat_in_bar": 0,
+          "intensity": 0.51,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 204.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.4,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 205,
+          "beat_in_bar": 1,
+          "intensity": 0.55,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 205.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.34,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 206,
+          "beat_in_bar": 2,
+          "intensity": 0.6,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 206.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.47,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 207,
+          "beat_in_bar": 3,
+          "intensity": 0.51,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 207.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.5,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 52,
+      "energy_level": "medium",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 208,
+          "beat_in_bar": 0,
+          "intensity": 0.69,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 208.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.62,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 209,
+          "beat_in_bar": 1,
+          "intensity": 0.57,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 209.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.5,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 210,
+          "beat_in_bar": 2,
+          "intensity": 0.6,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 210.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.58,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 211,
+          "beat_in_bar": 3,
+          "intensity": 0.26,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 211.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.51,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 53,
+      "energy_level": "medium",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 212,
+          "beat_in_bar": 0,
+          "intensity": 0.36,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 212.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 213,
+          "beat_in_bar": 1,
+          "intensity": 0.56,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 213.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.11,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 214,
+          "beat_in_bar": 2,
+          "intensity": 0.45,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 214.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.59,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 215,
+          "beat_in_bar": 3,
+          "intensity": 0.56,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 215.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.5,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 54,
+      "energy_level": "high",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 216,
+          "beat_in_bar": 0,
+          "intensity": 0.71,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 216.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.58,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 217,
+          "beat_in_bar": 1,
+          "intensity": 0.53,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 217.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.56,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 218,
+          "beat_in_bar": 2,
+          "intensity": 0.58,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 218.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.57,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 219,
+          "beat_in_bar": 3,
+          "intensity": 0.64,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 219.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.54,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 55,
+      "energy_level": "high",
+      "musical_role": "interlude",
+      "rhythmic_events": [
+        {
+          "beat": 220,
+          "beat_in_bar": 0,
+          "intensity": 0.5,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 220.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.64,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 221,
+          "beat_in_bar": 1,
+          "intensity": 0.41,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 221.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.58,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 222,
+          "beat_in_bar": 2,
+          "intensity": 0.53,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 222.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 223,
+          "beat_in_bar": 3,
+          "intensity": 0.65,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 223.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.51,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 56,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 224,
+          "beat_in_bar": 0,
+          "intensity": 0.47,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 224.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.44,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 225,
+          "beat_in_bar": 1,
+          "intensity": 0.6,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 225.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.73,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 226,
+          "beat_in_bar": 2,
+          "intensity": 0.54,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 226.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.5,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 227,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 227.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.91,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 57,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 228,
+          "beat_in_bar": 0,
+          "intensity": 0.84,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 228.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.94,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 229,
+          "beat_in_bar": 1,
+          "intensity": 0.99,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 229.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 230,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 230.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.98,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 231,
+          "beat_in_bar": 3,
+          "intensity": 0.79,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 231.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 58,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 232,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 232.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 233,
+          "beat_in_bar": 1,
+          "intensity": 0.92,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 233.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 234,
+          "beat_in_bar": 2,
+          "intensity": 0.77,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 234.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 235,
+          "beat_in_bar": 3,
+          "intensity": 0.6,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 235.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 59,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 236,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 236.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.98,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 237,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 237.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 238,
+          "beat_in_bar": 2,
+          "intensity": 0.95,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 238.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 239,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 239.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 60,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 240,
+          "beat_in_bar": 0,
+          "intensity": 0.98,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 240.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.83,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 241,
+          "beat_in_bar": 1,
+          "intensity": 0.8,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 241.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 242,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 242.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 243,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 243.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 61,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 244,
+          "beat_in_bar": 0,
+          "intensity": 0.75,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 244.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.75,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 245,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 245.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 246,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 246.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 247,
+          "beat_in_bar": 3,
+          "intensity": 0.94,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 247.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 62,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 248,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 248.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 249,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 249.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 250,
+          "beat_in_bar": 2,
+          "intensity": 0.67,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 250.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.68,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 251,
+          "beat_in_bar": 3,
+          "intensity": 0.99,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 251.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 63,
+      "energy_level": "high",
+      "musical_role": "verse",
+      "rhythmic_events": [
+        {
+          "beat": 252,
+          "beat_in_bar": 0,
+          "intensity": 0.84,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 252.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 253,
+          "beat_in_bar": 1,
+          "intensity": 0.67,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 253.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.69,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 254,
+          "beat_in_bar": 2,
+          "intensity": 0.68,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 254.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.64,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 255,
+          "beat_in_bar": 3,
+          "intensity": 0.72,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 255.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.74,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 64,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 256,
+          "beat_in_bar": 0,
+          "intensity": 0.72,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 256.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.51,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 257,
+          "beat_in_bar": 1,
+          "intensity": 0.8,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 257.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.67,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 258,
+          "beat_in_bar": 2,
+          "intensity": 0.78,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 258.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.76,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 259,
+          "beat_in_bar": 3,
+          "intensity": 0.74,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 259.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.71,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 65,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 260,
+          "beat_in_bar": 0,
+          "intensity": 0.59,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 260.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.77,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 261,
+          "beat_in_bar": 1,
+          "intensity": 0.77,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 261.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.74,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 262,
+          "beat_in_bar": 2,
+          "intensity": 0.82,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 262.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.81,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 263,
+          "beat_in_bar": 3,
+          "intensity": 0.85,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 263.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 66,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 264,
+          "beat_in_bar": 0,
+          "intensity": 0.85,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 264.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.58,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 265,
+          "beat_in_bar": 1,
+          "intensity": 0.79,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 265.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.67,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 266,
+          "beat_in_bar": 2,
+          "intensity": 0.74,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 266.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.67,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 267,
+          "beat_in_bar": 3,
+          "intensity": 0.84,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 267.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.8,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 67,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 268,
+          "beat_in_bar": 0,
+          "intensity": 0.78,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 268.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.86,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 269,
+          "beat_in_bar": 1,
+          "intensity": 0.76,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 269.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.79,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 270,
+          "beat_in_bar": 2,
+          "intensity": 0.91,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 270.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.73,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 271,
+          "beat_in_bar": 3,
+          "intensity": 0.68,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 271.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.85,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 68,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 272,
+          "beat_in_bar": 0,
+          "intensity": 0.77,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 272.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.65,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 273,
+          "beat_in_bar": 1,
+          "intensity": 0.88,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 273.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.74,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 274,
+          "beat_in_bar": 2,
+          "intensity": 0.95,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 274.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 275,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 275.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.94,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 69,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 276,
+          "beat_in_bar": 0,
+          "intensity": 0.87,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 276.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.66,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 277,
+          "beat_in_bar": 1,
+          "intensity": 0.58,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 277.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.45,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 278,
+          "beat_in_bar": 2,
+          "intensity": 0.5,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 278.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.39,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 279,
+          "beat_in_bar": 3,
+          "intensity": 0.55,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 279.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 70,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 280,
+          "beat_in_bar": 0,
+          "intensity": 0.49,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 280.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.31,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 281,
+          "beat_in_bar": 1,
+          "intensity": 0.45,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 281.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.56,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 282,
+          "beat_in_bar": 2,
+          "intensity": 0.66,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 282.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.64,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 283,
+          "beat_in_bar": 3,
+          "intensity": 0.64,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 283.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 71,
+      "energy_level": "high",
+      "musical_role": "build_up",
+      "rhythmic_events": [
+        {
+          "beat": 284,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 284.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 285,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 285.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 286,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 286.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 287,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 287.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 72,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 288,
+          "beat_in_bar": 0,
+          "intensity": 0.92,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 288.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 289,
+          "beat_in_bar": 1,
+          "intensity": 0.98,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 289.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 290,
+          "beat_in_bar": 2,
+          "intensity": 0.88,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 290.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 291,
+          "beat_in_bar": 3,
+          "intensity": 0.99,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 291.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.86,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 73,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 292,
+          "beat_in_bar": 0,
+          "intensity": 0.93,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 292.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 293,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 293.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 294,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 294.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.89,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 295,
+          "beat_in_bar": 3,
+          "intensity": 0.96,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 295.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 74,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 296,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 296.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.92,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 297,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 297.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.95,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 298,
+          "beat_in_bar": 2,
+          "intensity": 0.79,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 298.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.79,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 299,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 299.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 75,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 300,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 300.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 301,
+          "beat_in_bar": 1,
+          "intensity": 0.94,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 301.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 302,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 302.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.98,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 303,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 303.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 76,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 304,
+          "beat_in_bar": 0,
+          "intensity": 0.84,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 304.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.97,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 305,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 305.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 306,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 306.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 307,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 307.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 77,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 308,
+          "beat_in_bar": 0,
+          "intensity": 0.93,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 308.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 309,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 309.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 310,
+          "beat_in_bar": 2,
+          "intensity": 0.94,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 310.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.99,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 311,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 311.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 78,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 312,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 312.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 313,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 313.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.84,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 314,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 314.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 315,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 315.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.97,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 79,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 316,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 316.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 317,
+          "beat_in_bar": 1,
+          "intensity": 0.97,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 317.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 318,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 318.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 319,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 319.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 80,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 320,
+          "beat_in_bar": 0,
+          "intensity": 0.97,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 320.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 321,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 321.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.9,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 322,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 322.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 323,
+          "beat_in_bar": 3,
+          "intensity": 0.91,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 323.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.83,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 81,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 324,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 324.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 325,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 325.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.81,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 326,
+          "beat_in_bar": 2,
+          "intensity": 0.6,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 326.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.57,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 327,
+          "beat_in_bar": 3,
+          "intensity": 0.79,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 327.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.28,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 82,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 328,
+          "beat_in_bar": 0,
+          "intensity": 0.34,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 328.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.86,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 329,
+          "beat_in_bar": 1,
+          "intensity": 0.83,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 329.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.82,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 330,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 330.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.98,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 331,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 331.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 83,
+      "energy_level": "high",
+      "musical_role": "chorus_drop",
+      "rhythmic_events": [
+        {
+          "beat": 332,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 332.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.7,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 333,
+          "beat_in_bar": 1,
+          "intensity": 0.94,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 333.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 334,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 334.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.91,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 335,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 335.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 84,
+      "energy_level": "high",
+      "musical_role": "outro",
+      "rhythmic_events": [
+        {
+          "beat": 336,
+          "beat_in_bar": 0,
+          "intensity": 0.88,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 336.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.8,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 337,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 337.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 338,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 338.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 339,
+          "beat_in_bar": 3,
+          "intensity": 0.91,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 339.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 85,
+      "energy_level": "high",
+      "musical_role": "outro",
+      "rhythmic_events": [
+        {
+          "beat": 340,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 340.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 341,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 341.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 342,
+          "beat_in_bar": 2,
+          "intensity": 0.94,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 342.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.79,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 343,
+          "beat_in_bar": 3,
+          "intensity": 0.9,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 343.5,
+          "beat_in_bar": 3.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 86,
+      "energy_level": "high",
+      "musical_role": "outro",
+      "rhythmic_events": [
+        {
+          "beat": 344,
+          "beat_in_bar": 0,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 344.5,
+          "beat_in_bar": 0.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 345,
+          "beat_in_bar": 1,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 345.5,
+          "beat_in_bar": 1.5,
+          "intensity": 0.8,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 346,
+          "beat_in_bar": 2,
+          "intensity": 0.87,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 346.5,
+          "beat_in_bar": 2.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 347,
+          "beat_in_bar": 3,
+          "intensity": 0.98,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 347.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    },
+    {
+      "bar_index": 87,
+      "energy_level": "high",
+      "musical_role": "outro",
+      "rhythmic_events": [
+        {
+          "beat": 348,
+          "beat_in_bar": 0,
+          "intensity": 0.95,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 348.5,
+          "beat_in_bar": 0.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 349,
+          "beat_in_bar": 1,
+          "intensity": 0.95,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 349.5,
+          "beat_in_bar": 1.5,
+          "intensity": 1,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 350,
+          "beat_in_bar": 2,
+          "intensity": 1,
+          "dominant_band": "sub_bass",
+          "tag": "kick"
+        },
+        {
+          "beat": 350.5,
+          "beat_in_bar": 2.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        },
+        {
+          "beat": 351,
+          "beat_in_bar": 3,
+          "intensity": 1,
+          "dominant_band": "mid",
+          "tag": "snare"
+        },
+        {
+          "beat": 351.5,
+          "beat_in_bar": 3.5,
+          "intensity": 0.93,
+          "dominant_band": "high",
+          "tag": "hat"
+        }
+      ]
+    }
+  ]
+}

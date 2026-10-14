@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BeatSaber-LLM-Mapper | 3D 谱面回放沙盒</title>
+  <link rel="stylesheet" href="./viewer.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "/node_modules/three/build/three.module.js",
+        "three/addons/": "/node_modules/three/examples/jsm/"
+      }
+    }
+  </script>
+  <script src="/node_modules/jszip/dist/jszip.min.js"></script>
+</head>
+<body>
+  <!-- 3D Canvas 容器 -->
+  <div id="canvas-container"></div>
+
+  <!-- 顶部控制条 -->
+  <header id="top-bar">
+    <div class="logo-section">
+      <div class="brand-badge">NEURO-SYMBOLIC</div>
+      <div class="song-meta">
+        <span class="song-title">加载中...</span>
+        <span class="song-sub">等待谱面数据流注入</span>
+      </div>
+    </div>
+
+    <!-- 曲目预设与切换 -->
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <select id="track-preset-select" class="speed-select" style="font-weight: 600; color: #38bdf8; border-color: rgba(56, 189, 248, 0.4);">
+        <option value="gemini-15s" selected>🤖 [首发] Gemini-3.8-Flash 15秒纯LLM编舞首秀 (45音符)</option>
+        <option value="akasaki">🌟 AKASAKI - シャケナベイベー 全曲全息谱面</option>
+        <option value="60s">🔥 60秒 燃系电音实战</option>
+      </select>
+      <button id="btn-export-zip" class="btn-ctrl" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981; color: #34d399;" title="导出可在 Quest 3 / SteamVR 运行的标准曲包">
+        📦 导出 Quest/Steam Zip
+      </button>
+    </div>
+
+    <div class="playback-controls">
+      <button id="btn-play" class="btn-ctrl btn-primary">▶ 播放 (Space)</button>
+      <button id="btn-restart" class="btn-ctrl">↺ 重置 (R)</button>
+      <span id="time-display" class="time-display">00:00 / 00:00</span>
+      <select id="speed-select" class="speed-select">
+        <option value="0.5">0.5x 慢速</option>
+        <option value="0.75">0.75x</option>
+        <option value="1.0" selected>1.0x 正常</option>
+        <option value="1.25">1.25x</option>
+        <option value="1.5">1.5x 倍速</option>
+      </select>
+    </div>
+
+    <div class="view-controls">
+      <button class="btn-pill active" data-mode="third">第三人称 (1)</button>
+      <button class="btn-pill" data-mode="first">第一人称 (2)</button>
+      <button class="btn-pill" data-mode="free">自由漫游 (3)</button>
+    </div>
+  </header>
+
+  <!-- 右侧运动学监控 HUD -->
+  <aside id="hud-panel">
+    <div class="hud-card-title">
+      <span>谱面物理遥测 (Telemetry)</span>
+      <span style="font-size: 10px; color: #38bdf8;">LIVE</span>
+    </div>
+
+    <div class="stat-row">
+      <span class="stat-label">BPM:</span>
+      <span id="stat-bpm" class="stat-val gold">128.0</span>
+    </div>
+    <div class="stat-row">
+      <span class="stat-label">当前拍数 (Beat):</span>
+      <span id="stat-beat" class="stat-val">0.00</span>
+    </div>
+    <div class="stat-row">
+      <span class="stat-label">音符总数 (Notes):</span>
+      <span id="stat-notes" class="stat-val blue">0</span>
+    </div>
+
+    <div class="hud-card-title" style="margin-top: 8px;">
+      <span>运动学姿态 (Parity Tracker)</span>
+    </div>
+
+    <div class="hands-parity-box">
+      <div class="hand-badge left">
+        <span class="hand-label">左手 (RED)</span>
+        <span id="telemetry-left" class="hand-pos-dir">(-,-) -</span>
+      </div>
+      <div class="hand-badge right">
+        <span class="hand-label">右手 (BLUE)</span>
+        <span id="telemetry-right" class="hand-pos-dir">(-,-) -</span>
+      </div>
+    </div>
+
+    <div style="font-size: 11px; color: var(--text-muted); line-height: 1.4; margin-top: 6px;">
+      💡 提示：支持将任何 <code>.dat</code> 谱面文件拖入此窗口实时载入预览。
+    </div>
+  </aside>
+
+  <!-- 底部时间轴 -->
+  <footer id="timeline-bar">
+    <div class="scrubber-container">
+      <input type="range" id="timeline-scrubber" class="scrubber" min="0" max="100" value="0" step="0.1">
+    </div>
+  </footer>
+
+  <!-- 消息 Toast 浮层 -->
+  <div id="toast">系统已就绪</div>
+
+  <!-- 音频核心 -->
+  <audio id="bgm-audio" preload="auto"></audio>
+
+  <!-- 引导主逻辑 -->
+  <script type="module">
+    import { BeatSaberViewer } from './viewer.js';
+
+    async function init() {
+      console.log('[BeatSaber-Viewer] Initializing 3D Sandbox...');
+      const viewer = new BeatSaberViewer('canvas-container');
+      window.__viewer = viewer;
+
+      async function loadTrackPreset(presetKey) {
+        try {
+          let infoUrl = '/dataset/info_demo_15s.dat';
+          let mapUrl = '/dataset/demo_15s.dat';
+
+          if (presetKey === 'akasaki') {
+            infoUrl = '/dataset/info_akasaki.dat';
+            mapUrl = '/dataset/ExpertPlus_akasaki.dat';
+          } else if (presetKey === '60s') {
+            infoUrl = '/dataset/info_60s.dat';
+            mapUrl = '/dataset/ExpertPlus_60s.dat';
+          }
+
+          console.log(`[BeatSaber-Viewer] Loading preset [${presetKey}] from ${infoUrl} & ${mapUrl}`);
+          const [infoRes, mapRes] = await Promise.all([fetch(infoUrl), fetch(mapUrl)]);
+
+          if (infoRes.ok && mapRes.ok) {
+            const info = await infoRes.json();
+            const mapData = await mapRes.json();
+            viewer.loadMapData(info, mapData);
+
+            if (info._songFilename) {
+              const audioEl = document.getElementById('bgm-audio');
+              audioEl.src = `/dataset/${info._songFilename}`;
+              audioEl.load();
+              console.log(`[BeatSaber-Viewer] Audio loaded from /dataset/${info._songFilename}`);
+            }
+          } else {
+            console.error('Fetch failed for preset:', infoRes.status, mapRes.status);
+            viewer.showToast('加载曲目文件失败');
+          }
+        } catch (e) {
+          console.error('加载预设曲目失败:', e);
+          viewer.showToast('曲目加载失败');
+        }
+      }
+
+      // 默认加载 Gemini 3.8 Flash 纯原创首发段落
+      await loadTrackPreset('gemini-15s');
+
+      // 切换曲目监听
+      const presetSelect = document.getElementById('track-preset-select');
+      presetSelect?.addEventListener('change', (e) => {
+        loadTrackPreset(e.target.value);
+      });
+
+      // 导出 Quest / SteamVR Zip 按钮
+      const btnExport = document.getElementById('btn-export-zip');
+      btnExport?.addEventListener('click', async () => {
+        if (!window.JSZip) {
+          viewer.showToast('JSZip 库加载中，请稍后');
+          return;
+        }
+
+        try {
+          viewer.showToast('正在打包 Quest 3 / SteamVR 曲包...');
+          const currentPreset = presetSelect ? presetSelect.value : 'akasaki';
+          let infoUrl = '/dataset/info_akasaki.dat';
+          let mapUrl = '/dataset/ExpertPlus_akasaki.dat';
+
+          if (currentPreset === '60s') {
+            infoUrl = '/dataset/info_60s.dat';
+            mapUrl = '/dataset/ExpertPlus_60s.dat';
+          } else if (currentPreset === '15s') {
+            infoUrl = '/dataset/info.dat';
+            mapUrl = '/dataset/ExpertPlus.dat';
+          }
+
+          const [infoRes, mapRes] = await Promise.all([fetch(infoUrl), fetch(mapUrl)]);
+          const infoText = await infoRes.text();
+          const mapText = await mapRes.text();
+          const infoObj = JSON.parse(infoText);
+
+          const audioUrl = `/dataset/${infoObj._songFilename}`;
+          const audioRes = await fetch(audioUrl);
+          const audioBlob = await audioRes.blob();
+
+          const zip = new window.JSZip();
+          zip.file('info.dat', infoText);
+          zip.file(infoObj._difficultyBeatmapSets[0]._difficultyBeatmaps[0]._beatmapFilename, mapText);
+          zip.file(infoObj._songFilename, audioBlob);
+
+          if (infoObj._coverImageFilename) {
+            try {
+              const coverRes = await fetch(`/dataset/${infoObj._coverImageFilename}`);
+              if (coverRes.ok) {
+                const coverBlob = await coverRes.blob();
+                zip.file(infoObj._coverImageFilename, coverBlob);
+              }
+            } catch (_) {}
+          }
+
+          const zipBlob = await zip.generateAsync({ type: 'blob' });
+          const downloadUrl = URL.createObjectURL(zipBlob);
+          const a = document.createElement('a');
+          a.href = downloadUrl;
+          a.download = `${infoObj._songName.replace(/[^a-zA-Z0-9_\u4e00-\u9fa5\u3040-\u30ff-]/g, '_')}_BeatSaber_CustomLevel.zip`;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(downloadUrl);
+
+          viewer.showToast('✅ 曲包已成功打包并触发下载！');
+        } catch (err) {
+          console.error('打包 Zip 失败:', err);
+          viewer.showToast('打包失败: ' + err.message);
+        }
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  </script>
+</body>
+</html>

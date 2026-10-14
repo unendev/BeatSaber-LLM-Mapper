@@ -1,0 +1,4502 @@
+metadata:
+  bpm: 114.84
+  total_bars: 75
+  song: dataset/akasaki_shake.ogg
+bars:
+- bar: 0
+  tension: chill
+  energy: 0.08
+  energy_acc: 0.0
+  pan: 0.05
+  narrative: 'Chill intro/break: Relaxed sparse guidance, restoring stamina.'
+  events:
+  - beat: 0.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.03
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.06
+      high: 0.04
+    pitch_hz: 277.2
+    pitch_slope: 0.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 1.0
+    beat_in_bar: 1
+    role: HiHatSyncopation
+    energy: 0.04
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.1
+      high: 0.06
+    pitch_hz: 418.3
+    pitch_slope: 10.7
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 2.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.05
+    stems:
+      drums: 0.03
+      bass: 0.0
+      vocal: 0.12
+      high: 0.08
+    pitch_hz: 558.7
+    pitch_slope: 448.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 3.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.05
+      bass: 0.01
+      vocal: 0.57
+      high: 0.16
+    pitch_hz: 110.4
+    pitch_slope: 0.4
+    suggested_layer: 1
+    field_bias: Center
+- bar: 1
+  tension: climax
+  energy: 0.19
+  energy_acc: 0.11
+  pan: -0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 4.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.24
+    stems:
+      drums: 0.17
+      bass: 0.0
+      vocal: 0.48
+      high: 0.38
+    pitch_hz: 503.0
+    pitch_slope: 365.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 5.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.06
+      bass: 0.01
+      vocal: 0.55
+      high: 0.19
+    pitch_hz: 184.7
+    pitch_slope: 0.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 6.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.12
+    stems:
+      drums: 0.04
+      bass: 0.01
+      vocal: 0.3
+      high: 0.14
+    pitch_hz: 164.5
+    pitch_slope: 54.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 7.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.07
+      bass: 0.1
+      vocal: 0.48
+      high: 0.16
+    pitch_hz: 97.9
+    pitch_slope: -0.4
+    suggested_layer: 0
+    field_bias: Center
+- bar: 2
+  tension: groove
+  energy: 0.19
+  energy_acc: -0.0
+  pan: 0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 8.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.08
+    stems:
+      drums: 0.02
+      bass: 0.03
+      vocal: 0.18
+      high: 0.16
+    pitch_hz: 493.7
+    pitch_slope: 384.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 9.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.18
+      bass: 0.05
+      vocal: 0.6
+      high: 0.19
+    pitch_hz: 248.3
+    pitch_slope: 137.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 10.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.05
+      bass: 0.01
+      vocal: 0.78
+      high: 0.18
+    pitch_hz: 110.8
+    pitch_slope: -0.1
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 11.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.13
+    stems:
+      drums: 0.06
+      bass: 0.05
+      vocal: 0.29
+      high: 0.12
+    pitch_hz: 145.8
+    pitch_slope: -0.1
+    suggested_layer: 1
+    field_bias: Center
+- bar: 3
+  tension: groove
+  energy: 0.23
+  energy_acc: 0.04
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 12.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.05
+      bass: 0.01
+      vocal: 0.79
+      high: 0.19
+    pitch_hz: 542.3
+    pitch_slope: 450.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 13.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.11
+      bass: 0.02
+      vocal: 0.64
+      high: 0.29
+    pitch_hz: 83.9
+    pitch_slope: 0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 14.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.1
+      bass: 0.01
+      vocal: 0.39
+      high: 0.18
+    pitch_hz: 91.3
+    pitch_slope: -46.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 15.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.12
+      bass: 0.01
+      vocal: 0.46
+      high: 0.32
+    pitch_hz: 182.2
+    pitch_slope: 58.1
+    suggested_layer: 2
+    field_bias: Center
+- bar: 4
+  tension: groove
+  energy: 0.26
+  energy_acc: 0.03
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 16.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.29
+    stems:
+      drums: 0.46
+      bass: 0.03
+      vocal: 0.24
+      high: 0.54
+    pitch_hz: 234.6
+    pitch_slope: -258.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 17.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.08
+      bass: 0.01
+      vocal: 0.66
+      high: 0.18
+    pitch_hz: 484.8
+    pitch_slope: 38.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 18.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.16
+      bass: 0.16
+      vocal: 0.36
+      high: 0.23
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 19.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.28
+    stems:
+      drums: 0.25
+      bass: 0.0
+      vocal: 0.48
+      high: 0.46
+    pitch_hz: 538.9
+    pitch_slope: 39.3
+    suggested_layer: 2
+    field_bias: Center
+- bar: 5
+  tension: groove
+  energy: 0.23
+  energy_acc: -0.03
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 20.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.18
+      bass: 0.0
+      vocal: 0.37
+      high: 0.28
+    pitch_hz: 702.8
+    pitch_slope: -23.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 21.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.19
+    stems:
+      drums: 0.11
+      bass: 0.0
+      vocal: 0.39
+      high: 0.35
+    pitch_hz: 251.6
+    pitch_slope: 4.2
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 22.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.36
+    stems:
+      drums: 0.22
+      bass: 0.31
+      vocal: 0.57
+      high: 0.31
+    pitch_hz: 91.2
+    pitch_slope: -0.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 23.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.18
+    stems:
+      drums: 0.03
+      bass: 0.49
+      vocal: 0.13
+      high: 0.11
+    pitch_hz: 88.4
+    pitch_slope: -2.9
+    suggested_layer: 0
+    field_bias: Center
+- bar: 6
+  tension: climax
+  energy: 0.36
+  energy_acc: 0.13
+  pan: 0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 24.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.14
+      bass: 0.56
+      vocal: 0.5
+      high: 0.27
+    pitch_hz: 83.1
+    pitch_slope: 0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 25.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.36
+    stems:
+      drums: 0.32
+      bass: 0.32
+      vocal: 0.36
+      high: 0.59
+    pitch_hz: 120.1
+    pitch_slope: 0.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 26.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.44
+      bass: 0.25
+      vocal: 0.28
+      high: 0.39
+    pitch_hz: 82.1
+    pitch_slope: -14.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 27.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.38
+    stems:
+      drums: 0.45
+      bass: 0.46
+      vocal: 0.22
+      high: 0.4
+    pitch_hz: 82.6
+    pitch_slope: 2.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 7
+  tension: building
+  energy: 0.32
+  energy_acc: -0.04
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 28.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.48
+      bass: 0.07
+      vocal: 0.32
+      high: 0.58
+    pitch_hz: 126.4
+    pitch_slope: 28.4
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 29.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.35
+    stems:
+      drums: 0.47
+      bass: 0.24
+      vocal: 0.24
+      high: 0.55
+    pitch_hz: 112.7
+    pitch_slope: -31.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 30.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.35
+      bass: 0.42
+      vocal: 0.25
+      high: 0.37
+    pitch_hz: 88.4
+    pitch_slope: -19.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 31.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.08
+      bass: 0.14
+      vocal: 0.56
+      high: 0.23
+    pitch_hz: 81.7
+    pitch_slope: 0.3
+    suggested_layer: 0
+    field_bias: Center
+- bar: 8
+  tension: groove
+  energy: 0.16
+  energy_acc: -0.16
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 32.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.18
+    stems:
+      drums: 0.01
+      bass: 0.38
+      vocal: 0.21
+      high: 0.11
+    pitch_hz: 88.2
+    pitch_slope: 2.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 33.0
+    beat_in_bar: 1
+    role: BassAnchor
+    energy: 0.17
+    stems:
+      drums: 0.03
+      bass: 0.36
+      vocal: 0.19
+      high: 0.07
+    pitch_hz: 91.6
+    pitch_slope: 0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 34.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.09
+    stems:
+      drums: 0.03
+      bass: 0.15
+      vocal: 0.09
+      high: 0.09
+    pitch_hz: 91.3
+    pitch_slope: 2.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 35.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.21
+    stems:
+      drums: 0.12
+      bass: 0.3
+      vocal: 0.24
+      high: 0.27
+    pitch_hz: 94.9
+    pitch_slope: 3.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 9
+  tension: building
+  energy: 0.23
+  energy_acc: 0.07
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 36.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.06
+      bass: 0.15
+      vocal: 0.38
+      high: 0.41
+    pitch_hz: 123.1
+    pitch_slope: -1.3
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 37.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.03
+      bass: 0.43
+      vocal: 0.33
+      high: 0.11
+    pitch_hz: 92.1
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 38.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.09
+    stems:
+      drums: 0.01
+      bass: 0.18
+      vocal: 0.12
+      high: 0.04
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 39.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.39
+    stems:
+      drums: 0.51
+      bass: 0.32
+      vocal: 0.23
+      high: 0.62
+    pitch_hz: 89.5
+    pitch_slope: -3.4
+    suggested_layer: 0
+    field_bias: Center
+- bar: 10
+  tension: groove
+  energy: 0.2
+  energy_acc: -0.03
+  pan: 0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 40.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.15
+    stems:
+      drums: 0.05
+      bass: 0.11
+      vocal: 0.31
+      high: 0.09
+    pitch_hz: 90.9
+    pitch_slope: 7.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 41.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.35
+    stems:
+      drums: 0.11
+      bass: 0.47
+      vocal: 0.57
+      high: 0.2
+    pitch_hz: 94.0
+    pitch_slope: 13.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 42.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.17
+      bass: 0.15
+      vocal: 0.38
+      high: 0.26
+    pitch_hz: 92.9
+    pitch_slope: -15.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 43.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.09
+    stems:
+      drums: 0.0
+      bass: 0.01
+      vocal: 0.29
+      high: 0.01
+    pitch_hz: 83.1
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 11
+  tension: climax
+  energy: 0.3
+  energy_acc: 0.09
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 44.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.31
+    stems:
+      drums: 0.18
+      bass: 0.3
+      vocal: 0.47
+      high: 0.29
+    pitch_hz: 111.0
+    pitch_slope: -1.3
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 45.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.35
+    stems:
+      drums: 0.13
+      bass: 0.66
+      vocal: 0.36
+      high: 0.29
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 46.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.25
+    stems:
+      drums: 0.08
+      bass: 0.44
+      vocal: 0.35
+      high: 0.06
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 47.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.16
+      bass: 0.17
+      vocal: 0.51
+      high: 0.33
+    pitch_hz: 112.2
+    pitch_slope: -1.2
+    suggested_layer: 1
+    field_bias: Center
+- bar: 12
+  tension: climax
+  energy: 0.39
+  energy_acc: 0.1
+  pan: -0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 48.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.45
+    stems:
+      drums: 0.41
+      bass: 0.41
+      vocal: 0.48
+      high: 0.54
+    pitch_hz: 81.9
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 49.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.32
+    stems:
+      drums: 0.14
+      bass: 0.47
+      vocal: 0.41
+      high: 0.3
+    pitch_hz: 80.0
+    pitch_slope: -1.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 50.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.19
+      bass: 0.4
+      vocal: 0.56
+      high: 0.33
+    pitch_hz: 83.4
+    pitch_slope: -0.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 51.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.44
+    stems:
+      drums: 0.39
+      bass: 0.56
+      vocal: 0.39
+      high: 0.5
+    pitch_hz: 107.5
+    pitch_slope: 26.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 13
+  tension: climax
+  energy: 0.4
+  energy_acc: 0.01
+  pan: -0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 52.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.46
+    stems:
+      drums: 0.54
+      bass: 0.22
+      vocal: 0.52
+      high: 0.62
+    pitch_hz: 80.0
+    pitch_slope: -200.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 53.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.4
+    stems:
+      drums: 0.4
+      bass: 0.14
+      vocal: 0.54
+      high: 0.64
+    pitch_hz: 92.4
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 54.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.36
+    stems:
+      drums: 0.44
+      bass: 0.11
+      vocal: 0.46
+      high: 0.41
+    pitch_hz: 93.7
+    pitch_slope: -16.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 55.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.37
+    stems:
+      drums: 0.39
+      bass: 0.1
+      vocal: 0.48
+      high: 0.66
+    pitch_hz: 503.1
+    pitch_slope: 391.2
+    suggested_layer: 2
+    field_bias: Center
+- bar: 14
+  tension: groove
+  energy: 0.25
+  energy_acc: -0.15
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 56.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.17
+      bass: 0.19
+      vocal: 0.37
+      high: 0.3
+    pitch_hz: 113.2
+    pitch_slope: 3.1
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 57.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.23
+    stems:
+      drums: 0.23
+      bass: 0.04
+      vocal: 0.28
+      high: 0.6
+    pitch_hz: 209.8
+    pitch_slope: 128.2
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 58.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.06
+      bass: 0.16
+      vocal: 0.39
+      high: 0.22
+    pitch_hz: 83.7
+    pitch_slope: -0.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 59.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.3
+    stems:
+      drums: 0.13
+      bass: 0.32
+      vocal: 0.54
+      high: 0.18
+    pitch_hz: 90.5
+    pitch_slope: -1.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 15
+  tension: groove
+  energy: 0.25
+  energy_acc: 0.01
+  pan: -0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 60.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.11
+      bass: 0.11
+      vocal: 0.53
+      high: 0.29
+    pitch_hz: 281.4
+    pitch_slope: 7.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 61.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.04
+      bass: 0.09
+      vocal: 0.56
+      high: 0.14
+    pitch_hz: 248.3
+    pitch_slope: 165.6
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 62.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.28
+    stems:
+      drums: 0.02
+      bass: 0.28
+      vocal: 0.64
+      high: 0.13
+    pitch_hz: 355.6
+    pitch_slope: 267.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 63.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.11
+      bass: 0.16
+      vocal: 0.53
+      high: 0.24
+    pitch_hz: 81.2
+    pitch_slope: 1.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 16
+  tension: climax
+  energy: 0.35
+  energy_acc: 0.1
+  pan: 0.03
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 64.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.31
+    stems:
+      drums: 0.11
+      bass: 0.04
+      vocal: 0.78
+      high: 0.28
+    pitch_hz: 276.0
+    pitch_slope: -2.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 65.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.3
+    stems:
+      drums: 0.21
+      bass: 0.18
+      vocal: 0.43
+      high: 0.55
+    pitch_hz: 139.4
+    pitch_slope: 58.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 66.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.44
+    stems:
+      drums: 0.42
+      bass: 0.36
+      vocal: 0.49
+      high: 0.61
+    pitch_hz: 81.0
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 67.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.34
+    stems:
+      drums: 0.33
+      bass: 0.2
+      vocal: 0.41
+      high: 0.46
+    pitch_hz: 82.2
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 17
+  tension: building
+  energy: 0.34
+  energy_acc: -0.01
+  pan: -0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 68.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.21
+      bass: 0.19
+      vocal: 0.6
+      high: 0.41
+    pitch_hz: 82.0
+    pitch_slope: -573.4
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 69.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.33
+    stems:
+      drums: 0.16
+      bass: 0.2
+      vocal: 0.59
+      high: 0.45
+    pitch_hz: 123.0
+    pitch_slope: -0.2
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 70.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.35
+    stems:
+      drums: 0.19
+      bass: 0.28
+      vocal: 0.59
+      high: 0.37
+    pitch_hz: 93.8
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 71.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.34
+    stems:
+      drums: 0.26
+      bass: 0.32
+      vocal: 0.47
+      high: 0.31
+    pitch_hz: 116.6
+    pitch_slope: 2.7
+    suggested_layer: 1
+    field_bias: Center
+- bar: 18
+  tension: climax
+  energy: 0.38
+  energy_acc: 0.04
+  pan: -0.02
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 72.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.35
+    stems:
+      drums: 0.15
+      bass: 0.73
+      vocal: 0.32
+      high: 0.23
+    pitch_hz: 80.0
+    pitch_slope: -276.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 73.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.37
+    stems:
+      drums: 0.16
+      bass: 0.57
+      vocal: 0.47
+      high: 0.29
+    pitch_hz: 80.0
+    pitch_slope: -3.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 74.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.39
+    stems:
+      drums: 0.13
+      bass: 0.4
+      vocal: 0.73
+      high: 0.3
+    pitch_hz: 84.2
+    pitch_slope: -0.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 75.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.42
+    stems:
+      drums: 0.41
+      bass: 0.23
+      vocal: 0.48
+      high: 0.7
+    pitch_hz: 93.1
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 19
+  tension: climax
+  energy: 0.45
+  energy_acc: 0.07
+  pan: -0.03
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 76.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.42
+    stems:
+      drums: 0.31
+      bass: 0.42
+      vocal: 0.49
+      high: 0.59
+    pitch_hz: 91.6
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 77.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.44
+    stems:
+      drums: 0.37
+      bass: 0.36
+      vocal: 0.53
+      high: 0.61
+    pitch_hz: 84.2
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 78.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.49
+    stems:
+      drums: 0.38
+      bass: 0.54
+      vocal: 0.5
+      high: 0.74
+    pitch_hz: 84.9
+    pitch_slope: 4.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 79.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.46
+    stems:
+      drums: 0.56
+      bass: 0.34
+      vocal: 0.38
+      high: 0.69
+    pitch_hz: 92.6
+    pitch_slope: -276.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 20
+  tension: building
+  energy: 0.3
+  energy_acc: -0.15
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 80.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.41
+    stems:
+      drums: 0.5
+      bass: 0.16
+      vocal: 0.46
+      high: 0.54
+    pitch_hz: 213.0
+    pitch_slope: 120.7
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 81.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.32
+    stems:
+      drums: 0.44
+      bass: 0.12
+      vocal: 0.32
+      high: 0.44
+    pitch_hz: 147.5
+    pitch_slope: 55.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 82.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.28
+    stems:
+      drums: 0.24
+      bass: 0.04
+      vocal: 0.46
+      high: 0.54
+    pitch_hz: 285.8
+    pitch_slope: 196.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 83.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.06
+      bass: 0.22
+      vocal: 0.32
+      high: 0.25
+    pitch_hz: 85.4
+    pitch_slope: 4.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 21
+  tension: groove
+  energy: 0.14
+  energy_acc: -0.17
+  pan: 0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 84.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.1
+      bass: 0.09
+      vocal: 0.53
+      high: 0.14
+    pitch_hz: 110.3
+    pitch_slope: 1.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 85.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.11
+    stems:
+      drums: 0.14
+      bass: 0.03
+      vocal: 0.05
+      high: 0.45
+    pitch_hz: 93.4
+    pitch_slope: 4.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 86.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.01
+    stems:
+      drums: 0.0
+      bass: 0.01
+      vocal: 0.01
+      high: 0.0
+    pitch_hz: 89.9
+    pitch_slope: 5.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 87.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.2
+    stems:
+      drums: 0.06
+      bass: 0.41
+      vocal: 0.21
+      high: 0.15
+    pitch_hz: 87.2
+    pitch_slope: -6.7
+    suggested_layer: 0
+    field_bias: Center
+- bar: 22
+  tension: climax
+  energy: 0.24
+  energy_acc: 0.1
+  pan: -0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 88.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.17
+      bass: 0.06
+      vocal: 0.36
+      high: 0.3
+    pitch_hz: 546.6
+    pitch_slope: 18.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 89.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.37
+    stems:
+      drums: 0.39
+      bass: 0.44
+      vocal: 0.25
+      high: 0.47
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 90.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.18
+    stems:
+      drums: 0.03
+      bass: 0.09
+      vocal: 0.43
+      high: 0.13
+    pitch_hz: 124.8
+    pitch_slope: -0.4
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 91.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.05
+      bass: 0.41
+      vocal: 0.25
+      high: 0.07
+    pitch_hz: 122.8
+    pitch_slope: 42.8
+    suggested_layer: 2
+    field_bias: Center
+- bar: 23
+  tension: building
+  energy: 0.29
+  energy_acc: 0.05
+  pan: -0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 92.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.33
+    stems:
+      drums: 0.14
+      bass: 0.32
+      vocal: 0.57
+      high: 0.29
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 93.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.3
+    stems:
+      drums: 0.39
+      bass: 0.09
+      vocal: 0.31
+      high: 0.47
+    pitch_hz: 148.7
+    pitch_slope: 1.0
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 94.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.04
+      bass: 0.14
+      vocal: 0.68
+      high: 0.19
+    pitch_hz: 110.9
+    pitch_slope: -27.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 95.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.26
+    stems:
+      drums: 0.05
+      bass: 0.71
+      vocal: 0.16
+      high: 0.09
+    pitch_hz: 114.1
+    pitch_slope: 34.1
+    suggested_layer: 2
+    field_bias: Center
+- bar: 24
+  tension: building
+  energy: 0.3
+  energy_acc: 0.01
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 96.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.31
+    stems:
+      drums: 0.03
+      bass: 0.45
+      vocal: 0.61
+      high: 0.09
+    pitch_hz: 84.0
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 97.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.04
+      bass: 0.31
+      vocal: 0.53
+      high: 0.21
+    pitch_hz: 84.0
+    pitch_slope: 0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 98.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.22
+      bass: 0.4
+      vocal: 0.33
+      high: 0.41
+    pitch_hz: 102.8
+    pitch_slope: 0.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 99.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.29
+    stems:
+      drums: 0.26
+      bass: 0.4
+      vocal: 0.27
+      high: 0.23
+    pitch_hz: 80.0
+    pitch_slope: -11.9
+    suggested_layer: 0
+    field_bias: Center
+- bar: 25
+  tension: building
+  energy: 0.29
+  energy_acc: -0.0
+  pan: 0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 100.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.23
+    stems:
+      drums: 0.07
+      bass: 0.51
+      vocal: 0.2
+      high: 0.14
+    pitch_hz: 80.0
+    pitch_slope: -6.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 101.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.11
+      bass: 0.27
+      vocal: 0.51
+      high: 0.24
+    pitch_hz: 118.1
+    pitch_slope: 2.4
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 102.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.43
+    stems:
+      drums: 0.55
+      bass: 0.5
+      vocal: 0.15
+      high: 0.65
+    pitch_hz: 80.0
+    pitch_slope: -4.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 103.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.24
+    stems:
+      drums: 0.2
+      bass: 0.01
+      vocal: 0.36
+      high: 0.63
+    pitch_hz: 560.0
+    pitch_slope: -0.9
+    suggested_layer: 2
+    field_bias: Center
+- bar: 26
+  tension: groove
+  energy: 0.26
+  energy_acc: -0.04
+  pan: 0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 104.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.32
+      bass: 0.0
+      vocal: 0.52
+      high: 0.55
+    pitch_hz: 524.7
+    pitch_slope: 2.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 105.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.3
+    stems:
+      drums: 0.36
+      bass: 0.02
+      vocal: 0.35
+      high: 0.67
+    pitch_hz: 82.3
+    pitch_slope: -425.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 106.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.25
+    stems:
+      drums: 0.28
+      bass: 0.01
+      vocal: 0.34
+      high: 0.5
+    pitch_hz: 444.2
+    pitch_slope: 10.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 107.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.07
+      bass: 0.0
+      vocal: 0.37
+      high: 0.2
+    pitch_hz: 443.8
+    pitch_slope: 1.2
+    suggested_layer: 2
+    field_bias: Center
+- bar: 27
+  tension: groove
+  energy: 0.21
+  energy_acc: -0.05
+  pan: 0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 108.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.26
+    stems:
+      drums: 0.39
+      bass: 0.06
+      vocal: 0.16
+      high: 0.59
+    pitch_hz: 139.7
+    pitch_slope: 31.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 109.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.24
+    stems:
+      drums: 0.24
+      bass: 0.01
+      vocal: 0.41
+      high: 0.35
+    pitch_hz: 230.2
+    pitch_slope: -7.7
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 110.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.14
+    stems:
+      drums: 0.04
+      bass: 0.09
+      vocal: 0.26
+      high: 0.23
+    pitch_hz: 95.4
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 111.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.09
+      bass: 0.07
+      vocal: 0.44
+      high: 0.16
+    pitch_hz: 124.7
+    pitch_slope: 1.2
+    suggested_layer: 1
+    field_bias: Center
+- bar: 28
+  tension: building
+  energy: 0.26
+  energy_acc: 0.05
+  pan: 0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 112.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.04
+      bass: 0.03
+      vocal: 0.76
+      high: 0.14
+    pitch_hz: 220.7
+    pitch_slope: 1.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 113.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.29
+    stems:
+      drums: 0.16
+      bass: 0.08
+      vocal: 0.58
+      high: 0.37
+    pitch_hz: 247.6
+    pitch_slope: 1.5
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 114.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.15
+      bass: 0.02
+      vocal: 0.51
+      high: 0.15
+    pitch_hz: 239.7
+    pitch_slope: -3.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 115.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.09
+      bass: 0.02
+      vocal: 0.68
+      high: 0.18
+    pitch_hz: 91.3
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 29
+  tension: groove
+  energy: 0.21
+  energy_acc: -0.05
+  pan: 0.03
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 116.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.3
+    stems:
+      drums: 0.25
+      bass: 0.03
+      vocal: 0.53
+      high: 0.44
+    pitch_hz: 413.4
+    pitch_slope: -1.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 117.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.09
+    stems:
+      drums: 0.01
+      bass: 0.02
+      vocal: 0.27
+      high: 0.03
+    pitch_hz: 146.2
+    pitch_slope: 2.2
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 118.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.09
+      bass: 0.0
+      vocal: 0.47
+      high: 0.26
+    pitch_hz: 140.8
+    pitch_slope: 47.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 119.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.24
+    stems:
+      drums: 0.09
+      bass: 0.01
+      vocal: 0.63
+      high: 0.2
+    pitch_hz: 146.8
+    pitch_slope: -0.9
+    suggested_layer: 1
+    field_bias: Center
+- bar: 30
+  tension: groove
+  energy: 0.25
+  energy_acc: 0.04
+  pan: -0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 120.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.04
+      bass: 0.01
+      vocal: 0.76
+      high: 0.19
+    pitch_hz: 220.3
+    pitch_slope: 1.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 121.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.25
+    stems:
+      drums: 0.23
+      bass: 0.05
+      vocal: 0.33
+      high: 0.58
+    pitch_hz: 110.2
+    pitch_slope: 23.1
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 122.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.1
+    stems:
+      drums: 0.02
+      bass: 0.04
+      vocal: 0.25
+      high: 0.03
+    pitch_hz: 124.0
+    pitch_slope: 0.4
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 123.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.39
+    stems:
+      drums: 0.26
+      bass: 0.24
+      vocal: 0.65
+      high: 0.41
+    pitch_hz: 123.6
+    pitch_slope: 40.4
+    suggested_layer: 2
+    field_bias: Center
+- bar: 31
+  tension: groove
+  energy: 0.27
+  energy_acc: 0.02
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 124.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.27
+    stems:
+      drums: 0.23
+      bass: 0.03
+      vocal: 0.4
+      high: 0.55
+    pitch_hz: 221.1
+    pitch_slope: 110.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 125.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.29
+    stems:
+      drums: 0.36
+      bass: 0.12
+      vocal: 0.32
+      high: 0.38
+    pitch_hz: 83.3
+    pitch_slope: -47.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 126.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.12
+      bass: 0.01
+      vocal: 0.3
+      high: 0.31
+    pitch_hz: 181.4
+    pitch_slope: -9.8
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 127.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.36
+    stems:
+      drums: 0.57
+      bass: 0.16
+      vocal: 0.23
+      high: 0.54
+    pitch_hz: 202.2
+    pitch_slope: -3.9
+    suggested_layer: 1
+    field_bias: Center
+- bar: 32
+  tension: climax
+  energy: 0.46
+  energy_acc: 0.19
+  pan: 0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 128.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.43
+    stems:
+      drums: 0.26
+      bass: 0.43
+      vocal: 0.6
+      high: 0.49
+    pitch_hz: 80.0
+    pitch_slope: -0.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 129.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.46
+    stems:
+      drums: 0.66
+      bass: 0.26
+      vocal: 0.3
+      high: 0.72
+    pitch_hz: 109.9
+    pitch_slope: 0.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 130.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.45
+    stems:
+      drums: 0.62
+      bass: 0.14
+      vocal: 0.43
+      high: 0.64
+    pitch_hz: 185.4
+    pitch_slope: -8.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 131.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.5
+    stems:
+      drums: 0.46
+      bass: 0.22
+      vocal: 0.73
+      high: 0.63
+    pitch_hz: 85.8
+    pitch_slope: -488.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 33
+  tension: building
+  energy: 0.33
+  energy_acc: -0.13
+  pan: -0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 132.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.49
+    stems:
+      drums: 0.69
+      bass: 0.4
+      vocal: 0.26
+      high: 0.76
+    pitch_hz: 81.1
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 133.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.29
+    stems:
+      drums: 0.24
+      bass: 0.22
+      vocal: 0.39
+      high: 0.35
+    pitch_hz: 84.0
+    pitch_slope: 2.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 134.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.29
+    stems:
+      drums: 0.1
+      bass: 0.11
+      vocal: 0.67
+      high: 0.23
+    pitch_hz: 252.2
+    pitch_slope: 0.2
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 135.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.14
+      bass: 0.09
+      vocal: 0.45
+      high: 0.29
+    pitch_hz: 330.3
+    pitch_slope: -324.0
+    suggested_layer: 2
+    field_bias: Center
+- bar: 34
+  tension: building
+  energy: 0.28
+  energy_acc: -0.04
+  pan: 0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 136.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.19
+    stems:
+      drums: 0.06
+      bass: 0.12
+      vocal: 0.42
+      high: 0.11
+    pitch_hz: 87.5
+    pitch_slope: -23.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 137.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.3
+    stems:
+      drums: 0.12
+      bass: 0.42
+      vocal: 0.41
+      high: 0.33
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 138.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.28
+    stems:
+      drums: 0.12
+      bass: 0.27
+      vocal: 0.53
+      high: 0.2
+    pitch_hz: 620.1
+    pitch_slope: 530.5
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 139.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.35
+    stems:
+      drums: 0.29
+      bass: 0.3
+      vocal: 0.43
+      high: 0.47
+    pitch_hz: 84.6
+    pitch_slope: 4.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 35
+  tension: building
+  energy: 0.31
+  energy_acc: 0.03
+  pan: 0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 140.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.15
+      bass: 0.23
+      vocal: 0.44
+      high: 0.1
+    pitch_hz: 80.0
+    pitch_slope: -96.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 141.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.32
+    stems:
+      drums: 0.23
+      bass: 0.07
+      vocal: 0.58
+      high: 0.51
+    pitch_hz: 175.6
+    pitch_slope: 95.6
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 142.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.4
+    stems:
+      drums: 0.4
+      bass: 0.25
+      vocal: 0.5
+      high: 0.51
+    pitch_hz: 116.5
+    pitch_slope: -0.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 143.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.27
+    stems:
+      drums: 0.24
+      bass: 0.11
+      vocal: 0.38
+      high: 0.47
+    pitch_hz: 104.4
+    pitch_slope: 20.8
+    suggested_layer: 0
+    field_bias: Center
+- bar: 36
+  tension: groove
+  energy: 0.23
+  energy_acc: -0.08
+  pan: 0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 144.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.03
+    stems:
+      drums: 0.0
+      bass: 0.09
+      vocal: 0.01
+      high: 0.0
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 145.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.35
+    stems:
+      drums: 0.29
+      bass: 0.35
+      vocal: 0.38
+      high: 0.52
+    pitch_hz: 80.9
+    pitch_slope: 0.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 146.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.18
+      bass: 0.09
+      vocal: 0.5
+      high: 0.28
+    pitch_hz: 347.3
+    pitch_slope: -15.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 147.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.08
+      bass: 0.09
+      vocal: 0.64
+      high: 0.24
+    pitch_hz: 81.6
+    pitch_slope: -0.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 37
+  tension: climax
+  energy: 0.36
+  energy_acc: 0.13
+  pan: 0.02
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 148.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.13
+      bass: 0.01
+      vocal: 0.37
+      high: 0.36
+    pitch_hz: 368.1
+    pitch_slope: 284.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 149.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.4
+    stems:
+      drums: 0.15
+      bass: 0.31
+      vocal: 0.76
+      high: 0.39
+    pitch_hz: 91.8
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 150.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.39
+    stems:
+      drums: 0.23
+      bass: 0.36
+      vocal: 0.59
+      high: 0.48
+    pitch_hz: 88.3
+    pitch_slope: 1.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 151.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.46
+    stems:
+      drums: 0.29
+      bass: 0.64
+      vocal: 0.43
+      high: 0.66
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 38
+  tension: climax
+  energy: 0.46
+  energy_acc: 0.1
+  pan: -0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 152.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.44
+    stems:
+      drums: 0.43
+      bass: 0.2
+      vocal: 0.6
+      high: 0.6
+    pitch_hz: 123.3
+    pitch_slope: 1.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 153.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.45
+    stems:
+      drums: 0.49
+      bass: 0.31
+      vocal: 0.46
+      high: 0.57
+    pitch_hz: 97.3
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 154.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.5
+    stems:
+      drums: 0.49
+      bass: 0.28
+      vocal: 0.65
+      high: 0.63
+    pitch_hz: 80.0
+    pitch_slope: -10.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 155.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.45
+    stems:
+      drums: 0.52
+      bass: 0.27
+      vocal: 0.42
+      high: 0.76
+    pitch_hz: 106.9
+    pitch_slope: -253.6
+    suggested_layer: 0
+    field_bias: Center
+- bar: 39
+  tension: building
+  energy: 0.32
+  energy_acc: -0.14
+  pan: 0.03
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 156.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.4
+    stems:
+      drums: 0.52
+      bass: 0.21
+      vocal: 0.25
+      high: 0.83
+    pitch_hz: 84.1
+    pitch_slope: 4.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 157.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.33
+    stems:
+      drums: 0.48
+      bass: 0.11
+      vocal: 0.21
+      high: 0.76
+    pitch_hz: 89.7
+    pitch_slope: -0.4
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 158.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.38
+    stems:
+      drums: 0.16
+      bass: 0.38
+      vocal: 0.64
+      high: 0.38
+    pitch_hz: 85.8
+    pitch_slope: 1.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 159.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.08
+      bass: 0.02
+      vocal: 0.31
+      high: 0.28
+    pitch_hz: 124.1
+    pitch_slope: -61.5
+    suggested_layer: 1
+    field_bias: Center
+- bar: 40
+  tension: building
+  energy: 0.29
+  energy_acc: -0.03
+  pan: -0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 160.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.26
+    stems:
+      drums: 0.09
+      bass: 0.32
+      vocal: 0.43
+      high: 0.21
+    pitch_hz: 93.2
+    pitch_slope: -0.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 161.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.1
+      bass: 0.14
+      vocal: 0.61
+      high: 0.31
+    pitch_hz: 91.9
+    pitch_slope: 0.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 162.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.39
+    stems:
+      drums: 0.31
+      bass: 0.32
+      vocal: 0.42
+      high: 0.78
+    pitch_hz: 92.8
+    pitch_slope: 0.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 163.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.08
+      bass: 0.14
+      vocal: 0.42
+      high: 0.26
+    pitch_hz: 109.6
+    pitch_slope: -9.6
+    suggested_layer: 0
+    field_bias: Center
+- bar: 41
+  tension: building
+  energy: 0.34
+  energy_acc: 0.05
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 164.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.2
+      bass: 0.41
+      vocal: 0.49
+      high: 0.49
+    pitch_hz: 92.2
+    pitch_slope: 3.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 165.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.32
+    stems:
+      drums: 0.2
+      bass: 0.22
+      vocal: 0.5
+      high: 0.41
+    pitch_hz: 81.9
+    pitch_slope: -164.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 166.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.36
+    stems:
+      drums: 0.34
+      bass: 0.3
+      vocal: 0.35
+      high: 0.66
+    pitch_hz: 88.7
+    pitch_slope: -0.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 167.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.3
+    stems:
+      drums: 0.23
+      bass: 0.15
+      vocal: 0.48
+      high: 0.39
+    pitch_hz: 82.4
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 42
+  tension: groove
+  energy: 0.14
+  energy_acc: -0.2
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 168.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.08
+      bass: 0.02
+      vocal: 0.36
+      high: 0.27
+    pitch_hz: 217.4
+    pitch_slope: -1.0
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 169.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.23
+    stems:
+      drums: 0.21
+      bass: 0.23
+      vocal: 0.26
+      high: 0.28
+    pitch_hz: 89.6
+    pitch_slope: -3.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 170.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.01
+    stems:
+      drums: 0.0
+      bass: 0.0
+      vocal: 0.01
+      high: 0.01
+    pitch_hz: 93.4
+    pitch_slope: -0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 171.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.03
+      bass: 0.0
+      vocal: 0.47
+      high: 0.14
+    pitch_hz: 253.9
+    pitch_slope: 0.5
+    suggested_layer: 2
+    field_bias: Center
+- bar: 43
+  tension: building
+  energy: 0.19
+  energy_acc: 0.05
+  pan: 0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 172.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.19
+    stems:
+      drums: 0.06
+      bass: 0.0
+      vocal: 0.48
+      high: 0.24
+    pitch_hz: 275.7
+    pitch_slope: 2.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 173.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.19
+    stems:
+      drums: 0.09
+      bass: 0.0
+      vocal: 0.45
+      high: 0.2
+    pitch_hz: 183.9
+    pitch_slope: 1.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 174.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.07
+      bass: 0.0
+      vocal: 0.4
+      high: 0.25
+    pitch_hz: 254.8
+    pitch_slope: -0.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 175.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.63
+      high: 0.12
+    pitch_hz: 275.5
+    pitch_slope: 0.4
+    suggested_layer: 2
+    field_bias: Center
+- bar: 44
+  tension: groove
+  energy: 0.17
+  energy_acc: -0.02
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 176.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.03
+      bass: 0.0
+      vocal: 0.56
+      high: 0.2
+    pitch_hz: 277.7
+    pitch_slope: -3.0
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 177.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.18
+    stems:
+      drums: 0.3
+      bass: 0.0
+      vocal: 0.16
+      high: 0.23
+    pitch_hz: 247.3
+    pitch_slope: 11.2
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 178.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.22
+    stems:
+      drums: 0.2
+      bass: 0.0
+      vocal: 0.4
+      high: 0.33
+    pitch_hz: 218.3
+    pitch_slope: -0.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 179.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.1
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.27
+      high: 0.08
+    pitch_hz: 222.3
+    pitch_slope: 1.0
+    suggested_layer: 2
+    field_bias: Center
+- bar: 45
+  tension: building
+  energy: 0.24
+  energy_acc: 0.07
+  pan: 0.03
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 180.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.18
+      bass: 0.0
+      vocal: 0.53
+      high: 0.35
+    pitch_hz: 278.0
+    pitch_slope: -0.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 181.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.19
+      bass: 0.0
+      vocal: 0.42
+      high: 0.25
+    pitch_hz: 253.1
+    pitch_slope: 4.0
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 182.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.3
+    stems:
+      drums: 0.47
+      bass: 0.0
+      vocal: 0.25
+      high: 0.61
+    pitch_hz: 278.5
+    pitch_slope: 1.7
+    suggested_layer: 2
+    field_bias: RightWide
+  - beat: 183.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.18
+    stems:
+      drums: 0.21
+      bass: 0.0
+      vocal: 0.25
+      high: 0.3
+    pitch_hz: 249.7
+    pitch_slope: -81.9
+    suggested_layer: 2
+    field_bias: Center
+- bar: 46
+  tension: groove
+  energy: 0.17
+  energy_acc: -0.07
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 184.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.19
+    stems:
+      drums: 0.23
+      bass: 0.0
+      vocal: 0.28
+      high: 0.29
+    pitch_hz: 219.3
+    pitch_slope: 26.7
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 185.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.09
+      bass: 0.0
+      vocal: 0.55
+      high: 0.23
+    pitch_hz: 272.9
+    pitch_slope: 6.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 186.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.14
+    stems:
+      drums: 0.2
+      bass: 0.0
+      vocal: 0.08
+      high: 0.45
+    pitch_hz: 263.0
+    pitch_slope: 163.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 187.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.12
+    stems:
+      drums: 0.15
+      bass: 0.0
+      vocal: 0.07
+      high: 0.43
+    pitch_hz: 99.5
+    pitch_slope: 9.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 47
+  tension: chill
+  energy: 0.11
+  energy_acc: -0.06
+  pan: -0.02
+  narrative: 'Chill intro/break: Relaxed sparse guidance, restoring stamina.'
+  events:
+  - beat: 188.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.11
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.32
+      high: 0.04
+    pitch_hz: 274.7
+    pitch_slope: -3.7
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 189.0
+    beat_in_bar: 1
+    role: HiHatSyncopation
+    energy: 0.04
+    stems:
+      drums: 0.01
+      bass: 0.0
+      vocal: 0.12
+      high: 0.03
+    pitch_hz: 443.9
+    pitch_slope: 226.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 190.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.14
+    stems:
+      drums: 0.2
+      bass: 0.0
+      vocal: 0.08
+      high: 0.46
+    pitch_hz: 95.1
+    pitch_slope: -283.4
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 191.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.13
+    stems:
+      drums: 0.09
+      bass: 0.01
+      vocal: 0.31
+      high: 0.07
+    pitch_hz: 321.4
+    pitch_slope: 28.6
+    suggested_layer: 2
+    field_bias: Center
+- bar: 48
+  tension: climax
+  energy: 0.28
+  energy_acc: 0.17
+  pan: 0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 192.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.19
+      bass: 0.23
+      vocal: 0.35
+      high: 0.44
+    pitch_hz: 81.3
+    pitch_slope: 1.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 193.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.37
+    stems:
+      drums: 0.46
+      bass: 0.46
+      vocal: 0.15
+      high: 0.44
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 194.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.24
+    stems:
+      drums: 0.12
+      bass: 0.23
+      vocal: 0.44
+      high: 0.13
+    pitch_hz: 88.6
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 195.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.09
+      bass: 0.3
+      vocal: 0.35
+      high: 0.05
+    pitch_hz: 80.3
+    pitch_slope: 0.3
+    suggested_layer: 0
+    field_bias: Center
+- bar: 49
+  tension: groove
+  energy: 0.22
+  energy_acc: -0.06
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 196.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.2
+    stems:
+      drums: 0.04
+      bass: 0.3
+      vocal: 0.31
+      high: 0.13
+    pitch_hz: 108.5
+    pitch_slope: 0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 197.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.03
+      bass: 0.33
+      vocal: 0.34
+      high: 0.12
+    pitch_hz: 97.4
+    pitch_slope: -0.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 198.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.18
+    stems:
+      drums: 0.09
+      bass: 0.07
+      vocal: 0.38
+      high: 0.16
+    pitch_hz: 93.1
+    pitch_slope: 0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 199.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.29
+    stems:
+      drums: 0.14
+      bass: 0.43
+      vocal: 0.43
+      high: 0.09
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 50
+  tension: climax
+  energy: 0.36
+  energy_acc: 0.14
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 200.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.29
+    stems:
+      drums: 0.09
+      bass: 0.67
+      vocal: 0.28
+      high: 0.09
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 201.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.31
+    stems:
+      drums: 0.15
+      bass: 0.38
+      vocal: 0.47
+      high: 0.17
+    pitch_hz: 93.6
+    pitch_slope: 6.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 202.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.46
+    stems:
+      drums: 0.47
+      bass: 0.4
+      vocal: 0.45
+      high: 0.65
+    pitch_hz: 82.5
+    pitch_slope: -1.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 203.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.36
+    stems:
+      drums: 0.28
+      bass: 0.48
+      vocal: 0.33
+      high: 0.46
+    pitch_hz: 91.5
+    pitch_slope: -0.8
+    suggested_layer: 0
+    field_bias: Center
+- bar: 51
+  tension: building
+  energy: 0.34
+  energy_acc: -0.02
+  pan: -0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 204.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.27
+      bass: 0.4
+      vocal: 0.29
+      high: 0.41
+    pitch_hz: 89.4
+    pitch_slope: -12.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 205.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.39
+    stems:
+      drums: 0.3
+      bass: 0.56
+      vocal: 0.32
+      high: 0.48
+    pitch_hz: 84.5
+    pitch_slope: 4.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 206.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.53
+      bass: 0.24
+      vocal: 0.25
+      high: 0.49
+    pitch_hz: 103.6
+    pitch_slope: -210.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 207.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.26
+    stems:
+      drums: 0.29
+      bass: 0.16
+      vocal: 0.29
+      high: 0.26
+    pitch_hz: 90.7
+    pitch_slope: -7.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 52
+  tension: groove
+  energy: 0.17
+  energy_acc: -0.17
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 208.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.15
+      bass: 0.12
+      vocal: 0.32
+      high: 0.17
+    pitch_hz: 140.4
+    pitch_slope: 52.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 209.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.15
+    stems:
+      drums: 0.04
+      bass: 0.04
+      vocal: 0.39
+      high: 0.15
+    pitch_hz: 356.6
+    pitch_slope: -88.8
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 210.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.02
+      bass: 0.2
+      vocal: 0.36
+      high: 0.05
+    pitch_hz: 473.1
+    pitch_slope: 393.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 211.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.14
+    stems:
+      drums: 0.03
+      bass: 0.17
+      vocal: 0.28
+      high: 0.06
+    pitch_hz: 98.3
+    pitch_slope: 11.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 53
+  tension: groove
+  energy: 0.18
+  energy_acc: 0.01
+  pan: -0.01
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 212.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.18
+    stems:
+      drums: 0.08
+      bass: 0.03
+      vocal: 0.43
+      high: 0.19
+    pitch_hz: 82.5
+    pitch_slope: -162.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 213.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.06
+      bass: 0.26
+      vocal: 0.42
+      high: 0.1
+    pitch_hz: 800.0
+    pitch_slope: 668.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 214.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.04
+      bass: 0.01
+      vocal: 0.45
+      high: 0.11
+    pitch_hz: 414.7
+    pitch_slope: 310.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 215.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.03
+      bass: 0.01
+      vocal: 0.43
+      high: 0.15
+    pitch_hz: 208.4
+    pitch_slope: 124.7
+    suggested_layer: 2
+    field_bias: Center
+- bar: 54
+  tension: groove
+  energy: 0.17
+  energy_acc: -0.01
+  pan: 0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 216.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.05
+      bass: 0.02
+      vocal: 0.42
+      high: 0.14
+    pitch_hz: 113.9
+    pitch_slope: -120.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 217.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.12
+    stems:
+      drums: 0.03
+      bass: 0.03
+      vocal: 0.3
+      high: 0.13
+    pitch_hz: 154.3
+    pitch_slope: 51.1
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 218.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.07
+      bass: 0.06
+      vocal: 0.53
+      high: 0.32
+    pitch_hz: 90.1
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 219.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.05
+      bass: 0.13
+      vocal: 0.34
+      high: 0.15
+    pitch_hz: 131.8
+    pitch_slope: 1.9
+    suggested_layer: 1
+    field_bias: Center
+- bar: 55
+  tension: groove
+  energy: 0.2
+  energy_acc: 0.03
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 220.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.03
+      bass: 0.04
+      vocal: 0.41
+      high: 0.13
+    pitch_hz: 83.7
+    pitch_slope: -123.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 221.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.15
+      bass: 0.02
+      vocal: 0.62
+      high: 0.32
+    pitch_hz: 130.9
+    pitch_slope: -1.4
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 222.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.2
+    stems:
+      drums: 0.12
+      bass: 0.06
+      vocal: 0.36
+      high: 0.34
+    pitch_hz: 103.9
+    pitch_slope: -49.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 223.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.17
+    stems:
+      drums: 0.06
+      bass: 0.04
+      vocal: 0.39
+      high: 0.19
+    pitch_hz: 88.2
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 56
+  tension: building
+  energy: 0.24
+  energy_acc: 0.04
+  pan: 0.02
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 224.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.14
+    stems:
+      drums: 0.02
+      bass: 0.01
+      vocal: 0.4
+      high: 0.1
+    pitch_hz: 401.0
+    pitch_slope: -12.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 225.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.26
+    stems:
+      drums: 0.13
+      bass: 0.02
+      vocal: 0.57
+      high: 0.41
+    pitch_hz: 264.9
+    pitch_slope: 131.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 226.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.3
+    stems:
+      drums: 0.16
+      bass: 0.02
+      vocal: 0.62
+      high: 0.5
+    pitch_hz: 123.3
+    pitch_slope: -0.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 227.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.28
+    stems:
+      drums: 0.26
+      bass: 0.01
+      vocal: 0.48
+      high: 0.43
+    pitch_hz: 253.0
+    pitch_slope: 9.1
+    suggested_layer: 2
+    field_bias: Center
+- bar: 57
+  tension: climax
+  energy: 0.35
+  energy_acc: 0.1
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 228.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.27
+      bass: 0.01
+      vocal: 0.63
+      high: 0.52
+    pitch_hz: 123.2
+    pitch_slope: -305.1
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 229.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.3
+    stems:
+      drums: 0.35
+      bass: 0.07
+      vocal: 0.37
+      high: 0.56
+    pitch_hz: 103.7
+    pitch_slope: -108.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 230.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.21
+      bass: 0.09
+      vocal: 0.65
+      high: 0.5
+    pitch_hz: 86.8
+    pitch_slope: -0.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 231.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.42
+    stems:
+      drums: 0.35
+      bass: 0.02
+      vocal: 0.73
+      high: 0.7
+    pitch_hz: 264.0
+    pitch_slope: -4.2
+    suggested_layer: 2
+    field_bias: Center
+- bar: 58
+  tension: building
+  energy: 0.29
+  energy_acc: -0.06
+  pan: -0.05
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 232.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.42
+    stems:
+      drums: 0.46
+      bass: 0.01
+      vocal: 0.6
+      high: 0.78
+    pitch_hz: 117.8
+    pitch_slope: -57.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 233.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.39
+    stems:
+      drums: 0.26
+      bass: 0.03
+      vocal: 0.79
+      high: 0.54
+    pitch_hz: 110.2
+    pitch_slope: 0.2
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 234.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.15
+    stems:
+      drums: 0.06
+      bass: 0.0
+      vocal: 0.4
+      high: 0.11
+    pitch_hz: 211.9
+    pitch_slope: 131.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 235.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.2
+    stems:
+      drums: 0.24
+      bass: 0.0
+      vocal: 0.22
+      high: 0.46
+    pitch_hz: 91.9
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: LeftWide
+- bar: 59
+  tension: chill
+  energy: 0.08
+  energy_acc: -0.21
+  pan: 0.08
+  narrative: 'Chill intro/break: Relaxed sparse guidance, restoring stamina.'
+  events:
+  - beat: 236.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.01
+    stems:
+      drums: 0.0
+      bass: 0.0
+      vocal: 0.01
+      high: 0.02
+    pitch_hz: 351.0
+    pitch_slope: 58.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 237.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.13
+    stems:
+      drums: 0.21
+      bass: 0.0
+      vocal: 0.03
+      high: 0.43
+    pitch_hz: 80.6
+    pitch_slope: -210.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 238.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.01
+    stems:
+      drums: 0.0
+      bass: 0.0
+      vocal: 0.04
+      high: 0.03
+    pitch_hz: 176.5
+    pitch_slope: -114.6
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 239.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.18
+    stems:
+      drums: 0.01
+      bass: 0.0
+      vocal: 0.52
+      high: 0.18
+    pitch_hz: 262.0
+    pitch_slope: 2.1
+    suggested_layer: 2
+    field_bias: Center
+- bar: 60
+  tension: climax
+  energy: 0.33
+  energy_acc: 0.25
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 240.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.21
+    stems:
+      drums: 0.04
+      bass: 0.0
+      vocal: 0.61
+      high: 0.15
+    pitch_hz: 494.0
+    pitch_slope: -1.5
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 241.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.27
+    stems:
+      drums: 0.13
+      bass: 0.39
+      vocal: 0.33
+      high: 0.35
+    pitch_hz: 80.2
+    pitch_slope: 0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 242.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.33
+      bass: 0.28
+      vocal: 0.37
+      high: 0.75
+    pitch_hz: 80.0
+    pitch_slope: -2.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 243.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.46
+    stems:
+      drums: 0.61
+      bass: 0.21
+      vocal: 0.35
+      high: 0.91
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 61
+  tension: building
+  energy: 0.31
+  energy_acc: -0.02
+  pan: 0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 244.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.3
+    stems:
+      drums: 0.18
+      bass: 0.1
+      vocal: 0.54
+      high: 0.48
+    pitch_hz: 442.0
+    pitch_slope: 294.5
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 245.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.33
+    stems:
+      drums: 0.13
+      bass: 0.5
+      vocal: 0.42
+      high: 0.33
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 246.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.15
+      bass: 0.53
+      vocal: 0.35
+      high: 0.45
+    pitch_hz: 80.0
+    pitch_slope: -385.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 247.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.28
+    stems:
+      drums: 0.12
+      bass: 0.08
+      vocal: 0.59
+      high: 0.37
+    pitch_hz: 147.3
+    pitch_slope: -0.1
+    suggested_layer: 1
+    field_bias: Center
+- bar: 62
+  tension: building
+  energy: 0.34
+  energy_acc: 0.03
+  pan: -0.03
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 248.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.36
+    stems:
+      drums: 0.29
+      bass: 0.45
+      vocal: 0.36
+      high: 0.44
+    pitch_hz: 86.8
+    pitch_slope: 6.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 249.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.29
+    stems:
+      drums: 0.15
+      bass: 0.28
+      vocal: 0.46
+      high: 0.34
+    pitch_hz: 85.2
+    pitch_slope: 0.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 250.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.33
+    stems:
+      drums: 0.09
+      bass: 0.39
+      vocal: 0.56
+      high: 0.33
+    pitch_hz: 105.1
+    pitch_slope: 0.4
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 251.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.37
+    stems:
+      drums: 0.21
+      bass: 0.42
+      vocal: 0.51
+      high: 0.41
+    pitch_hz: 88.8
+    pitch_slope: 8.8
+    suggested_layer: 0
+    field_bias: Center
+- bar: 63
+  tension: climax
+  energy: 0.4
+  energy_acc: 0.06
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 252.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.35
+      bass: 0.3
+      vocal: 0.25
+      high: 0.48
+    pitch_hz: 87.3
+    pitch_slope: 0.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 253.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.43
+    stems:
+      drums: 0.28
+      bass: 0.43
+      vocal: 0.62
+      high: 0.43
+    pitch_hz: 80.9
+    pitch_slope: -67.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 254.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.39
+    stems:
+      drums: 0.36
+      bass: 0.29
+      vocal: 0.46
+      high: 0.48
+    pitch_hz: 82.9
+    pitch_slope: 0.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 255.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.47
+    stems:
+      drums: 0.41
+      bass: 0.41
+      vocal: 0.43
+      high: 0.91
+    pitch_hz: 80.0
+    pitch_slope: -4.8
+    suggested_layer: 0
+    field_bias: Center
+- bar: 64
+  tension: climax
+  energy: 0.41
+  energy_acc: 0.01
+  pan: -0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 256.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.47
+    stems:
+      drums: 0.58
+      bass: 0.14
+      vocal: 0.53
+      high: 0.72
+    pitch_hz: 800.0
+    pitch_slope: 0.0
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 257.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.47
+    stems:
+      drums: 0.65
+      bass: 0.19
+      vocal: 0.35
+      high: 0.91
+    pitch_hz: 82.6
+    pitch_slope: -0.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 258.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.35
+      bass: 0.09
+      vocal: 0.37
+      high: 0.66
+    pitch_hz: 271.9
+    pitch_slope: 177.5
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 259.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.38
+    stems:
+      drums: 0.14
+      bass: 0.66
+      vocal: 0.4
+      high: 0.39
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+- bar: 65
+  tension: groove
+  energy: 0.22
+  energy_acc: -0.2
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 260.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.1
+      bass: 0.19
+      vocal: 0.39
+      high: 0.25
+    pitch_hz: 88.0
+    pitch_slope: 6.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 261.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.16
+    stems:
+      drums: 0.05
+      bass: 0.09
+      vocal: 0.33
+      high: 0.21
+    pitch_hz: 95.2
+    pitch_slope: -0.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 262.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.11
+      bass: 0.21
+      vocal: 0.33
+      high: 0.26
+    pitch_hz: 98.3
+    pitch_slope: -17.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 263.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.09
+      bass: 0.04
+      vocal: 0.62
+      high: 0.33
+    pitch_hz: 387.6
+    pitch_slope: 1.4
+    suggested_layer: 2
+    field_bias: Center
+- bar: 66
+  tension: building
+  energy: 0.29
+  energy_acc: 0.07
+  pan: -0.0
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 264.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.23
+    stems:
+      drums: 0.07
+      bass: 0.23
+      vocal: 0.39
+      high: 0.28
+    pitch_hz: 89.3
+    pitch_slope: 0.4
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 265.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.26
+    stems:
+      drums: 0.2
+      bass: 0.27
+      vocal: 0.22
+      high: 0.59
+    pitch_hz: 80.0
+    pitch_slope: -16.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 266.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.4
+    stems:
+      drums: 0.33
+      bass: 0.31
+      vocal: 0.49
+      high: 0.57
+    pitch_hz: 80.0
+    pitch_slope: -3.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 267.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.27
+    stems:
+      drums: 0.23
+      bass: 0.08
+      vocal: 0.41
+      high: 0.5
+    pitch_hz: 95.9
+    pitch_slope: -97.2
+    suggested_layer: 0
+    field_bias: Center
+- bar: 67
+  tension: climax
+  energy: 0.4
+  energy_acc: 0.1
+  pan: 0.01
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 268.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.38
+    stems:
+      drums: 0.18
+      bass: 0.41
+      vocal: 0.57
+      high: 0.47
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 269.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.43
+    stems:
+      drums: 0.31
+      bass: 0.31
+      vocal: 0.65
+      high: 0.55
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 270.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.41
+    stems:
+      drums: 0.47
+      bass: 0.37
+      vocal: 0.29
+      high: 0.71
+    pitch_hz: 98.7
+    pitch_slope: 0.3
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 271.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.35
+    stems:
+      drums: 0.15
+      bass: 0.28
+      vocal: 0.64
+      high: 0.34
+    pitch_hz: 82.8
+    pitch_slope: -5.1
+    suggested_layer: 0
+    field_bias: Center
+- bar: 68
+  tension: building
+  energy: 0.32
+  energy_acc: -0.08
+  pan: 0.03
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 272.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.37
+    stems:
+      drums: 0.12
+      bass: 0.56
+      vocal: 0.55
+      high: 0.26
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 273.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.27
+    stems:
+      drums: 0.14
+      bass: 0.35
+      vocal: 0.32
+      high: 0.36
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 274.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.28
+    stems:
+      drums: 0.15
+      bass: 0.29
+      vocal: 0.43
+      high: 0.28
+    pitch_hz: 118.9
+    pitch_slope: 4.0
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 275.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.34
+    stems:
+      drums: 0.24
+      bass: 0.39
+      vocal: 0.37
+      high: 0.47
+    pitch_hz: 91.6
+    pitch_slope: -8.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 69
+  tension: groove
+  energy: 0.2
+  energy_acc: -0.12
+  pan: 0.03
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 276.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.03
+    stems:
+      drums: 0.0
+      bass: 0.0
+      vocal: 0.09
+      high: 0.01
+    pitch_hz: 307.0
+    pitch_slope: 208.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 277.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.34
+    stems:
+      drums: 0.56
+      bass: 0.0
+      vocal: 0.29
+      high: 0.61
+    pitch_hz: 101.0
+    pitch_slope: -2.6
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 278.0
+    beat_in_bar: 2
+    role: HiHatSyncopation
+    energy: 0.03
+    stems:
+      drums: 0.02
+      bass: 0.0
+      vocal: 0.06
+      high: 0.07
+    pitch_hz: 388.2
+    pitch_slope: 206.9
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 279.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.39
+    stems:
+      drums: 0.42
+      bass: 0.29
+      vocal: 0.35
+      high: 0.63
+    pitch_hz: 90.2
+    pitch_slope: -18.4
+    suggested_layer: 0
+    field_bias: Center
+- bar: 70
+  tension: climax
+  energy: 0.34
+  energy_acc: 0.14
+  pan: 0.0
+  narrative: 'Peak chorus/drop: Full-body dance swing, cross-diagonal arcs, high vertical
+    dynamics.'
+  events:
+  - beat: 280.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.32
+    stems:
+      drums: 0.29
+      bass: 0.36
+      vocal: 0.3
+      high: 0.34
+    pitch_hz: 82.0
+    pitch_slope: -64.7
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 281.0
+    beat_in_bar: 1
+    role: BassAnchor
+    energy: 0.28
+    stems:
+      drums: 0.19
+      bass: 0.5
+      vocal: 0.23
+      high: 0.25
+    pitch_hz: 109.6
+    pitch_slope: 3.5
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 282.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.39
+    stems:
+      drums: 0.28
+      bass: 0.54
+      vocal: 0.39
+      high: 0.42
+    pitch_hz: 97.9
+    pitch_slope: -411.9
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 283.0
+    beat_in_bar: 3
+    role: BackbeatSnare
+    energy: 0.36
+    stems:
+      drums: 0.59
+      bass: 0.26
+      vocal: 0.1
+      high: 0.55
+    pitch_hz: 94.3
+    pitch_slope: -23.5
+    suggested_layer: 0
+    field_bias: Center
+- bar: 71
+  tension: groove
+  energy: 0.23
+  energy_acc: -0.11
+  pan: -0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 284.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.34
+    stems:
+      drums: 0.36
+      bass: 0.16
+      vocal: 0.4
+      high: 0.58
+    pitch_hz: 593.3
+    pitch_slope: 12.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 285.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.15
+    stems:
+      drums: 0.12
+      bass: 0.03
+      vocal: 0.25
+      high: 0.22
+    pitch_hz: 552.6
+    pitch_slope: 396.3
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 286.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.3
+    stems:
+      drums: 0.09
+      bass: 0.55
+      vocal: 0.37
+      high: 0.24
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 287.0
+    beat_in_bar: 3
+    role: HiHatSyncopation
+    energy: 0.1
+    stems:
+      drums: 0.01
+      bass: 0.18
+      vocal: 0.17
+      high: 0.05
+    pitch_hz: 117.8
+    pitch_slope: -2.5
+    suggested_layer: 1
+    field_bias: Center
+- bar: 72
+  tension: groove
+  energy: 0.22
+  energy_acc: -0.01
+  pan: -0.02
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 288.0
+    beat_in_bar: 0
+    role: VocalSyllable
+    energy: 0.25
+    stems:
+      drums: 0.06
+      bass: 0.19
+      vocal: 0.55
+      high: 0.21
+    pitch_hz: 622.6
+    pitch_slope: -1.4
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 289.0
+    beat_in_bar: 1
+    role: VocalSyllable
+    energy: 0.28
+    stems:
+      drums: 0.07
+      bass: 0.18
+      vocal: 0.58
+      high: 0.34
+    pitch_hz: 88.8
+    pitch_slope: -0.1
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 290.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.19
+    stems:
+      drums: 0.01
+      bass: 0.11
+      vocal: 0.44
+      high: 0.22
+    pitch_hz: 117.2
+    pitch_slope: -470.1
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 291.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.15
+    stems:
+      drums: 0.02
+      bass: 0.34
+      vocal: 0.18
+      high: 0.09
+    pitch_hz: 104.2
+    pitch_slope: 3.9
+    suggested_layer: 0
+    field_bias: Center
+- bar: 73
+  tension: groove
+  energy: 0.22
+  energy_acc: 0.0
+  pan: 0.0
+  narrative: 'Rhythmic verse groove: Alternating kick/bass foundation with vocal melodic
+    accents.'
+  events:
+  - beat: 292.0
+    beat_in_bar: 0
+    role: HiHatSyncopation
+    energy: 0.08
+    stems:
+      drums: 0.02
+      bass: 0.14
+      vocal: 0.11
+      high: 0.06
+    pitch_hz: 80.0
+    pitch_slope: 0.0
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 293.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.34
+    stems:
+      drums: 0.29
+      bass: 0.07
+      vocal: 0.6
+      high: 0.43
+    pitch_hz: 130.7
+    pitch_slope: 0.5
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 294.0
+    beat_in_bar: 2
+    role: DownbeatKick
+    energy: 0.26
+    stems:
+      drums: 0.2
+      bass: 0.35
+      vocal: 0.23
+      high: 0.32
+    pitch_hz: 81.2
+    pitch_slope: 1.2
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 295.0
+    beat_in_bar: 3
+    role: BassAnchor
+    energy: 0.2
+    stems:
+      drums: 0.04
+      bass: 0.42
+      vocal: 0.22
+      high: 0.16
+    pitch_hz: 80.3
+    pitch_slope: 0.3
+    suggested_layer: 0
+    field_bias: Center
+- bar: 74
+  tension: building
+  energy: 0.29
+  energy_acc: 0.07
+  pan: -0.01
+  narrative: 'Building tension: Accelerating rhythm, active vocal pitch tracing, rising
+    elevation.'
+  events:
+  - beat: 296.0
+    beat_in_bar: 0
+    role: DownbeatKick
+    energy: 0.4
+    stems:
+      drums: 0.33
+      bass: 0.24
+      vocal: 0.6
+      high: 0.43
+    pitch_hz: 579.7
+    pitch_slope: 499.7
+    suggested_layer: 2
+    field_bias: Center
+  - beat: 297.0
+    beat_in_bar: 1
+    role: BackbeatSnare
+    energy: 0.28
+    stems:
+      drums: 0.11
+      bass: 0.44
+      vocal: 0.32
+      high: 0.35
+    pitch_hz: 80.0
+    pitch_slope: -6.8
+    suggested_layer: 0
+    field_bias: Center
+  - beat: 298.0
+    beat_in_bar: 2
+    role: VocalSyllable
+    energy: 0.22
+    stems:
+      drums: 0.17
+      bass: 0.06
+      vocal: 0.44
+      high: 0.16
+    pitch_hz: 131.6
+    pitch_slope: 0.2
+    suggested_layer: 1
+    field_bias: Center
+  - beat: 299.0
+    beat_in_bar: 3
+    role: VocalSyllable
+    energy: 0.26
+    stems:
+      drums: 0.07
+      bass: 0.0
+      vocal: 0.74
+      high: 0.16
+    pitch_hz: 489.5
+    pitch_slope: 17.7
+    suggested_layer: 2
+    field_bias: Center
